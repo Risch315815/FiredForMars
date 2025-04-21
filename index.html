@@ -15,18 +15,42 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link href="assets/css/theme.min.css" rel="stylesheet">
     <link href="assets/css/user.min.css" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
 </head>
 
 <body class="overflow-hidden-x">
 
     <!-- Main Content -->
     <main class="main min-vh-100" id="top">
+        <!-- Navigation -->
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3 backdrop" data-navbar-on-scroll="data-navbar-on-scroll">
+            <div class="container">
+                <a class="navbar-brand d-flex align-items-center fw-bold fs-2" href="index.html">
+                    <span class="text-primary">Fired</span>
+                    <span class="text-dark">For</span>
+                    <span class="text-danger">Mars</span>
+                </a>
+                <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto pt-2 pt-lg-0">
+                        <li class="nav-item"><a class="nav-link fw-medium active" href="index.html">Home</a></li>
+                        <li class="nav-item"><a class="nav-link fw-medium" href="chapter1.html">Chapter 1</a></li>
+                        <li class="nav-item"><a class="nav-link fw-medium" href="chapter2.html">Chapter 2</a></li>
+                        <li class="nav-item"><a class="nav-link fw-medium" href="chapter3.html">Chapter 3</a></li>
+                        <li class="nav-item"><a class="nav-link fw-medium" href="chapter4.html">Chapter 4</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
 
         <!-- <section> begin -->
         <section class="py-0">
             <div class="container-fluid">
+                <!-- Intro section -->
                 <div class="row h-100 border-bottom">
-                    <div class="col-lg-6 px-0 order-lg-2" data-zanim-lg='{"animation":"slide-left","delay":0.4}'>
+                    <div class="col-lg-6 px-0 order-lg-0" data-zanim-lg='{"animation":"slide-left","delay":0.4}'>
                         <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}'>
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide min-vh-lg-100 py-9">
@@ -39,7 +63,7 @@
                         <div class="row flex-center h-100">
                             <div class="col-lg-10 text-black text-center text-lg-start" data-zanim-timeline="{}">
                                 <div class="overflow-hidden">
-                                    <h4 class="text-uppercase fw-normal ls text-white bg-dark p-1 rounded d-inline-block" data-zanim-xs='{"delay":0.1}'>Mission to Mars</h4>
+                                    <h4 class="text-uppercase fw-normal ls text-white bg-dark p-1 rounded d-inline-block" data-zanim-xs='{"delay":0.1}'>Novel Set on Mars</h4>
                                 </div>
                                 <div class="overflow-hidden">
                                     <h1 class="display-3 fs-5 fs-sm-6" id="sc" data-zanim-xs='{"delay":0.2}'>
@@ -50,9 +74,9 @@
                                 </div>
                                 <div class="overflow-hidden">
                                     <p class="text-900 fs-0 mt-3 mt-md-5" data-zanim-xs='{"delay":0.3}'>
-                                        Our journey to the red planet begins here.<br>
-                                        Join us as we explore the fascinating world of Mars exploration.<br>
-                                        From rovers to habitat designs, discover the future of humanity among the stars.
+                                        A dystopian story about life in a Mars colony<br>
+                                        where surveillance and control rule everyday existence.<br>
+                                        Follow our characters as they navigate this hostile new world.
                                     </p>
                                 </div>
                             </div>
@@ -60,12 +84,13 @@
                     </div>
                 </div>
                 
+                <!-- Chapter 1: The Fight for Serenity -->
                 <div class="row h-100 border-bottom">
-                    <div class="col-lg-6 px-0 order-lg-0" data-zanim-lg='{"animation":"slide-left","delay":0.4}'>
+                    <div class="col-lg-6 px-0 order-lg-2" data-zanim-lg='{"animation":"slide-left","delay":0.4}'>
                         <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}'>
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide min-vh-lg-100 py-9">
-                                    <div class="bg-holder" style="background-image:url(assets/img/mars-rover.jpg);"></div>
+                                    <div class="bg-holder" style="background-image:url(assets/img/chapter1.jpg);"></div>
                                 </div>
                             </div>
                         </div>
@@ -75,19 +100,17 @@
                             <div class="col-lg-10 text-black text-center text-lg-start" data-zanim-timeline="{}">
                                 <div class="overflow-hidden">
                                     <h3 class="display-3 fs-3 fs-sm-4" id="sc" data-zanim-xs='{"delay":0.3}'>
-                                        The<span class="fw-light"> Rovers</span>
+                                        Chapter 1:<span class="fw-light"> The Fight for Serenity</span>
                                     </h3>
                                 </div>
                                 <div class="overflow-hidden">
                                     <p class="text-900 fs-0 mt-3 mt-md-5" data-zanim-xs='{"delay":0.4}'>
-                                        Our robotic explorers have been paving the way for human exploration.<br>
-                                        From Sojourner to Perseverance, each rover has expanded our understanding<br>
-                                        of the Martian landscape and its potential for human habitation.
+                                        "The hallway was quiet in the way only Mars could be—pressurized stillness,<br>
+                                        the faint hiss of climate regulators, the muffled rotation of surveillance cameras."<br>
+                                        Meet Brendan and Changan as tensions rise between neighbors.
                                     </p>
                                     <p class="text-900 fs-0 mt-3 mt-md-5" data-zanim-xs='{"delay":0.6}'>
-                                        <a href="#rovers">Learn about Mars rovers</a><br>
-                                        <a href="#discoveries">Key discoveries</a><br>
-                                        <a href="#future">Future missions</a>
+                                        <a href="chapter1.html">Read Chapter</a>
                                     </p>
                                 </div>
                             </div>
@@ -95,47 +118,47 @@
                     </div>
                 </div>
                 
+                <!-- Chapter 2: The Wrong Ears -->
                 <div class="row h-100 border-bottom">
+                    <div class="col-lg-6 px-0 order-lg-0" data-zanim-lg='{"animation":"slide-left","delay":0.4}' data-zanim-trigger="scroll">
+                        <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}' data-zanim-trigger="scroll">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide min-vh-lg-100 py-9">
+                                    <div class="bg-holder" style="background-image:url(assets/img/chapter2.jpg);"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-lg-6 bg-white py-7 py-md-8">
                         <div class="row flex-center h-100">
                             <div class="col-lg-10 text-black text-center text-lg-start" data-zanim-timeline="{}" data-zanim-trigger="scroll">
                                 <div class="overflow-hidden">
                                     <h3 class="display-3 fs-3 fs-sm-4" id="sc" data-zanim-xs='{"delay":0.3}'>
-                                        Human<span class="fw-light"> Habitation</span>
+                                        Chapter 2:<span class="fw-light"> The Wrong Ears</span>
                                     </h3>
                                 </div>
                                 <div class="overflow-hidden">
                                     <p class="text-900 fs-0 mt-3 mt-md-5" data-zanim-xs='{"delay":0.4}'>
-                                        The challenges of living on Mars are numerous,<br>
-                                        but the potential rewards are immense.<br>
-                                        Explore our designs for sustainable Martian habitats.
+                                        "By morning, Changan's ears were in agony.<br>
+                                        The screen strain gave him blurring migraines.<br>
+                                        The earphones pressed too deep, slicing at already-sensitive cartilage."
                                     </p>
                                     <p class="text-900 fs-0 mt-3 mt-md-5" data-zanim-xs='{"delay":0.6}'>
-                                        <a href="#habitats">Habitat designs</a><br>
-                                        <a href="#challenges">Environmental challenges</a><br>
-                                        <a href="#solutions">Engineering solutions</a>
+                                        <a href="chapter2.html">Read Chapter</a>
                                     </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 px-0 order-lg-2" data-zanim-lg='{"animation":"slide-left","delay":0.4}' data-zanim-trigger="scroll">
-                        <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}' data-zanim-trigger="scroll">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide min-vh-lg-100 py-9">
-                                    <div class="bg-holder" style="background-image:url(assets/img/mars-habitat.jpg);"></div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
 
+                <!-- Chapter 3: The Leash -->
                 <div class="row h-100 border-bottom">
-                    <div class="col-lg-6 px-0 order-lg-0" data-zanim-lg='{"animation":"slide-left","delay":0.4}' data-zanim-trigger="scroll">
+                    <div class="col-lg-6 px-0 order-lg-2" data-zanim-lg='{"animation":"slide-left","delay":0.4}' data-zanim-trigger="scroll">
                         <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}' data-zanim-trigger="scroll">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide min-vh-lg-100 py-9">
-                                    <div class="bg-holder" style="background-image:url(assets/img/mars-rocket.jpg);"></div>
+                                    <div class="bg-holder" style="background-image:url(assets/img/chapter3.jpg);"></div>
                                 </div>
                             </div>
                         </div>
@@ -145,25 +168,160 @@
                             <div class="col-lg-10 text-black text-center text-lg-start" data-zanim-timeline="{}" data-zanim-trigger="scroll">
                                 <div class="overflow-hidden">
                                     <h3 class="display-3 fs-3 fs-sm-4" id="sc" data-zanim-xs='{"delay":0.3}'>
-                                        Journey<span class="fw-light"> to Mars</span>
+                                        Chapter 3:<span class="fw-light"> The Leash</span>
                                     </h3>
                                 </div>
                                 <div class="overflow-hidden">
                                     <p class="text-900 fs-0 mt-3 mt-md-5" data-zanim-xs='{"delay":0.4}'>
-                                        The voyage to Mars presents unprecedented challenges.<br>
-                                        Learn about the spacecraft and technologies that will<br>
-                                        carry the first humans to the red planet.
+                                        "It was 23:28 on Earth. The exhaust fan wheezed like it was dying.<br>
+                                        The room stank of synthetic tar and shared silence."<br>
+                                        A cautionary tale unfolds back on Earth.
                                     </p>
                                     <p class="text-900 fs-0 mt-3 mt-md-5" data-zanim-xs='{"delay":0.6}'>
-                                        <a href="#spacecraft">Spacecraft design</a><br>
-                                        <a href="#propulsion">Propulsion systems</a><br>
-                                        <a href="#transit">Transit considerations</a>
+                                        <a href="chapter3.html">Read Chapter</a>
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>    
                 </div>
+                
+                <!-- Chapter 4: Power, and How to Lose It -->
+                <div class="row h-100 border-bottom">
+                    <div class="col-lg-6 px-0 order-lg-0" data-zanim-lg='{"animation":"slide-left","delay":0.4}' data-zanim-trigger="scroll">
+                        <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}' data-zanim-trigger="scroll">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide min-vh-lg-100 py-9">
+                                    <div class="bg-holder" style="background-image:url(assets/img/chapter4.jpg);"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 bg-white py-7 py-md-8">
+                        <div class="row flex-center h-100">
+                            <div class="col-lg-10 text-black text-center text-lg-start" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                                <div class="overflow-hidden">
+                                    <h3 class="display-3 fs-3 fs-sm-4" id="sc" data-zanim-xs='{"delay":0.3}'>
+                                        Chapter 4:<span class="fw-light"> Power, and How to Lose It</span>
+                                    </h3>
+                                </div>
+                                <div class="overflow-hidden">
+                                    <p class="text-900 fs-0 mt-3 mt-md-5" data-zanim-xs='{"delay":0.4}'>
+                                        "The meeting room was small, but there were three cameras.<br>
+                                        On the projection screen were the colony metrics for the week.<br>
+                                        Blue for acceptable. Red for failure. Yellow for… review."
+                                    </p>
+                                    <p class="text-900 fs-0 mt-3 mt-md-5" data-zanim-xs='{"delay":0.6}'>
+                                        <a href="chapter4.html">Read Chapter</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Chapter 5 -->
+                <div class="row h-100 border-bottom">
+                    <div class="col-lg-6 px-0 order-lg-2" data-zanim-lg='{"animation":"slide-left","delay":0.4}' data-zanim-trigger="scroll">
+                        <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}' data-zanim-trigger="scroll">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide min-vh-lg-100 py-9">
+                                    <div class="bg-holder" style="background-image:url(assets/img/chapter5.jpg);"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 bg-white py-7 py-md-8">
+                        <div class="row flex-center h-100">
+                            <div class="col-lg-10 text-black text-center text-lg-start" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                                <div class="overflow-hidden">
+                                    <h3 class="display-3 fs-3 fs-sm-4" id="sc" data-zanim-xs='{"delay":0.3}'>
+                                        Chapter 5:<span class="fw-light"> Welcome Committee</span>
+                                    </h3>
+                                </div>
+                                <div class="overflow-hidden">
+                                    <p class="text-900 fs-0 mt-3 mt-md-5" data-zanim-xs='{"delay":0.4}'>
+                                        The story continues as our characters face new challenges<br>
+                                        in the Mars colony's oppressive atmosphere.<br>
+                                        What will the consequences of their actions be?
+                                    </p>
+                                    <p class="text-900 fs-0 mt-3 mt-md-5" data-zanim-xs='{"delay":0.6}'>
+                                        <a href="#">Coming Soon</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Chapter 6 -->
+                <div class="row h-100 border-bottom">
+                    <div class="col-lg-6 px-0 order-lg-0" data-zanim-lg='{"animation":"slide-left","delay":0.4}' data-zanim-trigger="scroll">
+                        <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}' data-zanim-trigger="scroll">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide min-vh-lg-100 py-9">
+                                    <div class="bg-holder" style="background-image:url(assets/img/chapter6.jpg);"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 bg-white py-7 py-md-8">
+                        <div class="row flex-center h-100">
+                            <div class="col-lg-10 text-black text-center text-lg-start" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                                <div class="overflow-hidden">
+                                    <h3 class="display-3 fs-3 fs-sm-4" id="sc" data-zanim-xs='{"delay":0.3}'>
+                                        Chapter 6:<span class="fw-light"> Uplift, Overheat</span>
+                                    </h3>
+                                </div>
+                                <div class="overflow-hidden">
+                                    <p class="text-900 fs-0 mt-3 mt-md-5" data-zanim-xs='{"delay":0.4}'>
+                                        The tension builds as the story reaches its climax.<br>
+                                        Will our protagonists find a way to survive<br>
+                                        or will the system crush their resistance?
+                                    </p>
+                                    <p class="text-900 fs-0 mt-3 mt-md-5" data-zanim-xs='{"delay":0.6}'>
+                                        <a href="#">Coming Soon</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Chapter 7 -->
+                <div class="row h-100 border-bottom">
+                    <div class="col-lg-6 px-0 order-lg-2" data-zanim-lg='{"animation":"slide-left","delay":0.4}' data-zanim-trigger="scroll">
+                        <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}' data-zanim-trigger="scroll">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide min-vh-lg-100 py-9">
+                                    <div class="bg-holder" style="background-image:url(assets/img/chapter7.jpg);"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 bg-white py-7 py-md-8">
+                        <div class="row flex-center h-100">
+                            <div class="col-lg-10 text-black text-center text-lg-start" data-zanim-timeline="{}" data-zanim-trigger="scroll">
+                                <div class="overflow-hidden">
+                                    <h3 class="display-3 fs-3 fs-sm-4" id="sc" data-zanim-xs='{"delay":0.3}'>
+                                        Chapter 7:<span class="fw-light"> The Long Thread</span>
+                                    </h3>
+                                </div>
+                                <div class="overflow-hidden">
+                                    <p class="text-900 fs-0 mt-3 mt-md-5" data-zanim-xs='{"delay":0.4}'>
+                                        The concluding chapter of our dystopian Mars story.<br>
+                                        What fate awaits those who dare to challenge<br>
+                                        the carefully constructed reality of the colony?
+                                    </p>
+                                    <p class="text-900 fs-0 mt-3 mt-md-5" data-zanim-xs='{"delay":0.6}'>
+                                        <a href="#">Coming Soon</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
         </section>
         <!-- <section> close -->

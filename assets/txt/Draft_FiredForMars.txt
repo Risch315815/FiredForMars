@@ -1,0 +1,1940 @@
+
+--------------------------------------------------------------------------
+@ backstory
+
+----------------
+🧱 GOVERNMENT STRUCTURE: Unified Empire with Regional Factionalism
+
+You're right to be cautious about juggling too many moving parts—but we can balance depth and manageability with this setup:
+
+---
+🌐 The Terran Authority (TA)
+
+A unified world government in name only. Formed after Earth’s economic collapse during the resource crisis. The Authority oversees:
+
+    Global energy, digital infrastructure, and planetary expansion (including Mars).
+
+    "Meritocratic Management Zones" (MMZs): regions governed by elite appointees.
+
+    Public-facing identity is: “One Earth. One Vision.”
+
+But…
+True power lies in factions within the Authority: old-state remnants, megacorp dynasties, and family-based technocracies. These function like houses in a feudal empire, jostling for control under a unified aesthetic.
+
+    Think of it like a polite civil war in suits and stock portfolios—everyone calls it “unity,” but knives are always under the table.
+
+---
+🔻 Why Mars Exists (True Purpose)
+
+Your logic is tight. Here’s how to structure it for narrative clarity:
+❗ Facade of Prosperity
+
+    Propaganda: “Mars is the future of computing and economic expansion.”
+
+    Reality: 1/10th Earth’s output. Transport costs and volatile soil chemistry make it barely viable.
+
+🧺 Population Pressure Valve
+
+    Earth’s welfare systems have collapsed. Too many people, not enough resources.
+
+    Mars jobs are marketed as "clean, tech-adjacent stability roles"—but it’s just low-wage labor in hazardous zones.
+
+    Those sent to Mars often vanish from records entirely, legally or otherwise.
+
+👁️ Social Control via Exile
+
+    Activists, intellectuals, or those too competent and ideologically inconvenient are reassigned to Mars.
+
+    Loyalty is measured by how well you pretend everything’s fine.
+
+    “You’re doing so well, we’re giving you a directorial post on Mars.”
+    Translation: You’re a threat. And expendable.
+
+-------------------------
+💻 COMPUTATIONAL CRISIS
+
+Shortage of rare-earth elements => shortage of high-end computing => total information bottleneck.
+Government Response:
+
+    Low-power algorithmic frameworks: Cheap to run, mediocre output, heavily censored and sanitized.
+
+    Controlled AIs (like “DeepSeek”) that simulate access to high-tech without the actual power behind them.
+
+    Citizen Access Quotas: Only top performers get priority computing time. Everyone else? You wait. Or you obey to “earn” more cycles.
+
+---------------------------------
+🌎 Geopolitics: One System, Many Heads
+
+To keep complexity manageable but intrigue high:
+
+    The Terran Authority is the main government—what people see.
+
+    Behind it are factions, each with their own agenda. You could design 3–5 core ones and hint at more.
+
+        House Sarven: Old Asian corporate-dynasty that controls logistics and transport.
+
+        The Helion Bloc: A defense-sector alliance embedded in Mars governance.
+
+        The Promethean Circle: A shadowy AI research body that manipulates policy indirectly.
+
+        Bureau 6: Internal surveillance and compliance enforcement—terrifyingly neutral, unaligned, and everywhere.
+
+    This gives your characters room to maneuver, be manipulated, or pit factions against one another.
+
+Would you like me to draw up a faction chart?
+
+-------------------------------------
+🎭 Cultural Condition: “Entertained to Death”
+
+    Panem et Circenses, 2.0.
+
+    Cheap dopamine: endless low-power content streams, drama cycles, and AI-curated personal “morality games.”
+
+    Gamified obedience: earn higher rations, social visibility, or computing privileges through loyalty performance.
+
+    The middle class: desperate to rise, terrified to speak out, willing to report anyone for a taste of stability.
+
+This cultural atmosphere makes any emotional vulnerability an act of rebellion. Which makes your two main characters’ slow intimacy revolutionary in its own quiet way.
+
+---------------
+Subtextual World of Communication
+Hidden Meaning as Survival Skill
+
+Core Theme: “Say what you don’t mean. Mean what you don’t say.”
+
+    In the culture of Martian bureaucracy, what isn’t said is more important than what is.
+
+    Failure to navigate this subtext can be fatal, or at least politically ruinous.
+
+    🔸 Changan Wang (長安 王)
+    Despite his cultural background steeped in indirectness and context, he struggles with strategic subtext in his second language (Interlingua or Standard Martian Creole?)—he's emotionally reactive, sharp-tongued, too exhausted to finesse.
+
+    🔹 Brendan Hertz
+    Midwestern upbringing. Kansas, where “honesty is courtesy.” Yet, to his own surprise, he’s excellent at parsing the unspoken. He learned it on Earth—not out of culture, but out of necessity in the scientific-political minefields.
+
+This reversal is golden. Let’s keep it: it undercuts expectations and offers both dramatic irony and layered character growth.
+
+--------------------
+🪓 “Prisonless” Oppression System
+
+There is no prison. Mars is the prison. The colony is:
+
+    Unforgiving and weaponized by design. Accidents can be orchestrated. Warnings are quiet.
+
+    Populated by men with no history. Singles. No one back home to ask questions.
+
+Death is easy. Reporting wrongthink is profitable. There are no heroes. Only survivors.
+
+
+----------------------
+📉 Citizen Access Quota: Anecdote
+
+    Case File: SynThread Media Collapse (Earth, 2134)
+    SynThread was an AI-content company attempting to compete with the government-affiliated StreamWave.
+    Before confirming sufficient computational quota, they began a backend upgrade.
+    Days later, government revoked their top-tier cycles—citing “behavioral nonalignment” of an employee who had once posted a sarcastic meme about the Mars mission.
+    Desperate, the company bought state-issued algorithm bonds (a glorified bribe system) at high interest to regain access.
+    The founder took a private loan to cover costs. That loan came from an off-books shell group linked to a data-siphoning cartel.
+    When the cartel demanded collateral access to SynThread’s active servers, SynThread defaulted. Bankruptcy within 72 hours.
+    Lesson learned: Computing is no longer a resource. It is a leash.
+
+
+---------------------------------
+📺 Changan Wang (長安 王)
+
+Title: Director of Media and Emotional Wellbeing
+Dept: Martian Psychological Stability & Communications
+Duties:
+
+    Filters, schedules, and censors entertainment content for the colony.
+
+    Oversees civilian mood monitoring via AI interfaces, indirect surveillance of chats/posts.
+
+    Staffed poorly; works long hours under surveillance.
+
+    His personal space is the only place he isn’t performing loyalty.
+
+Narrative Function:
+
+    Though witty and sarcastic, he's been trained to never lose his cool. He debates like a fencer—until someone touches a scar.
+
+    He’s not rebellious in the revolutionary sense—but he knows the game is broken, and plays it better than most.
+
+----------------------------------
+🔹Brendan Hertz
+
+Title: Senior Power Allocation Officer
+Dept: Infrastructure & Resource Flow Control
+Duties:
+
+    Controls Martian colony’s electricity budget.
+
+    Balances usage between vital systems (life support, research) and non-vitals (entertainment, comfort).
+
+    Each department submits requests or auto-prioritized schedules; Brendan's team adjusts them according to colony goals.
+
+Narrative Function:
+
+    He has bureaucratic leverage over Changan: if power is low, entertainment gets cut first.
+
+    Publicly calm, polite. Privately frustrated that “non-essential” departments like Changan’s get away with chaos.
+
+    Also: he’s been under pressure to quietly sabotage morale-boosting projects to trigger unrest—potentially creating pretexts for “corrective action.” He hasn’t done it… but someone thinks he should.
+
+
+
+-----------------------------------------------
+@ idea1
+
+- first of all, I like the idea that there is a hidden meaning behind every spoken word, so you have to read between the lines.
+it would be subversive that Changan is not good at it although his mother tongue Mandarine is a language heavy on context, while Brendan is way better at it, although he grew up in Kensas, where everyone say what they think.
+
+- second, there doesn't have to be a prison on Mars. If someone misbehave, it's so easy to take a person's life: a fake malnutrition, work place accident (crushed by heavy machinery), wandering into an unheated area, oxygen pipeline malfunction. The colony can be a huge death trap with someone pulling the trigger in the dark. That is why the government like to hire singles male with no background. After witnessing things, everyone stay silent and meek.
+
+--------------------------------
+
+Citizen Access Quotas: Only top performers get priority computing time. Everyone else? You wait. Or you obey to “earn” more cycles.
+--> lets make this clear from an anecdote: (on Earth) an AI-based service company made the wrong decision of upgrading their infrastructure before confirming that they will have enough cycles. They didn't because of the anti-government statement by one of its employees earlier. The company had been low on cash, and now they have to get more computational quota by buying bonds issued by the government (just a way for the government to collect money) to maintain the quality of the service. The boss made a terrible mistake of going to a loan shark, and the company ended up bankrupt. That is the reason why its rival company is celebrating.
+
+---------------------------------
+
+By the way, I would like to play some subversion of expectation:
+- what if we let the Asian character (Changan(長安) Wang) be the more rebellious (within the range of workplace politics) of the two, but he was signed to being the department of the entertainment department, whose duties include: providing entertainment within the firewall of Martian internet (providing which content to provide while others are waiting for him to choose the "inappropriate" content so they can destroy him); going through chats with AI interface or soical media posts that might signal unrest (leading a terribly under-staffed team, so his load is heavy).
+
+He is always stressed, and have to take his work home to finish it; however, he hates wearing headphones, so when he is at home he just plays it out loud. Little did ne know, he is living next door to Brendan Hertz (Caucasian), who hates noise (but the wall is thin so he hears everything), who is the more preserved one between them 2. He put up with it for a really long time, until he finally couldn't take it, and after considering how to express it without hurting Changan's feelings, he brought a precious gift and visited Changan, and tried to do a polite notice. While he thought he had the right to ask for silence, Changan insist he had the right to merely not wear headphone in his apartment. It was a bad day for both of them, so when stress is mixed with ego and entitlement, their voices raised. Brendan was a man of science, and he secretly feel superior because he sees Changan as merely an entertainer. After Brendan pronunced Changan's name as "Chan-gan"(insinuating gang?), his bad memories of being discriminated for being Asian emerged, so he kicked Brendan out of his room.
+
+That is their conflict due to scarcity of resource: serenity.
+
+------------------------------------------------------------------------------------------------------------------------------------
+@ chapter1 ver1
+
+The hallway was quiet in the way only Mars could be—pressurized stillness, the faint hiss of climate regulators, the muffled footfalls of surveillance drones gliding past. Apartment Unit 3E‑7 flickered dimly with occupancy lights, its neighbor—3E‑8—vibrating, just barely, with the sound of another late-night review log playing through unfiltered speakers.
+
+Brendan stood outside the door, shoulders square, holding a vacuum-sealed packet of real Earth-grown tea in one hand.
+
+He'd rehearsed three versions of this conversation. He didn't like any of them. But the buffering lights in his own unit pulsed to the rhythm of someone else's content audits, and he’d already let it go too long.
+
+He exhaled and knocked, twice—brisk, professional.
+
+It took a full thirty seconds for the door to open.
+
+Changan appeared, his shirt half-buttoned, collar wilted, the corner of his mouth still taut from whatever line he’d just finished reading. His eyes locked onto the tea first. Then Brendan’s face.
+
+    “Officer Hertz,” Changan said. His voice had the smooth, edged neutrality of a man who knew every word could be archived.
+
+    “Director Wang,” Brendan returned, equally clipped. “Apologies for the late hour.”
+
+A pause.
+
+Brendan held out the tea. (--> the tea should be properly wrapped up)
+
+    “I had an extra. Figured you might appreciate something with… depth.” (--> what is the hidden meaning behind this sentence?)
+
+Changan took it, expression unreadable. He didn’t move aside. (--> experienced bureaucrats should be wearing smiles, albeit fake ones)
+
+    “Generous,” he said. “But I’m still within audio limits for private quarters. Or have the guidelines changed again?” (--> Changan should be more rhetoric when refusing access uaing the regulation as an excuse)
+
+Brendan hesitated. Not a good start.
+
+    “No changes,” he said. “I only came to ask—quietly—that perhaps you limit playback after midnight. The walls here aren’t—” (--> should be way less direct: "It is such noble work that you are doing. But please be careful. After all, you never know who's on the other side of that other wall. It would be a shame that it falls into the wromg ears." (translation: I don't want to hear the filthy material you're working with) )
+
+    “Built for silence?” Changan offered. “No, they weren’t. Neither were we.” (--> "Officer Hertz, no one is on the other side of the wall." Changan is still faking his smile, though it's cracking.)
+
+His words were sharp, but his tone remained even. Controlled. (--> Brendan is startled. He can't imagine anyone being so shameless, evading while clearly knowing they are interrupting other people's life.)
+
+    “It’s just difficult to sleep with overlapping voices,” Brendan said carefully. “Your logs sometimes… spill through.” (--> "I guess I just doesn't have the mental capacity to process all these information I've heard. Who knows what I might do.")
+
+    “Do they?” Changan asked. He crossed his arms. “That must be frustrating. Especially for someone in charge of making sure everything else shuts off when needed.” (--> Changan's eyes are wide open; however, he pinned himself down. "I'm really sorry, sir, but you see, I have been wearing headphones for 12 hours today, and you know the quality of the cushion. Please, just let me----" (Changan trying to win sympathy by being vulnerable))
+
+There it was. (--> "Oh! How diligent of you! Perhaps I can take a look at your AI auditor and make it more efficient?" (Brendan being extremely condescending))
+
+Brendan felt heat behind his ears. (--> Changan was furious. "Ok. You listen to me----")
+
+    “If you're implying last week’s recalibration was personal—” (--> "No! If you want to drag you feet, be my guest. Just do it quietly, Chan-gan~" (Brendan know, as head of energy allocation, he has leverage over Changan. Moreover, he's grumpy.))
+
+    “Of course not,” Changan said smoothly. “Only an unfortunate consequence of efficiency.” (Changan's body shook when he heard his name pronunced like that, like someone slapped him in the face. He put up his fake smile again.)
+(--> "Please leave." He said with a smile. "Hey, I'm not done with..." "I SAID, please leave." Changan's smile disappeared.)
+(--> Brendan left the room immediately, without looking back.)
+(--> Changan collapsed in his chair, filled with fear and regret, and that indescribable pounding in his chest.)
+(--> So did Brendan. Neither of them slept that night.)
+He stepped back half a pace, not to invite Brendan in, but to breathe. The tea packet was still in his hand.
+
+    “This room,” he added, “is the only place I’m not edited. I play things out loud because otherwise I start whispering even when I’m alone. So forgive me if serenity isn’t my first priority.”
+
+Brendan studied him. The exhausted posture. The clipped perfection of his words. The crack just barely hidden behind his professional calm.
+
+    “You could wear headphones,” Brendan said.
+
+    “You could reassign your bedroom.”
+
+It was automatic. Petty. He regretted it the second it left his mouth.
+
+But what Changan said next landed harder.
+
+    “You think because you can shut something off, it means you understand it.”
+
+Brendan’s jaw tightened. He hadn't come here to argue. But Changan had a way of slicing with his tone.
+
+    “I didn’t come to escalate,” he said. “Just to talk. I thought—”
+
+He stopped himself.
+
+    “I thought Chan-gan would understand.”
+
+Silence.
+
+Changan blinked once.
+
+Then twice.
+
+And the temperature in the room dropped.
+
+    “It’s Cháng'ān,” Changan said quietly. “Like the city. Like the dynasty that lasted longer than your entire nation’s political memory.”
+
+Brendan opened his mouth.
+
+    “No,” Changan said, cutting him off. “You don’t get to explain whether it was a mistake.”
+
+He stepped forward, placing the tea packet firmly against Brendan’s chest.
+
+    “Go sleep, Officer Hertz. While you still can.”
+
+And then, with the same bureaucratic grace that had earned him five consecutive silent commendations, Changan closed the door.
+
+The click echoed like a gavel.
+
+Brendan stood there a moment longer, staring at the door, the crumpled tea still in his hands. Something inside him buzzed—not anger, not quite guilt. Something between unspoken respect and unresolved shame.
+
+A faint murmur started again through the wall. Another review log. Another too-loud voice.
+
+He didn’t sleep that night.
+
+Neither did Changan.
+
+
+-------------------------------------------------------
+@ chapter1 ver2
+
+The hallway was quiet in the way only Mars could be—pressurized stillness, the faint hiss of climate regulators, the muffled rotation of surveillance camera. Apartment Unit 3E‑7 flickered dimly with occupancy lights, its neighbor—3E‑8—vibrating, just barely, with the sound of another late-night review log playing through unfiltered speakers.
+
+Brendan stood outside the door, shoulders square, holding a burlap bag wrapped by red velvet tape; in it is a vacuum-sealed packet of real Earth-grown tea.
+
+He'd rehearsed three versions of this conversation. He didn't like any of them. But the buffering lights in his own unit pulsed to the rhythm of someone else's content audits, and he’d already let it go too long.
+
+He exhaled and knocked, twice—brisk, professional.
+
+It took a full thirty seconds for the door to open.
+
+Changan appeared, his shirt half-buttoned, collar wilted, the corner of his mouth still twitching. His eyes locked onto the gift first. Then Brendan’s face.
+
+    “Officer Hertz,” Changan said. His voice had the smooth, edged neutrality of a man who knew every word could be archived.
+
+    “Director Wang,” Brendan said, leaning forward, social smile on his face. “Thank you so much for agreeing to meet me at such a late hour.”(of course he private messaged before he visited. Courtesy.)
+
+Without a pause, Brendan opened Changan's palm, and left his gift there. "A pleasant supplement for a GOOD NIGHT'S SLEEP." He left every word chiseled, as if trying to make a mark.
+
+Changan's body moved even before he thought. "Where's my manner. Please, come in. I'm terribly sorry for the mess."
+
+Changan placed the gift at the center of the living room table.
+
+    "It is such noble work that you are doing." Said Brendan, still social smiling. "But please be careful. After all, you never know who's on the other side of that other wall. It would be a shame that it falls into the wrong ears." (translation: I don't want to hear the filthy material you're working with) )
+
+    "Officer Hertz, no one is on the other side of the wall."
+
+Brendan is startled. He can't imagine anyone being so shameless, evading while clearly knowing they are interrupting other people's life.
+
+    "I guess I just doesn't have the mental capacity to process all these information I've heard. Who knows what I might do."
+
+Changan's eyes are wide open; however, he pinned himself down. "I'm really sorry, sir, but you see, I have been wearing headphones for 12 hours today, and you know the quality of the cushion. Please." (Changan trying to win understanding by showing vulnerability)
+
+"Oh! How diligent of you! Perhaps I can take a look at your AI auditor and make it more efficient?" (Brendan being extremely condescending)
+
+Changan was furious. 
+
+    "I believe everyone has the right to approach HIS life the way HE fancies. I just hope that HE knows that others have important work to do that requires ample rest. Isn't that right, Chan-gan?" (That is some vile words: both discriminating Changan's humanitarian profession as a STEM major, insinuating that humanitarian majors deserves to be grinded to death, and also hinting that Changan has a deviant lifestyle (not having married --> being gay).)
+
+Changan's body shook when he heard his name pronunced like that, like someone slapped him in the face. He put up his fake smile again.
+    "Please leave." He said with a smile. "Excuse me?" "I SAID, please leave." Changan's smile disappeared.
+Brendan left the room immediately, without looking back.
+Changan collapsed in his chair, filled with fear and regret, and that indescribable pounding in his chest.
+So did Brendan. Neither of them slept that night.
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+@ chapter2 ver1
+
+
+Let's continue to the next day:
+- Changan decided to be invisible again, so he decided to switch between showing the transcription on the screen (which hurts his eyes), wearing his earphone (which hurts his ear canal), and wearing his headphone (which hurts his auricle). By the morning, his ear canal is bleeding, and his auricle is swelling.
+- Having seen so many people come and go, Brendan is numb to all the taunting and threats. As long as he noticed that the noise is gone, he got a good night sleep. However, he still felt bad for Changan's ear and what he said to Changan, so he put his headphone with good cushion on Changan's doorstep, as a sorry gift.
+- Changan finished his particularly painful(ear) day and arrived home. He was exceptionally thankful that someone sent him a pair of good headphones, and he used it immediately, with way less painful ears.
+- However, at that night, Brendan's place was raided, and Brendan was brought to the police station (or whatever dystopian name it's called). The authority received a message showing that a headphone under Brendan's name is playing message that is suspicious of revolting. (the government recorded the buyer of almost each item, and place a wire tap in each headphone, obviously. This function is only dismentled for Changan's headphone because of his work; however, he could only use worn down headphones because it takes forever for the bureaucrat to approve the purchase of a new one.)
+- Then the police noticed that the alert is still going on after Brendan is in custody, so they suspected that this is a huge operation and decided to go deeper. Brendan did not want to admit the thing he did at first, but after knowing what the police force is going to do, he could just confess, although he know that it would get Changan and himself in trouble(the protocol state that officers of Media and Emotional Wellbeing can only work with authorized equipment, including headphones).
+- At the end, both of them are penaltied with some minor punishment.
+
+- I guess this incident only makes Brendan more paranoid, mistrust Changan, and vice versa
+
+> The part we see:
+- Changan has painful ear at work
+- Changan found a box on his doormat, in it was a nicer headphone
+- Changan worked until late as usual, then heard the raiding of Brendan's place next door
+- He didn't and dare not mind others' business, so just went to sleep
+- He was brought to a conference room during lunch break, Brendan(haven't slept since last night) was also there, and they were scolded for 3-4 hours and received their penalty
+- They became more paranoid and harder to trust each other ever since
+
+-----------------------------------------------------------------------------------------------------------------
+@ chapter2 ver2
+@The Headphones
+
+By morning, Changan’s ears were in agony.
+The screen strain gave him blurring migraines. The earphones pressed too deep, slicing at already-sensitive cartilage.
+By 7 a.m., his right ear canal was bleeding.
+
+Still, no sound leaked from his room.
+
+--
+
+Changan stared at the box for a long time before even touching it. A box left right in front of your door without being confiscated by the building guard could mean a lot, but not much.
+He finally accepted his fate, since it's only a matter of time.
+It was a well-made headphone. Noise-canceling. Proper padding.
+No one ever gave him anything without a reason.
+He didn’t care. He put them on immediately. No scraping, no ache. Only the dull hum of filtered sound. He nearly cried again.
+
+--
+
+That night, just before 01:00, heavy boots thundered down the corridor.
+Metal rang. Commands barked. A voice he recognized—Brendan’s—raised, then abruptly cut off.
+Changan didn’t move. He didn’t look through the peephole. He didn’t even flinch.
+Instead, he turned up the volume: it covered the shouting, the dragging, the silence that followed.
+He kept working long past the point of clarity, until his vision blurred and the cursor blinked without input. He didn't remember falling asleep—only waking up hours later with a stiff neck.
+The headphones were still on.
+
+--
+
+The next day, lunch was replaced with a summons.
+He was escorted to a windowless conference room. Harsh light. A long table.
+Brendan sat on the other side. He looked like he hadn’t slept at all.
+An officer read out the charges—unauthorized equipment transmission, signal misattribution, breach of device origin protocol. The wiretap had flagged revolutionary content. From Brendan’s headphone. While he was asleep.
+Until it kept playing after he was arrested.
+Changan sat silent.
+
+Brendan eventually confessed. He gave him the headphones. An act of kindness.
+"We don’t punish kindness,” the officer said, smiling with no warmth, “only negligence.”
+They were dismissed with minor penalties: written censure. Docked rations. Weeks of increased monitoring.
+
+Nothing serious.
+Nothing forgettable.
+
+They walked out together. Said nothing. Didn’t look at each other.
+It was a long walk back to their neighboring cells. I mean room.
+
+-------------------------------------------------------------------------------------------------------
+@ chapter3 and 4
+
+🧩 STRUCTURAL POSITIONING
+Chapter: “The Leash” (Earth-Side Anecdote)
+
+This would be a standalone interlude chapter, a short monologue or recollection from a low-level systems analyst, content creator, or even a recruiter retelling the SynThread collapse in a cramped Earthside canteen.
+
+Purpose:
+
+    Show readers how Earth’s techno-economic climate is equally suffocating.
+
+    Reinforce how “loyalty” is an economic and computational currency.
+
+    Mirror Changan’s and Brendan’s fears in a different key—global systemic rot, not just personal drama.
+
+    The tone can be weary, matter-of-fact, darkly ironic.
+
+Chapter: “Voltage / Influence” (Changan vs. Brendan—Ideology Clash)
+
+This would be the centerpiece conflict chapter between them post-punishment. The pressure forces them into a high-stakes, professionally public argument, but the real fight is about meaning, worth, and survival.
+
+Setting:
+
+    A cramped meeting room. In attendance:
+
+        Changan (Director of Media & Emotional Wellbeing)
+
+        Brendan (Senior Power Allocation Officer)
+
+        A Police Department Stability Supervisor (mid-rank, pragmatic, exhausted)
+
+Situation:
+
+    There’s a measurable surge in late-night energy use colony-wide.
+
+    Brendan wants to lower output caps to preserve the grid and prevent potential failures.
+
+    Changan insists that cutting comfort content right now will result in a morale crash—and that the only thing holding society together is the illusion of safety and pleasure.
+
+    The supervisor is caught between them.
+
+Tone:
+Civilized shouting match. A policy war. But really, it’s about their past. Their hurt. Their fundamentally different ideas about what humans need to survive.
+
+    Brendan sees stability as something earned through compliance and sacrifice.
+    Changan sees stability as something preserved by illusion and hope.
+
+-----------------------------------------------
+🧱 PROPOSED CHAPTER ORDER
+
+---------------------
+    Chapter: "The Leash"
+
+        Told in monologue style. A man in his 40s explains the SynThread collapse to a coworker at a public Earth terminal cafeteria. He ends with:
+
+            “They didn’t need to shut it down. They just gave it enough rope.”
+
+------------------
+    Chapter: "Voltage / Influence"
+
+        Opens with the police supervisor reading a summary report of late-night usage.
+
+        Cuts to Changan and Brendan seated across from each other.
+
+        Dialogue-driven. Electric, layered, tense.
+
+        Ends with one of them making a small concession—but no resolution. Just a pause.
+
+Would you like me to write one of these now—either the SynThread monologue or the debate scene?
+
+We can use the first as a tonal interlude, and the second as a character-driven centerpiece. Both will amplify the world and their relationship.
+
+-------------------------------------------------------------------------------------------------------
+@ Chapter3 ver1
+
+- please set a stage for this interaction that can reflect the social economic status of Earth, and the fact that average workers have became glorified slaves (how about late night at the company smoking room, where a junior programmer complaining to a more senior programmer that their working condition is terrible and he is considering starting his own business, but the senior programmer told him the horrible story of SynThread, and say that he's lucky that he's in a government owned corporation so it's less likely such thing would happen to them. It is revealed (camera zoomed out) that the company they work for is the competitor of SynThread at the end of the story.)
+
+- Please change the position of the person that posted the offensive meme from intern to employee
+- Bonds are money that the government borrow from individual citizens. To benefit the government, the interest rate should be as low as possible (preferably 0%)
+
+-"""People think computing is a resource. It’s not. It’s a leash. And the only reason you don’t feel the choke is because you’re walking where they want you to.""" I don't think we have to spill this out. leave it for the audence to figure out.
+
+-------------------------------------------------------------------------------------------------------
+@ Chapter3 ver2
+
+Chapter 3: The Leash
+
+Location: 32nd Floor Smoking Room, Graystone TechPark, Earth
+
+The exhaust fan wheezed like it was dying. The room stank of synthetic tar and shared silence.
+
+A junior programmer sat on a cardboard box, hunched over, vape pen glowing between his fingers. His badge ID was still on—he hadn’t even taken his lanyard off since lunch.
+
+    “I don’t get it,” he muttered. “We push overtime past regulation, sleep at our desks, eat nutrient packs like lab rats. For what? My buddy freelances and clears twice my pay.”
+
+He took another hit. Coughed.
+
+    “I’ve been thinking about just… leaving. Starting something small. A sandbox site. Something light.”
+
+On the far side of the room, the senior programmer didn’t look up. He was older, greying at the edges, sleeves rolled up in that way that didn’t look rebellious—just permanent.
+
+    “You ever heard of SynThread?” he asked.
+
+The junior blinked. “No?”
+
+The older man gave a small laugh. “Exactly.”
+
+He flicked ash into the tray. The silence between them stretched, filled only by the hum of electricity through too-thin walls.
+
+    “They launched maybe five years ago. AI-generated media tools. Content bundling for internal comms, morale packages, even a failed Mars pitch. They had real velocity. The kind of team that coded through blackouts.”
+
+    “What happened?”
+
+The man leaned back. Exhaled smoke toward the ceiling fan.
+
+    “One of their employees posted a meme. Nothing huge. Something about Mars—‘Come for the oxygen, stay because you weren’t cleared to leave.’ Got flagged as behavioral nonalignment.”
+
+The junior snorted. “Seriously?”
+
+    “Seriously. Four days later, their compute quota vanished. Just gone. Couldn’t render a homepage without buffering.”
+
+    “They couldn’t buy it back?”
+
+    “Tried. Bought state algorithm bonds, 0% return. CEO even took a private loan from a ghost shell. Didn’t know it was cartel-adjacent. When they refused to hand over their servers as collateral, that was it.”
+
+The junior was quiet now.
+
+    “Seventy-two hours. Whole company folded. No trial, no statement. Just gone. Like a process being killed in the background.”
+
+The fan kept whirring. Both men stared ahead.
+
+    “Guess I’m lucky I’m at a state corp, huh?” the junior said, trying for a smile.
+
+The older man nodded slowly. “Yeah. Lucky.”
+
+The junior stood, dropped his vape cartridge into the bin.
+
+    “You heading back in?”
+
+    “I never left.”
+
+The door hissed open as the junior walked out, his silhouette framed for a moment against the corporate hallway—white floors, red logo pulsing above a glass door:
+
+StreamWave | National Communication Systems
+
+The door shut behind him. The fan never stopped spinning.
+
+
+-------------------------------------------------------------------------------------------------------
+@ chapter4 ver1
+
+- there should be a board of supervisor
+- the head supervisor should be of Indian descent
+- please be more specific on "complex entertainment content" , such as low-delay mid-quality interactive generative AI, a.k.a. those that requires over 80 tokens/sec
+
+- let's move the "Metrics don’t track danger. They track who to punish." idea to a more background position, and focus on the rivalry between Changan and Brendan.
+- But start with the Officer of stability bureau pronouncing that the electric usage is exceeding the safe range, and the citizen satisfaction score is within acceptable range. This gives Changan a false sense of safety, and lead to his bombastic speech later
+
+- How about we make it like this:
+> at first, they both come in a bit hot headed, with Changan starting out strong with some provocative remarks towards Brendan, so Brendan replied with some heated words as well. This back and forth happed 2 times exactly
+> However, Brendan being the calmer and more calculated one, remembered what plan he had been brewing, gave Changan the time to make a whole (bombastic) speech about morale and the importance of Media & Emotional Wellbeing department, before offering his terms:
+-- he found inefficiency in the codes of Media & Emotional Wellbeing department (when generating a specific object, they request instead of cache each time it is needed, which is extremely inefficient, since the object is low in diversity but large in size)
+-- when Changang was in a panic (they didn't have experienced coder in his team), Brendan offered that they differentiate the kind of people who has access to certain content: if the "rebellion score(based on IQ, past record of finding loopholes in systems, impulsiveness, general performance)" of a person is high, then that person has priority access to more sophisticated content, but would be put under more strict supervision as well.
+-- There would be a 1 month report to see if the change yield positive result.
+
+> It's basically an optimization to Media & Emotional Wellbeing department's current system. He also promised that the electric allocation department would be sending helpers to help with the optimization.(which is basically Brendan. He is still looking for a chance to spite Changan after what happened in chapter2)
+> They are going to have more and more interaction.
+
+- ends with something bitchy, such as Brendan telling Changan: "I'm sure you'll be liking your new 'headphone'."
+
+-------------------------------------------------------------------------------------------------------
+@ Chapter4 ver1
+
+Chapter: Power, and How to Lose It
+
+The meeting room was small, but there were three cameras. At the center of the table, a polished obsidian triangle projected the colony metrics for the week. 
+Blue for acceptable. Red for failure. Yellow for… review.
+
+Officer Naidu, head of the board of Security and Stability was putting on his earpiece. The rest of board members are on the other side.
+“Electric usage has exceeded safe tolerance for the fourth consecutive night,” Naidu said. “Citizen satisfaction remains within acceptable parameters.”
+
+Changan let out a breath.
+Acceptable. Good. He was safe.
+"I am more than honored to serve the government with all that I can do." He said with meek.
+
+"I once heard a man burn down a house because there was a mice in it. Would you applause that man, Director Wang?"
+Changan smiled. "Wouldn't it be worse to let the mice run around the house?"
+
+Brendan's eyes narrowed. He turned to face the officer.
+"I suggest that we limit broadcasted contents to rerun of old TV series, not exceeding 1080p in fidelity."
+
+Changan leaned forward, hands flat on the table.
+"The content we provide includes morale boosting interactive programs and low-delay generative emotion stabilizing programs. They’re not luxury. They’re containment. They're the most efficient shepherd to keep the mass from going astray.”
+"Also, let me remind you:” Changan said, louder now, “The Media & Emotional Wellbeing Department has been serving this government for over 180 years, saving the mass from being misled by deranged individuals countless times. The mass should be aligned with the government's will. Sending the message through merely static 2D-visuals are like shoving nutritions into their throat; it's not convinving at all. Through our interactive program, it conditions them through repeated actions and affirmations. Don't you want the mass to truely receive the message of the government?” 
+Changan asked with a cunning smile on his face.
+
+Branden waited for 3 seconds, as if making sure Changan's done. "What marvelous work you are doing, I absolutely admire it. Now, shall we discuss the technical aspects regarding your operation?”
+
+Changan blinked. “Sure.”
+
+Brendan said mildly, “Your generative loops have been requesting the same audiovisual assets every single time they’re triggered. Nothing is cached. The average packet is 160MB, and they are triggered 11.6 times per minute PER USER.”
+
+Silence.
+“We, we have been under-resourced,” Changan said stiffly. “Not everyone on my team is a trained developer.”
+
+Branden waited for another 3 seconds “I would like to propose an optimization framework. Is that OK with the Director of Media & Emotional Wellbeing?”
+Changan nodded hesitantly.
+"We would be differentiating content access by behavioral profile. Citizens flagged with high rebellion index, including high impulse scores, performance volatility, algorithmic drift, would have prioritized access to more engaging, higher-demand content.”
+
+“You want to reward instability?”
+"Prevention is always better than penalty. If you let a plant grow freely for a short time, you know which one to nib in the bud."
+
+Brendan smiled like an angel. "Based on the correlation between rebellion score and frequency of accessing high-demanding content, your overall energy draw will decrease by 17.3%. I sincerely ask the board to give me one month to implement this program.”
+
+"Please give the board some time to discuss." Officer Naidu said. 30 seconds later, he released his fingers pressing on the earpiece.
+“Approved. Trial basis. You’ll be co-reporting weekly progress. Dismissed.”
+
+The room emptied with a shuffle of chairs and bureaucratic stillness.
+
+Changan was still processing what happened as he stumbled toward the exit. Brendan walked pass him.
+"What a pleasant meeting, Director Wang. I promise the Power Allocation Office would be sending its finest to aid in our cause."
+
+Brendan smiled at Changan. Changan could not do the same to him. 
+
+-------------------------------------------------------------------------------------------------------
+
+@ Chapter5 ver1
+
+I. Opening: False Calm
+
+    Changan enters his department—small, cluttered, overstressed.
+
+"""
+    Notices things are… different.
+
+        A terminal is already unlocked.
+
+        Someone is sitting at his desk, browsing logs.
+
+        The staff glance up but say nothing.
+
+    "Good morning, Director," the intruder says, without turning around.
+
+    It’s Brendan.
+""" --> experienced bureaucratics would not do things so radically. They know to approach the department in daylight, showing their good will, acting harmless, maybe work overtime with the workers to show they care; after gaining trust, they sow discord between the team leader and their subordinates, stripping away his power.
+
+--> of course if Brendan does not see Changan's team as a threat he might just barge in and make their life hell. However, I don't think Brendan would do that in the beginning of their relationship. It's a career suicide move, can cause retribution.
+
+--> let's make it that Brendan is nice and caring towards everyone except for Changan, since he is the target of retribution (it would be better if he lose his calm and no one understands), and he actually has to get things done. Be as detail specific as possible.
+
+II. Power Dynamics on Display
+
+    Brendan has clearance authority: the Power Allocation Office has been authorized to “support optimization.”
+
+    Changan has no grounds to eject him—any protest can be reframed as resistance or inefficiency.
+
+    Brendan’s tone is light, helpful, but layered with condescension:
+
+        “I’ve taken the liberty of analyzing yesterday’s traffic. Fascinating what gets triggered by a jingle, isn’t it?”
+
+    Changan tries to reassert control—redirects a staffer, corrects a small protocol—but it’s clear Brendan is in charge of the room in a quiet, smug way.
+
+III. Private Confrontation
+
+    Changan corners Brendan in his office (or behind a sound-dampened divider).
+
+    Their exchange is sharp but still veiled—neither can afford a real blow-up.
+
+    Brendan accuses Changan of inefficiency, suggests the emotional layer of the content is “too indulgent.”
+
+    Changan fires back that it’s easy to talk about indulgence when you’ve never seen what people do without it.
+
+    Brendan doesn’t argue. He just uploads a file:
+
+        “Prototype tiering model. You’ll want to review it before we push to citizen-facing A/B.”
+
+IV. Closing: Surveillance Reminder
+
+    After Brendan leaves, Changan finds a sticky note on his chair.
+
+        “We're all optimizing something. –B.”
+
+    A minor alert pings on his terminal:
+    “New system protocol update approved by: Board Security Liaison – Hertz.”
+
+    Changan closes the file without reading it.
+
+💥 Emotional Themes:
+
+    Violation of space and authority
+
+    Forced cooperation under surveillance
+
+    Resentment under layered civility
+
+------------------------------------------------------------------------------------------------------
+
+@ Chapter5 ver2
+
+📂 Updated Chapter Outline: “Welcome Committee”
+🎯 Focus: Brendan’s infiltration is subtle, strategic—and it's working. Changan is losing authority, allies, and now, control over daily operations. Worse, Brendan knows exactly where to push.
+
+---
+0. Opening: Brendan Arrives—Uninvited, but Not Unexpected
+
+    Setting: Changan’s department—a cramped open-plan space of flickering terminals, stress-worn chairs, and exhausted staff. Everything smells faintly of reprocessed air and instant caffeine powder.
+
+    Time: Early in the workday, just after system check-in.
+
+    Changan arrives to find an unfamiliar, unlogged ID attached to the guest terminal.
+
+    Brendan is already there, chatting casually with two junior staffers—smiling, sleeves rolled, stylus in hand, reviewing one of their scripts.
+
+        “That’s a clean loop,” Brendan says. “Mind if I borrow this structure for the content scheduler back home?”
+
+        The junior beams. “Of course, Officer Hertz.”
+
+    There’s a second mug of tea already on the desk—someone offered it to Brendan.
+
+    Important: Brendan never took Changan’s desk. He’s stationed himself like a guest with just enough presence to seem helpful, not invasive.
+
+---
+I. Arrival + False Harmony
+
+    Brendan has been in the department for a few days.
+
+    Brings coffee, energy bars, fresh pens—minor conveniences that raise morale and mark him as generous.
+
+    He leads collaborative sessions exploring the optimization model he proposed—staff are energized, curious, and engaged.
+
+    Brendan: “Let’s try reducing the fetch frequency on these API calls, just for fun.”
+
+    The terminal screens flicker with code, visuals, and rapid iteration.
+
+    Everyone is busy with the new system—except for the content vetting task queue, which is overflowing.
+
+---
+II. Changan’s Growing Frustration
+
+    The department's core duty—scrubbing questionable posts—is now understaffed.
+
+    It’s unpleasant work: reviewing passive-aggressive citizen slogans, analyzing clipped protest footage, flagging indirect resistance metaphors.
+
+    Normally shared evenly, the task now falls disproportionately on Changan and one burnt-out analyst.
+
+    He gently reminds staff to resume rotation. They agree… and then don’t.
+
+    Changan begins taking on more of the queue himself. Sleep drops. Dignity drops.
+
+---
+III. The Divide Widens
+
+    Staff increasingly look to Brendan for decisions.
+
+    Brendan keeps praising their input while redirecting their focus toward the more exciting optimization work.
+
+    Junior Staffer: “Director Wang wanted us to finish our flagging quota—”
+    Brendan: “That can wait. You’re onto something smarter here.”
+
+    The department’s core metrics suffer—but only Changan notices. Or cares.
+
+---
+IV. Private Conversation – Brendan Provokes
+
+    Changan corners Brendan at the water station or in a quiet hall.
+
+        Changan: “You’re not helping. You’re distracting them from the work we’re actually supposed to do.”
+
+        Brendan: “And yet they’re actually building programs, not like whatever they have been doing before this. I’d think you’d be proud.”
+
+        Changan: “They’re overexcited amateurs. You know that.”
+
+        Brendan (quiet, smiling): “They’re not that bright. But they’re easy to manipulate.”
+
+    Silence. Changan’s face is unreadable.
+
+    Brendan walks away.
+
+    He was right. And that made it worse.
+
+---
+V. Closing – The Quiet Burnout
+
+    Changan stays after everyone else, again.
+
+    A full queue of flagged content scrolls past. Footage. Fragments. Citizen sarcasm carefully encoded in metaphor.
+
+    A blinking message at the top:
+    “Backlog exceeds review capacity. Consider escalation.”
+
+    He doesn’t escalate. He puts on his headphones and starts again.
+
+---
+🧱 Emotional Themes:
+
+    Changan is being replaced not by force, but by enthusiasm.
+
+    Brendan’s insult is surgical—true enough to land, cruel enough to echo.
+
+    The work no one wants still has to get done. And Changan is the last one doing it.
+
+-------------------------------------------------------------------------------------------------------
+@ Chapter 5 ver3
+
+Chapter 5: Welcome Committee
+
+The department’s fluorescent panels flickered slightly overhead, casting a sterile, bluish light on a cluster of aging desks and paper-thin monitors. The space smelled like reprocessed air, warmed plastic, and synthetic caffeine powder—a scent that clung to every exhausted staffer present.
+
+Changan arrived precisely on time. As he scanned his badge, his eyes flicked across the room. Something was off: 
+One of the guest terminals was active. Logged in.
+And seated beside it, chatting comfortably with two junior team members, was Brendan.
+
+Sleeves rolled, expression easy, Brendan was reviewing a screen with a sharp but amused look.
+“That’s a clean loop,” he said, gesturing to a line of code. “Mind if I borrow this structure for the content scheduler back home?”
+The junior beamed. “Of course, Officer Hertz.”
+There were two mugs of tea on the desk. Someone had offered him the second. Brendan didn’t even glance at Changan as he entered.
+He hadn’t taken Changan’s desk. But he may as well have.
+
+
+Brendan had been in the department for a few days.
+He came bearing energy bars, fresh notepads, carefully packaged pens. Small morale boosters. Symbolic kindness.
+Then came the shared code sessions. Brendan led them with a teacher’s flair:
+“Let’s try reducing the fetch frequency on these API calls, just for fun.”
+The room hummed. Screens flickered with test cases and optimization outputs. Enthusiasm swelled.
+No one wanted to scrub flagged posts anymore.
+
+The content vetting queue ballooned.
+Flagged posts piled up with sarcastic anti-colony slogans, coded expressions of dissent, cryptic images loaded with buried meanings. Normally this work was evenly distributed. Now it fell on Changan. And on Min, the only staffer too burnt-out to resist.
+
+Changan reminded the others gently; firmly, they nodded, promised, forgot.
+So he stayed late.
+His eyes burned as red metrics blinked across the moderation dashboard.
+
+Staff began looping their queries through Brendan first.
+Brendan never encouraged it. He just answered quicker. Smiled more. Made their ideas sound smarter.
+Junior Staffer: “Director Wang wanted us to finish our flagging quota...”
+Brendan: “That can wait. You’re onto something smarter here.”
+
+No one argued. No one asked Changan.
+
+
+He found Brendan alone at the water station late that week.
+“You’re not helping,” Changan said. “You’re distracting them from the work we’re actually supposed to do.”
+Brendan took a sip. “And yet they’re building something. Not bad for a department of clipboard jockeys.”
+Changan’s jaw tightened. “They’re overexcited amateurs. You know that.”
+Brendan turned, smiling slightly. “They’re not that bright. But they’re easy to manipulate.”
+
+He walked off.
+And he was right. And that made it worse.
+
+
+The room emptied. Again.
+Changan sat alone. The review queue blinked, pages long.
+At the top, a message:
+Backlog exceeds review capacity. Consider escalation.
+He didn’t escalate.
+He put on his headphones.
+And started again.
+
+--------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
+@ Chapter 6 ver1
+
+I'd like to plan the next chapter with this one:
+
+what if Brendan was cocky enough to think that his program is bullet proof and actually launched it under his name, but then a small scale riot broke out. The cause is multifaceted: some rebellious people noticed that their posts are not being censored as rigorously, so they posted more, and this caused others to do the same, too; this leads to a serge of rebellion score for more people, but Brendan just assumes that most people would be abiding citizens, and just set static thresholds for rebellion scores: if exceed the score, user can gain access to higher demand content (he forgot to check because he spent too much of his energy trying to impress the subordinates). 
+
+When he tested it on a smaller sample of citizens, the understaff censoring problem is not that severe, so this bug was not noticed; but after they published the beta version that applies on all citizens, the problem is surfacing. 3-4 times of users have access to higher demand content, and since emotions are high, most of them becomes more active and use the higher demand content at the same time. From there chain reactions happen: 2 console overheated due to excess loading, causing a lowered speed. Complaints are all over the place, and there are conspiracies that the government are collapsing, which cause emotion to surge, more activities on the internet, less bandwidth for each user.
+
+Changan was too tired to notice this, and he had waited for 3 days before his request for more personnel got granted, and 5 days before help actually came.
+
+3 days after new program public version was launched, the power grid failed, a quarter of the colonial blackouted, and there was a small riot, but soon was suppressed because of reduced oxygen supply and immediate repair of the power grid (directed by Brendan's vice officer)
+
+it was a serious matter, and the higher officials (board of Security and Stability) decided to severely punish Brendan, since the project is his idea, and he was the one who authorized the public version. Changan insisted that he was partly responsible for this incident, and ask to split the punishment. So in the end they were moved to a smaller complex where they have to share a room, cut down further on rationales. The project was given to the power allocation office, further directed by Brendan's vice officer. Brendan lost his position as the Director of power allocation office, and was demoted to a subordinate of the Media & Emotional Wellbeing Department.
+
+On the first day they moved into the new apartment, when Brendan asked Changan why he helped him, Changan said it's the most alive and enthusiastic he had seen his subordinates been. That was a feeling that he had forgotten for so long. He thanked Brendan from his heart to make his subordinates feel this way. 
+
+-------------------------------------------------------------------------------------------------------
+
+@ Chapter 6 ver2
+
+I. Opening: Brendan’s Launch
+
+    Setting: Two days before the riot.
+
+    Brendan is confident. He signs off on pushing the new version live.
+(--> they should at least have a small sample test when Changan could still handle the censorship so they didn't notice the rebellion score spiral, and the result turn out ideal because there was not as much opposition.)
+
+    Staff are excited. Brendan gives a short, inspiring speech. Changan watches from the side, exhausted, half-resentful, half-numb.
+
+    Changan requested extra help for moderation work three days ago. No response yet.
+
+II. The first night: Early Anomalies
+
+    Uptick in flagged posts. The censoring system is overloading.
+
+    --> Rebellion scores are rising fast—but Brendan think it's a great chance to eliminate the bad apples, and he did banned some accounts, eliminated a few people. His team (no longer Changan's team) is too excited to see what happens they refuse to revoke the program.
+
+Changan is barely keeping up with standard review work. He doesn't check the metrics himself—he trusts the system too, against his better instincts.
+III. The second night: System Failure & Riot
+
+    Things escalated faster than they can handle. By now, 3–4x the normal number of users have been given access to high-demand content.
+
+    Emotional content queues spike, causing a sudden draw on specific subnets.
+
+    Two consoles overheat and stall. Complaints pour in. Rumors spread online: “The system’s breaking,” “Something’s wrong with the oxygen flow,” “The government’s hiding something.”
+
+    Emotion triggers traffic. Traffic triggers more emotional feedback.
+    Feedback loop → bandwidth collapse.
+
+    The grid chokes. A quarter of the colony goes dark.
+
+    Riot breaks out in a low-income district. No one dies, but people panic. Windows are smashed. One junior technician is injured.
+
+    Oxygen flow is restricted to suppress movement. The blackout is repaired within 2 hours, but the panic lingers for days.
+
+IV. Aftermath: The Review
+
+    Emergency session of the Board of Security and Stability.
+
+    Brendan is summoned. He admits the system failed. The logs clearly show:
+
+        He launched the update under his name.
+
+        He authorized skipping Changan the Director for final review.
+
+    Changan is also present, accused by association.
+
+    Instead of putting all the blame on Brendan like he is entitled to, he took the responsibility of insufficient supervision and not reporting the first moment anomalies were showing, and asked for equal penalty.
+
+V. Consequences
+
+    Brendan is removed from his position as Director of Power Allocation.
+
+    The project is transferred to Brendan’s vice officer.
+
+    Changan’s department is under harsher scrutiny, and the pay role was cut by 10% for 3 months.
+
+    Brendan is assigned as a subordinate under Changan.
+
+    They are assigned to share a small dual-occupancy housing unit in a downgraded complex as punishment.
+
+    Ration cutbacks. Less computing time. Shared workstation.
+
+📂 Chapter Epilogue: “Room 6B”
+Setting: First day in their new shared apartment
+
+    Sparse. empty. One desk. Two bunks. No door between the sleeping area and workstation.
+
+    Brendan quietly unpacks. Changan is already seated, reviewing logs.
+
+    Brendan finally asks:
+
+    “Why did you help me?”
+
+    Changan answers without looking at him:
+
+    “Because that week, they smiled. They worked like they believed in something.”
+
+    A pause. Then:
+    “I had forgotten what that felt like. So… thank you, Officer Hertz.”
+
+---------------------------------------------------------------------------------------
+
+@ Chapter 6 ver3
+
+📂 Chapter Outline: “Uplift, Overheat” (Final Adjustments)
+I. Brendan’s Launch
+
+    Setting: Two days before the riot.
+
+    Brendan launches the public version of the content-tiering system after a successful small-scale test.
+
+        The test was clean because censorship worked and user behavior was still stable.
+
+    Changan is too overworked to protest, and his request for additional support remains unapproved.
+
+    Brendan delivers a polished speech. His team is buzzing with excitement.
+
+II. The First Night: Early Anomalies
+
+    Flagged posts surge.
+
+    Changan’s reduced, burned-out moderation team can’t keep up.
+
+    Rebellion scores spike, and more users qualify for high-tier content.
+
+        Brendan sees this as an opportunity:
+
+        “Perfect time to isolate the disruptors. We can tag and prune the bad data.”
+
+    He still has obligations in Power Allocation, so he doesn’t fully monitor the entertainment system in real time.
+
+    Meanwhile, his new “borrowed” team in the Media & Emotional Wellbeing department is too enthusiastic to notice the signs of destabilization.
+
+        They’re excited to “watch the algorithm play.”
+
+III. The Second Night: Spiral
+
+    Dynamic rebellion-score system begins to misfire—not because of the logic, but because users learn the pattern:
+
+        They associate denied access or slow speeds with censorship.
+
+        Complaining boosts their score.
+
+        Boosted score → higher-tier access.
+
+    Emotions escalate.
+
+        Everyone starts pressing buttons to “test the edge.”
+
+        Forum threads erupt with: “Did you get unlocked?” / “You just need to complain hard enough.”
+
+    Emotional content demand and internet traffic both explode.
+
+        It’s not the high-tier content alone—it’s the volume of emotional traffic across all tiers.
+
+    Grid pressure hits critical load.
+
+        Two terminals in a relay node overheat.
+
+        Temporary power cut in District C-9.
+
+    Within an hour, panic spreads.
+
+        Rumors of sabotage, oxygen rationing, political collapse.
+
+        A localized riot breaks out.
+
+            No fatalities. One injury. Panic lingers.
+
+IV. The Review (Final Version)
+
+    Emergency meeting of the Board of Security and Stability.
+
+    Brendan’s logs confirm:
+
+        He launched the update under his own authorization.
+
+        He bypassed the final sign-off protocol from Changan’s office.
+
+        He failed to monitor post-launch volatility due to split attention between departments.
+
+    Changan is also summoned.
+
+        He speaks with poise. Delivers a brief report acknowledging procedural irregularities:
+
+            Confirms the anomalies were visible within 36 hours of launch.
+
+            Admits he did not escalate them.
+
+            States that the lack of personnel and late approval of his staffing request critically undermined his capacity to respond.
+
+    Changan: “I accept responsibility for failing to enforce the department’s review-to-flag ratio threshold. The early signs were clear. The response infrastructure was not.”
+
+    The board notes he remained within jurisdiction, but showed lapse in crisis escalation.
+
+    Result:
+    Brendan is penalized for structural failure.
+    Changan is penalized for oversight failure.
+
+
+V. Consequences
+
+    Brendan:
+
+        Removed as Director of Power Allocation.
+
+        The project transferred to his vice officer.
+
+        Assigned as a subordinate under Changan.
+
+    Changan:
+
+        Keeps his position, but under heavier scrutiny.
+
+        Department payroll cut by 10% for three months.
+
+    Shared Assignment:
+
+        Both are relocated to Room 6B, a downgraded complex unit.
+        It's an extended university dormitory at best, with little to no feeling of home.
+
+        There's no living room area, but a shared desk for work; the bed was a double layered bunk bed (please keep it this way, because it would become a plot tool later); the bathroom is sparse, with a section for shower separated by a curtain. There's a mini fridge in the corner. The window is up high and small, but you can occasionally see Phobos (moon #1 of Mars) occasionally.
+
+📂 Epilogue: Room 6B
+
+    Changan is seated at the console, reviewing flagged posts alone.
+    Brendan enters quietly, places a sealed tea packet on the desk.
+
+Finally, he asks:
+
+    “Why did you help me?”
+
+Changan doesn’t look away from the screen:
+
+    “Because that week, they smiled. They worked like they believed in something.”
+
+A pause.
+
+    “I’d forgotten what that felt like. So… thank you, Officer Hertz.”
+
+    He uses the title. But the way he says it—it’s gentler.
+
+---------------------------------------------------------------------------------------------------
+Chapter 6: Uplift, Overheat
+
+Brendan launched the public version of the new content-tiering system two days after the test phase concluded.
+
+The test had been smooth: rebellion levels low, censorship handled cleanly, response metrics within tolerance; most importantly, it reduced the electric consumption by 22% compared to the last 12 months.
+His team was glowing. They applauded the rollout. Brendan gave a sharp, short address: innovation, future, efficiency.
+
+Changan was hiding in his office, waiting for this shenanigan to pass. He hadn't slept more than four hours in days. His request for more personnel must have fell into a blackhole.
+
+
+The first night, flagged posts surged. The moderation system strained; Changan and Min barely kept up.
+Brendan, reviewing the metrics between power allocation tasks, saw the spike.
+“Perfect time to isolate disruptors,” he said to his team. “We tag them now. We can clean the pipes early.”
+He authorized a batch of account removals. His team celebrated.
+
+Changan noticed the rebellion score rising but assumed it was expected noise.
+
+
+The second night, the spiral began: 
+Users noticed that complaining about content denial led to better access.
+A new belief took hold: post more, trigger faster, unlock the good stuff.
+Forums filled with test logs. Screenshots. Timestamps. “It worked for me.” “You just have to say something controversial.”
+
+Emotional traffic exploded.
+System bandwidth throttled. Packet collisions. Terminal overheating.
+District C-9 went dark for fourteen minutes.
+
+People panicked.
+Someone shouted, “They’re draining oxygen next.”
+A vending station was smashed. One technician was injured. No fatalities.
+The riot lasted thirty-eight minutes.
+The fear lasted days.
+
+
+The board convened the next morning.
+
+Brendan submitted his logs. 
+They confirmed:
+He launched under his own credentials.
+He skipped Changan’s sign-off.
+He failed to monitor post-launch conditions.
+
+Changan stood with his hands behind his back.
+“The anomalies were visible after 36 hours,” he said. “I didn’t escalate.”
+He paused.
+“I accept responsibility for failing to enforce the review-to-flag threshold.”
+
+The board nodded. Neutral. Cold.
+
+
+Brendan was stripped of his position as Director of Power Allocation Office, demoted as a member of the Media & Emotional Wellbeing Department. Changan was reprimanded; the budget and computation quota of the whole department was cut.
+Both were reassigned.
+
+Room 6B was a converted dorm unit. A shared desk. A narrow kitchenette. A curtained-off shower stall. A double-bunk bed.
+One high window let in pale, reddish light. Phobos drifted past once a day.
+Changan sat at the console, reviewing flagged posts. Brendan entered. Set down his ration packet.
+
+
+“Why did you help me?” Brendan asked.
+Changan didn’t turn. “Because that week, they were smiling. They worked like they believed in something.”
+“I’d forgotten what that felt like. So... thank you, Officer Hertz.”
+
+The title still carried weight.
+But the way he said it—it had changed.
+
+---------------------------------------------------------------------------------------------------
+
+@ Chapter 7 ver1
+
+Work life:
+- Brendan became Changan's subordinate. The other subordinates who worked with him on the algorithm see him as their hero and mentor, while Brendan has been polite and proper as he trained himself to be.
+
+- Brendan picked up the crux of selecting content for broadcast, producing propaganda for the government really fast, as well as manually filtering through the flagged posts. He soon noticed that the censoring AI system is built from an ancient program language, but luckily can still be written to fit current algorithm, with even better efficiency than the current low-grade programming language (think C++ compared with python). The problem would be training data, and systematically testing it.
+
+- No one refused his request to collect the four kinds of censored content (true positive, true negative, false positive, false negative) and scoring them to get a more continuous data set. However, when trying to train the AI with the data set they gathered, they noticed that their computational power had been significantly limited. To resolve this, all the subordinates volunteered to manually filter 50% of their posts to save computation power for training, even if it means massive overtime. It still took them 3 months to preliminarily train the AI model. 
+
+- It took another 3 months to fine tune the AI model, and compare the result with the old filtering system. Thankfully, the result is promising, so they gathered the evidences and filed a report to apply for a system renewal.
+
+- It took yet another 3 months for the project to be granted presentation in front of the board of Security and Stability. They took the time to expand their dataset and keep finetuning their model in the meantime. It becomes even more sophisticated than the previous version.
+
+- The board of Security and Stability applauded their effort, but required a scrutiny by an expert, who happens to be Brendan's previous vice officer. He was reluctant at first, but seeing that there is really no one as competent as him, and he was projected to become the next vice director of the colony, so if a less competent person handle it it may circle back to him, he took the task.
+
+- Finally, after another 3 months of scrutiny, he reported positively on this model.
+- The filtering of the posts are way more efficient, with functions like real life video and audio monitoring launched.
+- They finally earned the respect of other officers, and Changan is finally getting the sleep that he always needed.
+
+
+Dorm life:
+- They were having few conversations at first due to the traumatic event, but as Brendan kept boosting the morale and giving his subordinate purpose, meanwhile helping him with his heavy censoring load, Changan grew respect and trust for him. 
+
+- They would work really late on the desk face to face, and bet on who would fall asleep earlier. Sometimes when Brendan falls asleep on the desk, Changan would put a blanket on him, trying not to wake him up.
+
+- Changan was afraid of the height of the top bunk bed, so Brendan gave him the lower bunk. At first, Brendan would just put a blanket on him if he falls asleep, but after they get closer, Brendan would just help him to his bunk.
+
+- They get closer and closer, sharing stories of their youth, talking about their favorite food on Earth (you can help me think of more topics). However, there is one thing they have been thinking but never ask explicitly: there have never been that special girl in their stories. They assume that it's just them being shy, since they are both middle-aged man raised in conservative areas, such things are not easy to share.
+
+- 6 months have passed, and they are more than intimate with each other. However, Brendan slipped and fell when he was climbing onto his top bunk, and badly sprained his ankle. Changan was worried, so he let Brendan sleep on the lower bunk while he sleeps on the desk until he recovers, while applying for a room with 2 normal beds instead of a bunk bed. The request was refuted.
+
+- Brendan was worried about Changan, too, so he suggested that they share the lower bunk. That triggered Changan's insecurities, so he found all the excuses to refuse the offer (please fill in the details for me :) ). However, after weeks of sore neck and back, he finally gave in, and had the best night sleep with Brendan on his side. They have been sleeping like that ever since.
+
+we can try a seperate or timeline interlocked structure.
+
+
+-------------------------------------------------
+@ Chapter7 version2
+
+- Brendan quietly transitions from patching code to leading the model architecture.
+--> I think Brendan already knows which up-to-date machine learning algorithm to use. He just have to feed the algorithm data so the algorithm can grow on its own (like artificial neural network)
+
+- When Changan falls asleep in the chair, Brendan now lifts him gently to bed.
+
+    First time, Changan jolts awake.
+    Brendan murmurs, “Sorry. Didn’t want you to cramp your neck again.”
+--> This is the cutest thing I have ever seen
+
+- I would like to make them both having no past love experiences. Only crushes, but in secret.
+
+- Brendan’s old vice officer is assigned as the system reviewer.
+
+    He’s reluctant—but ambitious. And thorough.
+    After 3 months of scrutiny, he signs off.
+
+--> can you make the whole thing with higher stake for him?
+
+-     Changan’s string of excuses (for you):
+
+    “It’s against cohabitation protocol.”
+
+    “You’ll snore. I don’t sleep through snoring.”
+
+    “I overheat easily.”
+
+    “It’ll affect your recovery if I roll into you.”
+
+    “What if someone reports it?”
+
+    “I just don’t think it’s... appropriate.”
+
+    Finally, he gives in.
+
+They sleep back-to-back the first few nights.
+Then shoulder-to-shoulder.
+
+    That week, Changan has his first full REM cycle in over a year.
+    They never move back to separate bunks.
+--> I love this
+
+----------------------------------------------------------------------------
+
+@ Chapter7 version3
+
+📂 Chapter 7: The Long Thread
+
+---
+⏱️ 1. Work Life: “Rebuilding”
+
+    Brendan, now subordinate to Changan, quietly integrates into the department.
+
+    The team that once saw him as a hero still does—and he's relentlessly polite, competent, and focused.
+
+    He masters propaganda formatting, triages flagged posts, and quickly discovers:
+
+        The censoring AI runs on an ancient but powerful programming core—outdated, but elegant, like C++ in a world of Python.
+
+    He transitions naturally into designing the training pipeline—fine-tuning parameters, running diagnostics, and leading the training loop optimization.
+
+    Changan is impressed, but says little. He watches. Learns. Relents.
+
+---
+
+🌙 1. Dorm Life: “New Gravity”
+
+    Early weeks: Changan is distant. Brendan doesn’t press.
+
+    Brendan handles more of the grunt review work. Slowly, Changan’s walls lower.
+
+    They begin working late together at the single desk.
+
+        They start betting on who’ll pass out first.
+
+        When Brendan dozes, Changan quietly places a blanket over him.
+
+        One night, Brendan wakes up mid-blanket and says nothing. Just smiles faintly.
+
+---
+
+⏱️ 2. Work Life: “Old Languages, New Data”
+
+    Brendan requests four categories of data: TP / TN / FP / FN.
+
+    No one objects. But compute power is limited.
+
+    To train the model, the team volunteers to manually review 50% of the content, leading to massive overtime.
+
+    Over 3 months:
+
+        The AI begins learning.
+
+        Brendan quietly transitions from patching code to leading the model architecture.
+
+        Changan reviews the output in silence—and approves.
+
+---
+
+🌙 2. Dorm Life: “Bunk Arrangement”
+
+    Changan is quietly afraid of the top bunk (he never says it outright).
+
+    Brendan casually claims it, as if by preference.
+
+    When Changan falls asleep in the chair, Brendan now lifts him gently to bed.
+
+        First time, Changan jolts awake.
+        Brendan murmurs, “Sorry. Didn’t want you to cramp your neck again.”
+
+    They begin trading stories:
+
+        Changan’s childhood food rituals in Fujian.
+
+        Brendan’s teenage job at a wind turbine station in Kansas.
+
+        Favorite textures. Disliked noise patterns.
+
+        No one ever talks about past lovers. Not once. Maybe it's just the wrong time.
+
+---
+
+⏱️ 3. Work Life: “Recognition”
+
+    After six months:
+
+        The model’s performance is benchmarked.
+
+        It outperforms the old system by a measurable margin in emotional drift detection.
+
+    They apply for presentation.
+
+    The board reviews the request.
+
+    Brendan’s former vice officer is tapped to conduct the final audit of the new AI moderation system. (He’s ambitious—now a candidate for Vice Director of the Colony.)
+
+    If this project fails under his review, it will permanently stain his record at a critical moment.
+    He’s visibly tense during early meetings. Skeptical. Sharp-tongued.
+    Secretly, he doesn’t want Brendan’s name attached to anything credible again.
+
+    But... the system works.
+
+        Performance margins are undeniable.
+        Flagging accuracy up 38%.
+        Real-time voice analysis functioning under memory ceiling.
+
+    After 3 months, he signs off.
+    Not to help Brendan.
+    To protect his own name.
+
+    Launch is approved.
+
+        Real-time audio/visual moderation is authorized.
+
+        Changan starts sleeping 6 hours a night.
+
+---
+
+🌙 3. Dorm Life: “One Bunk, Two People”
+
+    Brendan slips getting onto the top bunk. Sprains his ankle.
+
+    Changan insists Brendan take the lower bunk.
+
+    Changan sleeps at the desk. For weeks.
+
+        Backaches. Numb limbs. Constant grumpiness.
+
+    Brendan suggests sharing the bunk.
+
+- Changan’s string of excuses:
+
+    “It’s against cohabitation protocol.”
+
+    “You’ll snore. I don’t sleep through snoring.”
+
+    “I overheat easily.”
+
+    “It’ll affect your recovery if I roll into you.”
+
+    “What if someone reports it?”
+
+    “I just don’t think it’s... appropriate.”
+
+    Finally, he gives in.
+
+They sleep back-to-back the first few nights.
+Then shoulder-to-shoulder.
+
+    That week, Changan has his first full REM cycle in over a year.
+    They never move back to separate bunks.
+
+---------------------------------------------------------------------------
+@ Chapter 7 ver4
+
+Chapter 7: The Long Thread
+
+Work Life:
+
+The rebuild began in silence. Brendan said little. Changan said less.
+
+But Brendan worked. He coded. He sorted flagged posts. He designed and tested.
+
+The censorship AI ran on a language nearly two generations old—dense, low-level, high-performance.
+
+Brendan understood it immediately. He didn’t need to ask permission. He just started writing.
+
+They needed a data set.
+
+He asked for TP, TN, FP, FN categories. Changan approved it with a nod.
+
+Compute access was minimal. So the team volunteered: manual reviews, 50% of content, endless overtime.
+
+Three months of sweat. The model trained.
+
+Three more. Fine-tuning.
+
+Changan reviewed the results. Quietly nodded.
+
+Dorm Life:
+
+They spoke more now.
+
+Childhood foods. Fujian for Changan, Kansas for Brendan. Fried tofu. Pickled corn.
+
+They avoided past lovers. There were none. Just stories of moments. Almosts. Secrets kept too long.
+
+When Brendan sprained his ankle falling from the bunk, Changan moved him to the lower.
+
+Changan slept at the desk.
+
+Two weeks. Then Brendan asked:
+
+“Why not just share it?”
+
+Changan refused. Gave excuses:
+
+“It’s against cohabitation protocol.”
+
+“You’ll snore.”
+
+“I overheat.”
+
+“What if someone reports it?”
+
+“It’s not appropriate.”
+
+He cracked.
+
+One night, he climbed in beside Brendan.
+
+They slept back-to-back.
+
+Then, shoulder to shoulder.
+
+That week, Changan slept straight through the night.
+
+They never moved back.
+
+Nine months after the riot, Brendan’s old vice officer signed off on the new model.
+
+“Unusual architecture,” he said, “but elegant.”
+
+It worked. Flagging accuracy up. Bandwidth stress down.
+
+The department stabilized.
+
+Changan started sleeping six hours a night.
+
+And the bunk never felt too small.
+
+
+
+---------------------------------------------------------------------------
+@ Chapter 7 ver5
+
+
+Chapter 7: The Long Thread
+
+It took 2 days for Brendan to take hold of every kind of task the Media & Emotional Wellbeing Department has to offer.
+He would have been bored and start scheming for escaping if it were the old him, but it's different here.
+This is the first place he got to remove the bureaucratic red tape, and actually play for once. He felt like a kid, running along Kensas river, trying to see how big the world can be.
+He felt alive.
+
+Squinting at legacy code that hadn’t been properly maintained since the first terraforming decade, he knew them because he brought back an old machine from last century. The flagging system spoke the same language as that old machine. 
+That project won him his college scholar ship, and taught him how stubborn yet elegant this language can be if treated right.
+His fingers tapped through a stack of syntax lines with a calm, methodical rhythm, adjusting functions, redrawing flowcharts on his pad. Ancient, yes—but powerful.
+
+Across the room, Changan watched, but said nothing.
+
+---
+
+Brendan showed the new flagging model he built to his "team": the brats of Media & Emotional Wellbeing Department, and suggest that they can collect some data to train the model, so they can be more efficient on the task. They were hesitant at first, but craved the thrill, so eventually agreed.
+
+They started manually grading posts with rebellion score, then audio and video content.
+
+They were making something again.
+
+---
+
+At night, the dorm was always cold.
+
+Changan sat hunched over the shared desk. The room glowed faint green, data from the day still dancing on-screen. Brendan had fallen asleep in the chair first that night.
+Changan stood, hesitated, then pulled the blanket from the bunk.
+He laid it over Brendan’s shoulders.
+Brendan stirred. Didn’t speak. Just smiled.
+
+The other night, Changan falls asleep in the chair, and Brendan wanted to return the favor.
+He tried to lift Changan gently to bed.
+Changan jolted awake.
+Brendan murmurs, “Sorry. Didn’t want you to cramp your neck again.”
+
+---
+
+Brendan walked into the office with 2 huge bags of snack and instant coffee in his hands. "I'm so terribly sorry that things are like this, guys."
+Most of his team is exhausted. Sam "the battery bunny" was the only one who squeezed out a smile. "It's fine, sensei. We learned a lot and had a lot of fun."
+Due to the cut in computation quota, they have to flag 50% of their posts manually to make space for training the model.
+
+Changan waved at him from within the office. Brendan abided.
+"I was checking the error log the other day, and accidentally entered the logging page to the admin system, and I immediately got an alert email from the Bureau of Security and Stability."
+Brendan nodded. It is only reasonable that someone would be watching them.
+"That happened as well when you were checking out the source code of the flagging system", said Changan, "they were exceptionally harsh back then. It took me a lot of apologies and promises to get us out of trouble."
+"I guess they're probably waiting for us to make our last mistake, so everything is fine as long as we don't touch the admin system." Changan chuckled.
+"Can you promise me to keep everything in the sandbox, and that nothing come out?"
+
+"Sure. Might as well live once before we die."
+
+
+Three more months. Benchmarking. Error smoothing. 
+Brendan stayed to fix the back-end report parser.
+Changan stayed late to write the executive brief. 
+They filed a request to launch the new flagging model.
+
+---
+
+They started betting on who would fall asleep first. They began telling stories: 
+Brendan talked about the wind turbines in Kansas. The sound of metal flexing in storm wind.
+Changan lamented how tea grown on hills were the only nice thing in his childhood; everything else were so shoddy, so thoughtless.
+Neither ever mentioned anyone they loved, and neither asked.
+
+---
+
+Youssef can't stop adjusting his necktie.
+"How dare him come back." he thought to himself. "At this moment! It's only been 9 months, how on Mars does he expect anyone to trust him? Besides, what is the board of Security and Stability thinking? He should have been in custody, not running around the street like a rat!"
+He tightened his tie; the suffocation somehow calmed his nerves. "For years, he had been the most resourceful yet proper person I know; I thank god everyday for making him my chief. Not a day do I not wander how he descend to a hell hole like this."
+He loosened his tie. "Guess time always tells." 
+
+
+"Director Ahsan." Brendan greeted Youssef before entering the conference room, approaching his side with a palm holding the back of his upper arm. Proper yet hospitable as always.
+"There are a thousand more ways to redeem yourself. Don't do this, please."
+"You owe me nothing. In fact, I'll have to thank you for fixing the blackout." Brendan smiled, looking straight into Youssef's eyes. "I'm so happy to see you grow, even in a barren place like this."
+
+Grow. That is a word Youssef hadn't heard in forever. Everything here is built for restraint and control. 
+The word hit him like shower in spring on Earth: weightless, yet so revitalizing. His eyes are wet.
+"I didn't make it; a bunch of enthusiastic young kids did." Brendan had the warmest smile on his face. "Don't do it for me. Do it for the future of Mars."
+
+
+The presentation went stunningly. The new model may took more computational force than the old one, but it shows marginal improvement regarding processing speed and ambiguity. Less ambiguous cases means less manual sorting required, leaving more time for spreading propoganda and stabilizing spiked emotion.
+However, when they are scrolling on the IDE to get to the core algorithm, Youssef still spot several incidents where they should be using local instead of global variables. "Amateurs", he mumbled, with a smile of approval.
+
+The board of Security and Stability approved the further examination of the new model; Youssef asked for a month to read through the whole model due to his workload as the Chief Director of Power Allocation Office. If it passes, it would be put through small, then middle, then full scale real-life trial, with real-time monitor of parameters. Each trial must last at least 2 weeks, and should be conducted by a neutral third party.
+
+The board of Security and Stability approved the trial but insist that the third party can only handle the statistics, and not be exposed to the actual content of the posts. The grading of those posts has to be done by the Media & Emotional Wellbeing Department, further approved by the board of Security and Stability.
+
+---
+
+One night, Brendan was too tired that he slipped climbing up to the upper bunk. After a dull thump, Changan found Brendan whimpering on the ground, holding his left ankle. He immediately sent him to the first aid station, where a registered nurse was dosing off since 2 hours ago.
+
+Brendan's left ankle got the cast treatment the next morning. Before the cast came off, Changan pinned him on the lower bunk, while he himself took the desk.
+
+Two weeks in, Brendan can't take it anymore. "Let's just share the bed. You walk like someone took your virginity from behind."
+
+Changan stiffened.
+
+"It... it's against cohabitation protocol."
+
+Brendan shrugged.
+
+"You’ll snore. I don’t sleep through snoring."
+
+"I won’t."
+
+"I overheat easily."
+
+"I don’t."
+
+"What if someone reports it?"
+
+Brendan didn’t reply.
+
+"I just don’t think it’s... appropriate."
+
+Brendan rolled over, facing against him, closed his eyes. "Okay."
+
+----
+
+Changan's stalling worked. 
+
+Youssef approved the new model, which means that they will have to grade the post, audio and image content red flagged by the old flagging system manually, in real time, for 2 weeks. It was slightly more exhausting than it used to be, but they are up to it.
+
+2 weeks later, their manual grading workload expanded from the red flagged content to the yellow flagged ones. Changan's eyes, ears and back are constantly burning. They are getting 2 hours of sleep each day at best, at non-designated hours.
+The result was marginally better than the old system, as they expected, but then the full scale trial started. They have to walk through each frame of each image or audio content. It's like hundreds of thousands of hours of content. 
+
+Changan heard Brendan crying in the bathroom again, cursing his own life. He know things have to change. After submitting the request, the board of Security and Stability agreed to shorten the period of monitor to 7 consecutive days (they still use the 24 hour per day, 7 days per week cycle).
+
+4 months later, the Media & Emotional Wellbeing team finished the manual grading. The new model was launched, and Changan could finally get 6 hours of sleep.
+ 
+-----
+
+Changan woke up at 3 am again. His back and neck is aching, and he can't feel his arms.
+He tried to get up and stretch, but fell to the ground immediately. His pelvis has been pressed for too long that barely pulling it sent a soring pain through his ventral side. As he laid on his side on the rock-hard ground twitching, he saw the warm and soft bed, with a scent of jasmine.
+He climbed onto it, fell asleep surrounded by things warm and soft.
+
+It was the best sleep he had in years, and he wasn't late because Brendan woke him up right after his REM phase ended.
+
+That night, he climbed in that bed. Back-to-back, they didn’t speak. 
+Then shoulder-to-shoulder.
+Then in whatever position, like it was meant to be.
+
+---
+
+"I can't believe I'm getting accustomed to sleeping more than 6 hours each night. I'm not sure I'm supposed to." Said Changan.
+Brendan smirked. "Perhaps I should wake you in the middle of the night to keep you vigilant."
+"Please don't." Changan grabbed Brendan's hand under their sheet. "I don't think I'll be able to sleep without you by my side."
+
+------------------------------------------------------------------------------------------------
+
+@ Chapter 7 ver6
+
+
+Chapter 7: The Long Thread
+
+It took Brendan two days to learn every task the Media & Emotional Wellbeing Department had to offer.
+
+He didn’t feel trapped—not like he expected.
+This is the first place he can remove the red tape and actually play for once. He felt like a kid, running along Kensas river, trying to see how big the world can be.
+He felt alive.
+
+He turned his attention to legacy code that hadn’t been properly maintained since the first terraforming decade.
+He knew this language like a long lost friend: used it to bring back a salvaged machine older than the Kensas river. That project won him his college scholar ship, and taught him how stubborn yet elegant this language can be.
+His fingers tapped through a stack of syntax lines with a calm, methodical rhythm, adjusting functions, redrawing flowcharts on his pad. 
+Ancient, yes—but powerful.
+
+Across the room, Changan watched, but said nothing.
+
+---
+
+Brendan showed the prototype to the others. He called it a model. The junior staff called it magic.
+“Think of it as a mirror,” Brendan said, pointing at the interface. “We just have to teach it what the cracks look like.”
+They were hesitant at first. Then curious. Then obsessed.
+
+They graded posts manually, then came audio, then video. They calibrated for sarcasm, for cultural drift, for tone.
+Changan signed the data request without comment.
+
+Compute access was tight. Brendan didn’t complain. He adjusted.
+When the training cycle hit its limit, the team voted—unanimously—to shift to manual flagging for half the queue, just to buy the model breathing room.
+
+Brendan brought snacks, instant coffee, shoulder rubs. They built something together.
+
+---
+
+At night, the dorm was always cold.
+
+Changan sat hunched over the shared desk. The room glowed faint green, data from the day still dancing on-screen. Brendan had fallen asleep in the chair first that night.
+Changan stood, hesitated, then pulled the blanket from the bunk.
+He laid it over Brendan’s shoulders.
+Brendan stirred. Didn’t speak. Just smiled.
+
+Another night, Changan passed out mid-review; Brendan tried to lift him gently to bed.
+Changan jolted awake.
+Brendan murmurs, “Sorry. Didn’t want you to cramp your neck again.”
+
+---
+
+Brendan walked into the office with 2 huge bags of snack and instant coffee in his hands. "I'm so terribly sorry that things are like this, guys."
+Most of his team were exhausted. Sam "the battery bunny" was the only one who squeezed out a grin. "It's fine, sensei. We learned a lot and had fun."
+
+Changan waved at him from within the office. Brendan stepped into the office.
+“I accidentally entered the admin logging shell last night,” Changan said. “Got a warning email from the Board thirty seconds later.”
+Brendan nodded. “Reasonable.”
+“It happened to you too, back when you were checking the source code of the flagging system.”, said Changan. "They were exceptionally harsh. It took me a ton of apologies and promises to get us out of trouble."
+“They’re probably waiting for one of us to trip up again.”
+Changan smiled, tired. “Promise me: keep it in the sandbox. Don’t let anything leak out.”
+
+Brendan grinned. "Sure. Might as well live once before we die."
+
+---
+
+They started betting on who would fall asleep first. They began telling stories: 
+Brendan talked about the alligators in the swamps of Kensas. People thought they were only in Florida; but you could find them in Kensas as well.
+Changan lamented how tea grown on hills were the only nice thing in his childhood; everything else were so cheap and gray.
+Neither ever mentioned anyone they loved, and neither asked.
+
+Three more months. Benchmarking. Error smoothing. 
+Brendan stayed to fix the back-end report parser.
+Changan stayed late to write the executive brief. 
+They filed a request to launch the new flagging model.
+
+---
+
+Youssef couldn't stop adjusting his necktie.
+"How dare him come back!" he thought to himself. "It's only been 9 months! How on Mars does he expect anyone to trust him? Besides, what is the board of Security and Stability thinking? He should have been in custody, not running around the street like a rat!"
+He tightened his tie; the suffocation somehow calmed his nerves. "For years, I thank god everyday for making him my chief. Not a day do I not wander how he descend to a hell hole like this."
+He loosened his tie. "Guess time always tells." 
+
+
+"Director Ahsan." Brendan greeted Youssef before entering the conference room, gently placing a palm on his back.
+"There are a thousand more ways to redeem yourself. Don't do this, chief. Please." Youssef begged.
+"You owe me nothing. In fact, I thank you for fixing the blackout so quickly." Brendan smiled, looking straight into Youssef's eyes. "I'm so happy to see you grow, even in a barren place like this."
+
+Grow. That is a word Youssef hadn't heard in forever. Everything here is built for restraint and control. 
+The word hit him like shower in spring on Earth: weightless, yet so revitalizing. His eyes are wet.
+"I didn't make it; a bunch of enthusiastic young kids did." Brendan had the warmest smile on his face. "Don't do it for me. Do it for the future of Mars."
+
+
+The presentation went stunningly. The new model may took more computational force than the old one, but it shows significant gains in speed, ambiguity reduction, and reliability under strain.
+Still, Youssef spotted several incidents where they should use local instead of global variables. 
+"Amateurs", he mumbled, with a smile of approval.
+
+
+The board of Security and Stability approved the further examination of the new model; Youssef asked for a month to read through the whole script due to his workload as the Chief Director of Power Allocation Office. 
+If it passes, it would be put through small, then middle, then full scale real-life trial, with real-time monitor of parameters. Each trial must last at least 2 weeks, and should be conducted by a neutral third party.
+
+The board of Security and Stability approved the trial but insist that the third party can only handle the statistics, and not be exposed to the actual content. 
+All grading of raw content would fall to the Media & Emotional Wellbeing Department.
+It would take everything they had.
+
+---
+
+One night, Brendan was too tired that he slipped climbing up to the upper bunk. After a dull thump, Changan found Brendan whimpering on the ground, holding his left ankle. 
+He immediately sent him to the first aid station. The nurse was asleep when they arrived. He offered ibuprofen. 
+
+The next morning, Brendan got a cast. Before the cast came off, Changan pinned him to the lower bunk, while he himself took the desk.
+
+Two weeks in, Brendan can't take it anymore. "Let's just share the bed. You walk like someone's been pounding your behind for pleasure."
+
+Changan stiffened.
+
+"It... it's against cohabitation protocol."
+
+Brendan shrugged.
+
+"You’ll snore. I don’t sleep through snoring."
+
+"I won’t."
+
+"I overheat easily."
+
+"I don’t."
+
+"What if someone reports it?"
+
+Brendan didn’t reply.
+
+"I just don’t think it’s... appropriate."
+
+Brendan rolled over, facing against him, closed his eyes. "Okay."
+
+----
+
+Changan's stalling worked. 
+
+Youssef approved the new model, which means that they will have to grade the post, audio and image content red flagged by the old flagging system manually, in real time, for 2 weeks. It was slightly more exhausting than it used to be, but they are up to it.
+
+2 weeks later, their manual grading workload expanded from the red flagged content to the yellow flagged ones. Changan's eyes, ears and back are constantly burning. They are getting 2 hours of sleep each day at best, at non-designated hours. The result was significantly better than the old system, as they expected.
+
+Then the full scale trial started. They have to walk through each frame of each video content. It's like hundreds of thousands of hours of content. 
+
+Changan heard Brendan crying in the bathroom again. He know things have to change. After submitting the request, the board of Security and Stability agreed to shorten the period of monitor to 7 consecutive days (they still use the 24 hour per day, 7 days per week cycle).
+
+4 months later, the Media & Emotional Wellbeing team finished the manual grading. The new model was launched, and Changan could finally get 6 hours of sleep.
+ 
+-----
+
+Changan still refuse to share the bed with Brendan.
+He woke up at 3 am again. His back and neck is aching, and he can't feel his arms.
+He tried to get up and stretch, but fell to the ground immediately. His pelvis has been pressed for too long that barely pulling it sent a soring pain through his ventral side. As he laid on his side on the rock-hard ground twitching, he saw the warm and soft bed, with a scent of jasmine.
+He climbed onto it, fell asleep surrounded by things warm and soft.
+
+It was the best sleep he had in years, and he wasn't late because Brendan woke him up right after his REM phase ended.
+
+That night, he climbed in that bed. Back-to-back, they didn’t speak. 
+Then shoulder-to-shoulder.
+Then in whatever position, like it was meant to be.
+
+---
+
+"I can't believe I'm getting accustomed to sleeping more than 6 hours each night. I'm not sure I'm supposed to." Said Changan.
+Brendan smirked. "Perhaps I should wake you in the middle of the night to keep you vigilant."
+"Please don't." Changan grabbed Brendan's hand under their sheet. "Just... try to not leave me."
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+@ Chapter8 ver1
+
+Chapter 8 Outline: “More Than Warm”
+🎯 Focus:
+
+The entire chapter is one extended conversation—30 minutes of emotional fencing, vulnerability veiled in jokes, stories, and questions with double meanings. They are not “confessing”—they’re testing for safety.
+🔄 Conversational Tactics They Use to Test Each Other
+
+Here are several practical, in-character ways they could test for acceptance, with examples and hidden meanings in parentheses:
+
+---
+
+I. Shared Memory as Mirror
+
+    Brendan: “When I was twelve, I used to sleep in the barn. Not for fun—just... quieter out there.”
+    → (I’ve always wanted to be alone, but never liked it.)
+
+    Changan: “We had a room with six kids and one window. I still remember which corner got the warmest in winter.”
+    → (I’ve spent most of my life trying to find warmth.)
+
+These stories are about physical space but they’re also about emotional need.
+
+---
+
+II. Indirect Questions
+
+    Changan: “Do you think people like us—middle-aged, stationed, watched—still make new attachments?”
+    → (Would you ever fall in love again? With someone like me?)
+
+    Brendan: “Have you ever had someone stick around long enough to get used to your habits?”
+    → (Could you see me being that person?)
+
+---
+
+III. Mild Teasing with an Edge
+
+    Brendan: “You’re very polite for someone who kicks in his sleep.”
+    → (I’ve noticed everything about you.)
+
+    Changan: “You breathe funny when you’re nervous. Like now.”
+    → (This is a line. I'm seeing if you'll cross it.)
+
+---
+
+IV. Hypotheticals
+
+    Changan: “If you were reassigned tomorrow, would you tell me before leaving?”
+    → (Would I be worth saying goodbye to?)
+
+    Brendan: “If they gave us separate quarters again, would you even notice?”
+    → (Are you as dependent on this as I am?)
+
+---
+
+V. Soft Defense / Gentle Self-Sabotage
+
+    Changan: “I’m not good with people. Most of them just want you to follow the script.”
+    → (Are you still here because you want to be? Or because it’s easy?)
+
+    Brendan: “I tend to push people before I mean to. It’s ruined things before.”
+    → (Tell me I haven’t ruined this.)
+
+---
+
+VI. Sleep-Edge Confessions
+
+They both know people say truer things right before sleep.
+
+    Brendan (half-asleep): “You smell like tea and dust. Familiar things.”
+    → (You make me feel safe. Home.)
+
+    Changan (eyes closed): “If you stop showing up, I won’t ask why. But I’ll know.”
+    → (Please don’t disappear. I won’t survive it twice.)
+
+---
+
+🧱 Suggested Structure (Real Time, Rough Beats)
+
+0–5 minutes: Surface-level talk, work stories, dry jokes.
+5–15 minutes: Personal memories, guarded hypotheticals.
+15–25 minutes: Emotional questions masked in clever phrasing.
+25–30 minutes: One of them says something blunt but quiet—not quite a confession, but close.
+The other doesn't respond with words—only action (a hand held tighter, a forehead pressed gently to a shoulder).
+
+Then they fall asleep.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

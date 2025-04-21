@@ -1,0 +1,89 @@
+/* Custom styles for Fired For Mars */
+
+/* Mars theme colors */
+:root {
+  --mars-red: #c1440e;
+  --mars-orange: #e15f41;
+  --mars-brown: #9c4a28;
+  --mars-light: #f8d8b7;
+  --mars-dark: #2c0e0e;
+}
+
+/* Hero section styling */
+#sc {
+  color: var(--mars-orange);
+}
+
+a {
+  color: var(--mars-orange);
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--mars-red);
+  text-decoration: none;
+}
+
+/* Background image overlay */
+.bg-holder::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.2);
+  z-index: -1;
+}
+
+/* Custom animation for page elements */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 40px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.animated {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
+.fadeInUp {
+  animation-name: fadeInUp;
+}
+
+/* Mars-themed button */
+.btn-mars {
+  background-color: var(--mars-orange);
+  color: white;
+  border: none;
+  padding: 0.5rem 1.5rem;
+  border-radius: 0.25rem;
+  transition: background-color 0.3s ease;
+}
+
+.btn-mars:hover {
+  background-color: var(--mars-red);
+  color: white;
+}
+
+/* Custom footer styling */
+.footer a.text-600:hover {
+  color: var(--mars-orange) !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 767.98px) {
+  .display-3 {
+    font-size: 2.5rem;
+  }
+  
+  .fs-0 {
+    font-size: 1rem;
+  }
+} 

@@ -18,8 +18,66 @@
     <link href="styles.css" rel="stylesheet">
     <style>
         .swiper-slide {
-            width: 550px !important;
+            width: 552px !important;
             height: 659px !important;
+            overflow: hidden;
+        }
+        .bg-holder {
+            background-size: contain !important;
+            background-position: center !important;
+            width: 100%;
+            height: 100%;
+            max-width: 100%;
+            max-height: 100%;
+        }
+        .swiper-container {
+            overflow: visible !important;
+            height: 659px !important;
+        }
+        .min-vh-lg-100 {
+            min-height: auto !important;
+            height: 659px !important;
+        }
+        .py-9 {
+            padding-top: 0 !important;
+            padding-bottom: 0 !important;
+        }
+        [class*="row"] [class*="col-lg-6"].px-0 {
+            height: 659px !important;
+        }
+        .text-center {
+            text-align: left !important;
+        }
+        .text-lg-start {
+            text-align: left !important;
+        }
+        h1.display-3, h3.display-3 {
+            font-size: 2.5rem !important;
+            text-align: center !important;
+        }
+        #sc {
+            font-size: 2.5rem !important;
+            text-align: center !important;
+        }
+        .fs-sm-4, .fs-3 {
+            font-size: 2.5rem !important;
+        }
+        ul {
+            list-style-type: none !important;
+        }
+        /* Hide the chapter index on the left */
+        body > div > ul, 
+        body > div > a,
+        body > div > p {
+            display: none !important;
+        }
+        /* Center align the subtitle */
+        h4.text-uppercase.fw-normal.ls.text-white.bg-dark {
+            text-align: center !important;
+            margin: 0 auto !important;
+            display: table !important;
+            padding: 0.25rem 4rem !important;
+            letter-spacing: 2px !important;
         }
     </style>
 </head>
@@ -28,28 +86,6 @@
 
     <!-- Main Content -->
     <main class="main min-vh-100" id="top">
-        <!-- Navigation -->
-        <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3 backdrop" data-navbar-on-scroll="data-navbar-on-scroll">
-            <div class="container">
-                <a class="navbar-brand d-flex align-items-center fw-bold fs-2" href="index.html">
-                    <span class="text-primary">Fired</span>
-                    <span class="text-dark">For</span>
-                    <span class="text-danger">Mars</span>
-                </a>
-                <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
-                    <ul class="navbar-nav ms-auto pt-2 pt-lg-0">
-                        <li class="nav-item"><a class="nav-link fw-medium active" href="index.html">Home</a></li>
-                        <li class="nav-item"><a class="nav-link fw-medium" href="chapter1.html">Chapter 1</a></li>
-                        <li class="nav-item"><a class="nav-link fw-medium" href="chapter2.html">Chapter 2</a></li>
-                        <li class="nav-item"><a class="nav-link fw-medium" href="chapter3.html">Chapter 3</a></li>
-                        <li class="nav-item"><a class="nav-link fw-medium" href="chapter4.html">Chapter 4</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
 
         <!-- <section> begin -->
         <section class="py-0">
@@ -69,20 +105,22 @@
                         <div class="row flex-center h-100">
                             <div class="col-lg-10 text-black text-center text-lg-start" data-zanim-timeline="{}">
                                 <div class="overflow-hidden">
-                                    <h4 class="text-uppercase fw-normal ls text-white bg-dark p-1 rounded d-inline-block" data-zanim-xs='{"delay":0.1}'>Novel Set on Mars</h4>
+                                    <h4 class="text-uppercase fw-normal ls text-white bg-dark p-1 rounded d-inline-block" data-zanim-xs='{"delay":0.1}'>    AN OLD MAN YAOI    </h4>
                                 </div>
                                 <div class="overflow-hidden">
                                     <h1 class="display-3 fs-5 fs-sm-6" id="sc" data-zanim-xs='{"delay":0.2}'>
-                                        F<span class="fw-light">ired</span><br>
-                                        F<span class="fw-light">or</span><br>
-                                        M<span class="fw-light">ars</span>
+                                        Fired For Mars
                                     </h1>
                                 </div>
                                 <div class="overflow-hidden">
                                     <p class="text-900 fs-0 mt-3 mt-md-5" data-zanim-xs='{"delay":0.3}'>
-                                        A dystopian story about life in a Mars colony<br>
-                                        where surveillance and control rule everyday existence.<br>
-                                        Follow our characters as they navigate this hostile new world.
+                                        Brendan Hertz and Changan Wang,<br>
+                                        2 officers banished to Mars,<br>
+                                        found comfort in each other's company,<br>
+                                        but were tormented by nuisances of Brendan's making.<br>
+                                        <br>
+                                        Follow our characters as they reach out for love<br>
+                                        in this hostile new world.
                                     </p>
                                 </div>
                             </div>
@@ -96,7 +134,7 @@
                         <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}'>
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide min-vh-lg-100 py-9">
-                                    <div class="bg-holder" style="background-image:url(assets/img/Chapter01.jpg);"></div>
+                                    <div class="bg-holder" style="background-image:url(assets/img/Chapter01.png);"></div>
                                 </div>
                             </div>
                         </div>
@@ -106,7 +144,8 @@
                             <div class="col-lg-10 text-black text-center text-lg-start" data-zanim-timeline="{}">
                                 <div class="overflow-hidden">
                                     <h3 class="display-3 fs-3 fs-sm-4" id="sc" data-zanim-xs='{"delay":0.3}'>
-                                        Chapter 1:<span class="fw-light"> The Fight for Serenity</span>
+                                        Chapter 1:<br>
+                                        <span class="fw-light"> The Fight for Serenity</span>
                                     </h3>
                                 </div>
                                 <div class="overflow-hidden">
@@ -130,7 +169,7 @@
                         <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}' data-zanim-trigger="scroll">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide min-vh-lg-100 py-9">
-                                    <div class="bg-holder" style="background-image:url(assets/img/Chapter02.jpg);"></div>
+                                    <div class="bg-holder" style="background-image:url(assets/img/Chapter02.png);"></div>
                                 </div>
                             </div>
                         </div>
@@ -140,7 +179,8 @@
                             <div class="col-lg-10 text-black text-center text-lg-start" data-zanim-timeline="{}" data-zanim-trigger="scroll">
                                 <div class="overflow-hidden">
                                     <h3 class="display-3 fs-3 fs-sm-4" id="sc" data-zanim-xs='{"delay":0.3}'>
-                                        Chapter 2:<span class="fw-light"> The Wrong Ears</span>
+                                        Chapter 2:<br>
+                                        <span class="fw-light"> The Wrong Ears</span>
                                     </h3>
                                 </div>
                                 <div class="overflow-hidden">
@@ -164,7 +204,7 @@
                         <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}' data-zanim-trigger="scroll">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide min-vh-lg-100 py-9">
-                                    <div class="bg-holder" style="background-image:url(assets/img/Chapter03.jpg);"></div>
+                                    <div class="bg-holder" style="background-image:url(assets/img/Chapter03.png);"></div>
                                 </div>
                             </div>
                         </div>
@@ -174,7 +214,8 @@
                             <div class="col-lg-10 text-black text-center text-lg-start" data-zanim-timeline="{}" data-zanim-trigger="scroll">
                                 <div class="overflow-hidden">
                                     <h3 class="display-3 fs-3 fs-sm-4" id="sc" data-zanim-xs='{"delay":0.3}'>
-                                        Chapter 3:<span class="fw-light"> The Leash</span>
+                                        Chapter 3:<br>
+                                        <span class="fw-light"> The Leash</span>
                                     </h3>
                                 </div>
                                 <div class="overflow-hidden">
@@ -198,7 +239,7 @@
                         <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}' data-zanim-trigger="scroll">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide min-vh-lg-100 py-9">
-                                    <div class="bg-holder" style="background-image:url(assets/img/Chapter04.jpg);"></div>
+                                    <div class="bg-holder" style="background-image:url(assets/img/Chapter04.png);"></div>
                                 </div>
                             </div>
                         </div>
@@ -208,7 +249,8 @@
                             <div class="col-lg-10 text-black text-center text-lg-start" data-zanim-timeline="{}" data-zanim-trigger="scroll">
                                 <div class="overflow-hidden">
                                     <h3 class="display-3 fs-3 fs-sm-4" id="sc" data-zanim-xs='{"delay":0.3}'>
-                                        Chapter 4:<span class="fw-light"> Power, and How to Lose It</span>
+                                        Chapter 4:<br>
+                                        <span class="fw-light"> Power, and How to Lose It</span>
                                     </h3>
                                 </div>
                                 <div class="overflow-hidden">
@@ -232,7 +274,7 @@
                         <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}' data-zanim-trigger="scroll">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide min-vh-lg-100 py-9">
-                                    <div class="bg-holder" style="background-image:url(assets/img/Chapter05.jpg);"></div>
+                                    <div class="bg-holder" style="background-image:url(assets/img/Chapter05.png);"></div>
                                 </div>
                             </div>
                         </div>
@@ -242,7 +284,8 @@
                             <div class="col-lg-10 text-black text-center text-lg-start" data-zanim-timeline="{}" data-zanim-trigger="scroll">
                                 <div class="overflow-hidden">
                                     <h3 class="display-3 fs-3 fs-sm-4" id="sc" data-zanim-xs='{"delay":0.3}'>
-                                        Chapter 5:<span class="fw-light"> Welcome Committee</span>
+                                        Chapter 5:
+                                        <span class="fw-light"> Welcome Committee</span>
                                     </h3>
                                 </div>
                                 <div class="overflow-hidden">
@@ -266,7 +309,7 @@
                         <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}' data-zanim-trigger="scroll">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide min-vh-lg-100 py-9">
-                                    <div class="bg-holder" style="background-image:url(assets/img/Chapter06.jpg);"></div>
+                                    <div class="bg-holder" style="background-image:url(assets/img/Chapter06.png);"></div>
                                 </div>
                             </div>
                         </div>
@@ -276,7 +319,8 @@
                             <div class="col-lg-10 text-black text-center text-lg-start" data-zanim-timeline="{}" data-zanim-trigger="scroll">
                                 <div class="overflow-hidden">
                                     <h3 class="display-3 fs-3 fs-sm-4" id="sc" data-zanim-xs='{"delay":0.3}'>
-                                        Chapter 6:<span class="fw-light"> Uplift, Overheat</span>
+                                        Chapter 6:<br>
+                                        <span class="fw-light"> Uplift, Overheat</span>
                                     </h3>
                                 </div>
                                 <div class="overflow-hidden">
@@ -300,7 +344,7 @@
                         <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}' data-zanim-trigger="scroll">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide min-vh-lg-100 py-9">
-                                    <div class="bg-holder" style="background-image:url(assets/img/Chapter07.jpg);"></div>
+                                    <div class="bg-holder" style="background-image:url(assets/img/Chapter07.png);"></div>
                                 </div>
                             </div>
                         </div>
@@ -310,7 +354,8 @@
                             <div class="col-lg-10 text-black text-center text-lg-start" data-zanim-timeline="{}" data-zanim-trigger="scroll">
                                 <div class="overflow-hidden">
                                     <h3 class="display-3 fs-3 fs-sm-4" id="sc" data-zanim-xs='{"delay":0.3}'>
-                                        Chapter 7:<span class="fw-light"> The Long Thread</span>
+                                        Chapter 7:<br>
+                                        <span class="fw-light"> The Long Thread</span>
                                     </h3>
                                 </div>
                                 <div class="overflow-hidden">

@@ -143,4 +143,45 @@ a:hover {
     h1.display-3 {
         font-size: 2.5rem;
     }
+}
+
+/* Hide the chapter index on all pages - more precise targeting */
+body > div.has-sidebar,
+body > div.panel,
+body > div:first-child:not(main):not(.navbar):not(.container):not(.container-fluid) {
+    display: none !important;
+}
+
+/* Target links and list items within the sidebar specifically */
+body > div > a[href="index.html"],
+body > div > a[href="chapter1.html"],
+body > div > a[href="chapter2.html"],
+body > div > a[href="chapter3.html"],
+body > div > a[href="chapter4.html"],
+body > div > ul > li > a[href="index.html"],
+body > div > ul > li > a[href="chapter1.html"],
+body > div > ul > li > a[href="chapter2.html"],
+body > div > ul > li > a[href="chapter3.html"],
+body > div > ul > li > a[href="chapter4.html"] {
+    display: none !important;
+}
+
+/* Hide any containing list */
+body > div > ul:has(a[href="chapter1.html"]) {
+    display: none !important;
+}
+
+/* Make sure the main content is still visible */
+body > main,
+body > div > main {
+    display: block !important;
+}
+
+/* Center align the subtitle */
+h4.text-uppercase.fw-normal.ls.text-white.bg-dark {
+    text-align: center !important;
+    margin: 0 auto !important;
+    display: table !important;
+    padding: 0.25rem 4rem !important;
+    letter-spacing: 2px !important;
 } 

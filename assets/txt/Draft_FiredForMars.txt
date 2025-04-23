@@ -1919,6 +1919,162 @@ The other doesn't respond with words—only action (a hand held tighter, a foreh
 Then they fall asleep.
 
 
+------------------------------------------------------------------------------
+@ Chapter 9 ver 1
+
+Chapter 9: Split Quarters
+
+Brendan walked into his former former office. Everything's unchanged, but nothing is the same.
+
+His new deputy, already at the terminal, looked up—and nearly flinched. Covered it with a quick smile.
+“Sir. Congratulations again.”
+Brendan tossed his data tablet on the desk and began shrugging off his jacket without a word.
+
+The deputy tried again. “Nice suite, isn’t it? I heard your quarters came with the promotion. Last one in the Tier-2 block. They had to rotate Officer Wang elsewhere since the cohab unit doesn’t match rank accommodation.”
+
+Brendan froze mid-button. “Excuse me?”
+“Wang. Director Wang? Your previous... roommate?”
+
+A pause.
+“Standard protocol. Promotion resets your housing class.”
+
+Brendan nodded slowly, then turned away, hiding the smallest breath of relief behind the motion of pouring himself a glass of water. 
+That doesn't change anything. He'll probably never get to see Changan again, on this narrow prison called Mars.
+
+His deputy tried to say something flattering, but decided not to and left after Brendan was soaked in his sorrow for too long.
+
+---
+
+He wandered aimlessly into the canteen. "What's the point of eating if I'm not keen on living?" He signed, staring at the ground.
+Then he bumped into someone. His jaw dropped, but he reclaimed his calm immediately.
+“Director Wang!” Brendan called, grinning. “How nice to meet you! Come sit!”
+
+Changan froze. Their eyes met. And just as fast—Changan broke it and turned, trying to vanish into the crowd.
+Brendan’s eyes narrowed, frowned, then they opened wide as he saw the context. 
+He grabbed Changan's arm firmly, almost violently, pulled him close, and growled into his ears: "SIT. DOWN."
+
+A surveillance camera caught this. Yellow-flagged.
+
+They sat at the nearest table.
+Brendan reached across the table, palm up.
+“Fifty credits.”
+Changan blinked. “What?”
+“Fifty credits. Come on.”
+Still dazed, Changan pulled a payment chip from his wallet and tapped it against Brendan’s palm.
+Brendan pinched the chip with his thumb and index finger, waved it like it's the opening scene of a magic show. "Thank~ you." Then he slipped into his pocket.
+
+After putting a spoonful of mashed potato into his mouth, Brendan started to talk. “How’s your dorm?”
+“Clean. Better heating. Queen size bed.”
+“Nice, nice. Why are you not eating in your office like you used to?”
+“I have more time. Air condition system in the office had some problem.”
+“That's not good. Favorite dish here?”
+“I don't know. Haven't really explored.”
+"It's fine. You'll get there. How about..."
+
+At the end, Brendan stood first. “I'll meet you here 12 o'clock tomorrow, okay?”
+Changan was evading his eye contact. "poor little thing." Brendan thought.
+Brendan put a hand on Changan's shoulder. "You'll be fine. 12 o'clock tomorrow. Here. Okay?"
+
+---
+
+Changan waited a day. Nothing happened, so he decided to go meet Brendan.
+Brendan was scanning the canteen when Changan arrived, then he face-palmed himself. “Damn it,” he muttered. Changan was worried, but he went with Brendan's lead.
+Brendan picked the least obvious table, set down his tray, and casually let the edge of his cup slide beneath the tabletop. A soft clink. Then sizzle.
+The faintest trail of steam rose from beneath.
+
+Changan was shocked. "Is that... (whisper) a bug?"
+"A useless one. What kind of cheap lazy pig would get a bug without IP55 protection?" Brendan rolled his eyes.
+
+“You know why I asked for that fifty dollars?” Brendan says, voice casual.
+“Not really.”
+“Because what I did—grabbing your arm, whispering—would’ve been yellow-flagged. Maybe red if they were cranky. So I needed a motive. You owed me money.”
+Changan raised an eyebrow.
+“I know, right.” Brendan continued, voice still casual. “Our new model doing well?”
+“I think so.”
+“Of course it is. You’ve been taking full-hour lunches.”
+Changan winces. “I still think we’re being watched.”
+“Of course we are,” Brendan says. “But think about this: those surveillance centers probably use a different flagging system. Our model won’t work well on surveillance camera footages. But if their system is as busted as ours used to be…”
+
+He grins.
+
+“They’ll come asking for a new model. And I’ve got a plan.”
+Changan doesn’t reply. But he doesn’t argue.
+
+---
+
+“They reached out,” Chengan said before even sitting. “Bureau of Safety and Stability. They want us to showcase the model.”
+Brendan didn’t even blink. “Perfect,” he said.
+Changan narrowed his eyes. “What are you planning?”
+
+Brendan leaned in, eyes bright.
+“Lets say there's a few behavioral exceptions in the flagging system. The frequency is so low they won't even notice.”
+"What are you talking about?"
+"They'll probably expect intimacy in public to be red-flagged, but hugging, holding hands or even kissing never hurt anyone. Why shouldn't we?"
+Changan frowned. "You're going to get caught."
+Brendan shrugged. "First of all, we'll be prudent. We'll Trojan Horse the patch into the system and release it when no one is watching anymore. Second, with Youssef's plate full, I'll probably be the one they turn to to examine the source code. Those cheap, lazy pigs won't even know that this is an inside job."
+"And most importantly, so what if they find out? We'll just apologize, blame it on the training data, get a slap on the wrist. Maybe we get to share a room again if we're lucky."
+
+Changan was half stunned, half incredulous. Something unbelievably similar echoed in his ears.
+Brendan grabbed both his arms. "Trust me. When an opportunity comes, we have to grab it. You want a better Mars, don't you?"
+Changan looked into his eyes. "Anything for you."
+
+------------------------------------------------------------------------------------------------------------
+
+@ Chapter 13 ver 1
+
+
+1. Curiosity – The Salvaged Robot (Age 17)
+
+    A rusted machine behind his foster home’s barn.
+
+    No one told him to fix it.
+
+    He didn’t even know what it did.
+
+    He just needed to see it move.
+
+    He remembers the first time it sparked to life—how he laughed, alone, like he’d cracked the world open.
+    It didn’t matter that it broke again the next day.
+    It mattered that he could.
+
+--> let's make him grow up at a normal family: his parents grew up being promised a bright future, but then most of the jobs were automated, and they were the replaced ones. Although they still get life supplies and welfare fee from the government, they were deeply stuck in the lament that their bright future will never come. As a result, they hate, fear, despise technology, especially AI. It was the first tyranny Brendan experienced. When his father found him fixing the salvaged robot in the barn, and it moved, he smashed it shut with a shovel. Then he cursed it with the most vicious words and left. Although he did nothing directly to young Brendan, Brendan was painful to see how fear and uncontrolled power can destroy the most beautiful of things.
+
+He decided to escape, and he did, with the coding knowledge he learned in secret, and his robot project.
+
+
+2. That’s when he started to think: “I’m not just curious. I’m capable.”
+--> I like this. After he attended college, he won awards, and his goal shifted from explore the world to being superior. He started chasing external validation: he heard that government position are way more coveted than private business, so that was what he strived for. and he succeeded.
+
+3. The first week at the government department office, Brendan felt like he was in a whole new world, surrounded by people as smart as him, until the first group meeting. When his superior ask amongst the junior engineers who wants to take a project, there was silence, until one junior engineer said "Brendan is extremely capable, he'll definitely ace it. What do you say, Brendan?" Being that naive kid, he said yes. And the next 6 months, his life was like hell: that project has the most picky client, had to deal with excessive complaints, and endless paperwork. The seed of fear was planted into Brendan's mind. This is a landmine field. Better someone else than me.
+He became ruthless ever since, but he hid it deep: if he deem someone would never find out or would never have the chance to revenge, he'll exploit that person till there's nothing left, but he'll be doing it in the dark, or make that person think it's his own idea. 
+
+------------------------------------
+
+let's make some adjustments to Brendan's mentality:
+
+1. Government work is where the real power lives
+--> he doesn't crave power then. He wanted validation, so what he cared was how 1000 people were competing for 3 government position, and what kind of glory he could win if he actually gets it. He was vain.
+
+2. lets place a phase 4.5: the first time Brendan loose balance
+- Brendan got really good at manipulating people in the dark, and pride took over him again. He started to take risks, starting small like spreading rumors about how B feel about A so A would distrust B, and Brendan can swoop in to get the dirt of B from A.
+- Of course, eventually, his games become riskier, and he finally messed with the wrong people, and was sent to Mars.
+- He laid low, became a rule abiding officer as he think others expect, with his welcoming smile. This lasted for a few years, and the dumb (compared to his previous oe in a thousand earth colleagues) colleagues on Mars look up to and admires him, so he had been calm. Until he met Changan, who was the person he wanted to spite in years.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

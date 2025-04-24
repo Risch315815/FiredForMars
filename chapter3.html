@@ -23,20 +23,19 @@
     <!-- Main Content -->
     <main class="main min-vh-100" id="top">
         <!-- Chapter Content -->
-        <section class="py-0">
-            <div class="container-fluid">
-                <div class="row h-100 border-bottom">
-                    <div class="col-lg-6 px-0 order-lg-0" data-zanim-lg='{"animation":"slide-left","delay":0.4}'>
-                        <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}'>
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide min-vh-lg-100 py-9">
-                                    <div class="bg-holder" style="background-image:url(assets/img/Chapter03.png);"></div>
-                                </div>
-                            </div>
+        <section class="py-0" id="page-casestudy">
+            <div class="container-fluid px-lg-0">
+                <div class="row">
+                    <!-- Fixed Left Image -->
+                    <div class="col-lg-6 px-0">
+                        <div class="fixed-image-container">
+                            <img class="fit-cover w-100" src="assets/img/Chapter03.png" alt="Chapter 3">
                         </div>
                     </div>
+                    
+                    <!-- Scrollable Content -->
                     <div class="col-lg-6 bg-white py-7 py-md-8">
-                        <div class="row flex-center h-100">
+                        <div class="row flex-center">
                             <div class="col-lg-10 text-black text-lg-start" data-zanim-timeline="{}">
                                 <div class="overflow-hidden">
                                     <h1 class="display-3 fs-3 fs-sm-4" id="ch3-excerpt">
@@ -56,28 +55,7 @@
                                         <p>He took another hit. Coughed.</p>
                                         
                                         <p>"I've been thinking about just… leaving. Starting something small. A sandbox site. Something light."</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="row h-100 border-bottom">
-                    <div class="col-lg-6 px-0 order-lg-2" data-zanim-lg='{"animation":"slide-left","delay":0.4}'>
-                        <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}'>
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide min-vh-lg-100 py-9">
-                                    <div class="bg-holder" style="background-image:url(assets/img/Chapter03-2.png);"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 bg-white py-7 py-md-8">
-                        <div class="row flex-center h-100">
-                            <div class="col-lg-10 text-black text-lg-start" data-zanim-timeline="{}">
-                                <div class="overflow-hidden">
-                                    <div class="chapter-content">
+                                        
                                         <p>On the far side of the room, the senior programmer didn't look up. He was older, greying at the edges, sleeves rolled up in that way that didn't look rebellious—just permanent.</p>
                                         
                                         <p>"You ever heard of SynThread?" he asked.</p>
@@ -95,28 +73,7 @@
                                         <p>The man leaned back. Exhaled smoke toward the ceiling fan.</p>
                                         
                                         <p>"One of their employees posted a meme. Nothing huge. Something about Mars—'Come for the oxygen, stay because you weren't cleared to leave.' Got flagged as behavioral nonalignment."</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="row h-100 border-bottom">
-                    <div class="col-lg-6 px-0 order-lg-0" data-zanim-lg='{"animation":"slide-left","delay":0.4}'>
-                        <div class="swiper-container theme-slider swiper-theme swiper-container-fade" data-swiper='{"autoplay":{"delay":5000,"disableOnInteraction":false},"loop":true,"effect":"fade","pagination":{"el":".swiper-pagination","clickable":true,"type":"bullets"}}' data-zanim-lg='{"animation":"zoom-out","delay":0}'>
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide min-vh-lg-100 py-9">
-                                    <div class="bg-holder" style="background-image:url(assets/img/Chapter03-3.png);"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 bg-white py-7 py-md-8">
-                        <div class="row flex-center h-100">
-                            <div class="col-lg-10 text-black text-lg-start" data-zanim-timeline="{}">
-                                <div class="overflow-hidden">
-                                    <div class="chapter-content">
+                                        
                                         <p>The junior snorted. "Seriously?"</p>
                                         
                                         <p>"Seriously. Four days later, their compute quota vanished. Just gone. Couldn't render a homepage without buffering."</p>
@@ -147,8 +104,11 @@
                                         
                                         <p>The door shut behind him. The fan never stopped spinning.</p>
                                         
-                                        <div class="chapter-navigation mt-5">
-                                            <a href="chapter2.html" class="btn btn-outline-dark me-2">← Previous Chapter</a>
+                                        <div class="chapter-navigation mt-5 mb-5">
+                                            <a href="chapter2.html" class="btn btn-outline-dark">← Previous Chapter</a>
+                                            <span class="nav-separator">|</span>
+                                            <a href="index.html" class="btn btn-outline-dark">Home</a>
+                                            <span class="nav-separator">|</span>
                                             <a href="chapter4.html" class="btn btn-primary">Next Chapter →</a>
                                         </div>
                                     </div>

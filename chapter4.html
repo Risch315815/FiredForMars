@@ -16,6 +16,32 @@
     <link href="assets/css/theme.min.css" rel="stylesheet">
     <link href="assets/css/user.min.css" rel="stylesheet">
     <link href="styles.css" rel="stylesheet">
+    <style>
+        .language-switcher {
+            text-align: center;
+            margin-bottom: 15px;
+            font-weight: bold;
+            color: #000;
+            font-family: 'Poppins', 'Noto Sans TC', sans-serif;
+        }
+        .language-switcher a {
+            color: #000;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .language-switcher a:hover {
+            text-decoration: underline;
+        }
+        .language-separator {
+            margin: 0 10px;
+        }
+        body, p, h1, h2, h3, h4, h5 {
+            font-family: 'Poppins', sans-serif;
+        }
+        body.lang-zh, .lang-zh p, .lang-zh h1, .lang-zh h2, .lang-zh h3, .lang-zh h4, .lang-zh h5 {
+            font-family: 'Poppins', 'Noto Sans TC', sans-serif;
+        }
+    </style>
 </head>
 
 <body class="overflow-hidden-x">
@@ -37,6 +63,11 @@
                     <div class="col-lg-6 bg-white py-7 py-md-8">
                         <div class="row flex-center">
                             <div class="col-lg-10 text-black text-lg-start" data-zanim-timeline="{}">
+                                <div class="language-switcher">
+                                    <a href="chapter4.html?lang=en" class="language-en active">English</a>
+                                    <span class="language-separator">|</span>
+                                    <a href="chapter4.html?lang=zh" class="language-zh">中文</a>
+                                </div>
                                 <div class="overflow-hidden">
                                     <h1 class="display-3 fs-3 fs-sm-4" id="ch4-excerpt">
                                         Chapter 4:<span class="fw-light"> Power, and How to Lose It</span>
@@ -131,11 +162,11 @@
                                         <p>Changan could not do the same.</p>
                                         
                                         <div class="chapter-navigation mt-5 mb-5">
-                                            <a href="chapter3.html" class="btn btn-outline-dark">← Previous Chapter</a>
+                                            <a href="chapter3.html" class="btn btn-outline-dark" id="prev-chapter">← Previous Chapter</a>
                                             <span class="nav-separator">|</span>
-                                            <a href="index.html" class="btn btn-outline-dark">Home</a>
+                                            <a href="index.html" class="btn btn-outline-dark" id="home-link">Home</a>
                                             <span class="nav-separator">|</span>
-                                            <a href="#" class="btn btn-primary disabled">Next Chapter (Coming Soon)</a>
+                                            <a href="#" class="btn btn-primary" id="next-chapter">Next Chapter (Coming Soon) →</a>
                                         </div>
                                     </div>
                                 </div>
@@ -177,6 +208,140 @@
     <script src="assets/js/swiper-bundle.min.js"></script>
     <script src="assets/js/rellax.min.js"></script>
     <script src="assets/js/theme.js"></script>
+    
+    <!-- Language Switcher Script -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Function to get URL parameters
+            function getUrlParameter(name) {
+                name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+                var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+                var results = regex.exec(location.search);
+                return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+            }
+            
+            // Get the language parameter from URL
+            var lang = getUrlParameter('lang') || 'en';
+            
+            // Update the language switcher links
+            document.querySelector('.language-en').href = 'chapter4.html?lang=en';
+            document.querySelector('.language-zh').href = 'chapter4.html?lang=zh';
+            
+            // Update links to maintain language preference
+            document.getElementById('home-link').href = 'index.html?lang=' + lang;
+            document.getElementById('prev-chapter').href = 'chapter3.html?lang=' + lang;
+            
+            if (lang === 'zh') {
+                document.body.classList.add('lang-zh');
+                document.querySelector('.language-en').classList.remove('active');
+                document.querySelector('.language-zh').classList.add('active');
+                
+                // Update chapter title
+                document.getElementById('ch4-excerpt').innerHTML = '第四章：<span class="fw-light">權力，以及如何失去它</span>';
+                
+                // Update chapter content
+                var chapterContent = document.querySelector('.chapter-content');
+                
+                // Chinese translation of the chapter content
+                chapterContent.innerHTML = `
+                    <p>會議室雖小，但有三個攝像頭。投影屏幕上是本週的殖民地指標。藍色表示可接受。紅色表示失敗。黃色表示...審查。</p>
+                    
+                    <p>常安王站在房間的一角，後背挺直，手中的數據板放在胸前。</p>
+                    
+                    <p>布蘭登·赫茲副主管坐在桌子盡頭，頭部往後仰，眼睛緊盯著數字，彷彿它們有密碼可破。每個人都穿著正式服裝，但只有布蘭登的紅軍領帶系得如此緊，讓他看起來像是一個在第一天上學的孩子。</p>
+                    
+                    <p>"音頻審查報告，"常安以溫和的聲音說道。太溫和了——平靜得可怕。</p>
+                    
+                    <p>他按下了按鈕。屏幕上的一個數字變成了紅色。</p>
+                    
+                    <p>"上週五的事件標記率上升了58%。"</p>
+                    
+                    <p>布蘭登轉動椅子，面向他。</p>
+                    
+                    <p>"可能是因為升級了搜索算法，"他建議道。"你是那麼說的...不是嗎？"</p>
+                    
+                    <p>常安的表情沒有變化。他只是繼續看著屏幕。</p>
+                    
+                    <p>"不，副主管。58%是基於本地區指標的。真實數字是比去年同期上升了176%。"</p>
+                    
+                    <p>布蘭登皺起了眉頭。"真的？我完全不知道——"</p>
+                    
+                    <p>"大多數標記來自C區，"常安繼續道，"你的宿舍的對面，副主管。居住用的空間。"</p>
+                    
+                    <p>屏幕上的另一個數字也變紅了。</p>
+                    
+                    <p>"我們的算法還檢測到對民間超自然現象的異常提及——巫術，鬼魂，死後生活。"</p>
+                    
+                    <p>每次說出關鍵詞，皺紋就會加深在他的眼角。</p>
+                    
+                    <p>"問題是，"常安說道，眼睛盯著牆壁，而不是布蘭登，"居民目錄顯示沒有音頻源。沒有發射機。甚至連個人通訊器都沒有。"</p>
+                    
+                    <p>布蘭登沒有說話。</p>
+                    
+                    <p>"你有什麼要補充的嗎，副主管？"</p>
+                    
+                    <p>布蘭登聳了聳肩。"沒有。不知道為什麼你們會偵測到這些。"</p>
+                    
+                    <p>常安的眼睛終於看向了赫茲。</p>
+                    
+                    <p>"那可能只是幻覺。"</p>
+                    
+                    <p>布蘭登回應了一個微笑，但它比平常少了一些確信。"可能吧。"</p>
+                    
+                    <p>"可能。"常安轉向門口。</p>
+                    
+                    <p>"關於上週的那個意外。如果你的名字再出現在我的案例日誌上，即使是個誤報，我恐怕要上報給局長了。我相信你能理解。"</p>
+                    
+                    <p>他停在門口。</p>
+                    
+                    <p>"抽空來一下我的辦公室，副主管。我有一些...建議的聽力保護設備。也許會有幫助。"</p>
+                    
+                    <p>他再次給了布蘭登一個緊繃的微笑——一個在同情和威脅之間搖擺的表情——然後離開了。</p>
+                    
+                    <p>布蘭登等著，確保他的腳步聲已經消失。</p>
+                    
+                    <p>然後他把手伸進口袋，關掉了那個不存在的發射機。</p>
+                    
+                    <div class="chapter-navigation mt-5 mb-5">
+                        <a href="chapter3.html?lang=zh" class="btn btn-outline-dark" id="prev-chapter-zh">← 上一章</a>
+                        <span class="nav-separator">|</span>
+                        <a href="index.html?lang=zh" class="btn btn-outline-dark" id="home-link-zh">首頁</a>
+                        <span class="nav-separator">|</span>
+                        <a href="#" class="btn btn-primary" id="next-chapter-zh">下一章（即將推出） →</a>
+                    </div>
+                `;
+                
+                // Update document title
+                document.title = '第四章：權力，以及如何失去它 | 火星放逐';
+                
+                // Hide English navigation and show Chinese navigation
+                document.getElementById('home-link').style.display = 'none';
+                document.getElementById('prev-chapter').style.display = 'none';
+                document.getElementById('next-chapter').style.display = 'none';
+                document.getElementById('home-link-zh').style.display = 'inline-block';
+                document.getElementById('prev-chapter-zh').style.display = 'inline-block';
+                document.getElementById('next-chapter-zh').style.display = 'inline-block';
+            } else {
+                // Ensure English is active
+                document.body.classList.remove('lang-zh');
+                document.querySelector('.language-en').classList.add('active');
+                document.querySelector('.language-zh').classList.remove('active');
+                
+                // Make sure English navigation is visible
+                document.getElementById('home-link').style.display = 'inline-block';
+                document.getElementById('prev-chapter').style.display = 'inline-block';
+                document.getElementById('next-chapter').style.display = 'inline-block';
+                
+                // Hide Chinese navigation if it exists
+                var zhHomeLink = document.getElementById('home-link-zh');
+                var zhPrevChapter = document.getElementById('prev-chapter-zh');
+                var zhNextChapter = document.getElementById('next-chapter-zh');
+                if (zhHomeLink) zhHomeLink.style.display = 'none';
+                if (zhPrevChapter) zhPrevChapter.style.display = 'none';
+                if (zhNextChapter) zhNextChapter.style.display = 'none';
+            }
+        });
+    </script>
 
 </body>
 </html> 

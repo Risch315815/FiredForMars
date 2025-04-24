@@ -16,6 +16,32 @@
     <link href="assets/css/theme.min.css" rel="stylesheet">
     <link href="assets/css/user.min.css" rel="stylesheet">
     <link href="styles.css" rel="stylesheet">
+    <style>
+        .language-switcher {
+            text-align: center;
+            margin-bottom: 15px;
+            font-weight: bold;
+            color: #000;
+            font-family: 'Poppins', 'Noto Sans TC', sans-serif;
+        }
+        .language-switcher a {
+            color: #000;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .language-switcher a:hover {
+            text-decoration: underline;
+        }
+        .language-separator {
+            margin: 0 10px;
+        }
+        body, p, h1, h2, h3, h4, h5 {
+            font-family: 'Poppins', sans-serif;
+        }
+        body.lang-zh, .lang-zh p, .lang-zh h1, .lang-zh h2, .lang-zh h3, .lang-zh h4, .lang-zh h5 {
+            font-family: 'Poppins', 'Noto Sans TC', sans-serif;
+        }
+    </style>
 </head>
 
 <body class="overflow-hidden-x">
@@ -37,6 +63,11 @@
                     <div class="col-lg-6 bg-white py-7 py-md-8">
                         <div class="row flex-center">
                             <div class="col-lg-10 text-black text-lg-start" data-zanim-timeline="{}">
+                                <div class="language-switcher">
+                                    <a href="chapter2.html?lang=en" class="language-en active">English</a>
+                                    <span class="language-separator">|</span>
+                                    <a href="chapter2.html?lang=zh" class="language-zh">中文</a>
+                                </div>
                                 <div class="overflow-hidden">
                                     <h1 class="display-3 fs-3 fs-sm-4" id="ch2-excerpt">
                                         Chapter 2:<span class="fw-light"> The Wrong Ears</span>
@@ -89,11 +120,11 @@
                                         It was a long walk back to their neighboring cells. I mean room.</p>
                                         
                                         <div class="chapter-navigation mt-5 mb-5">
-                                            <a href="chapter1.html" class="btn btn-outline-dark">← Previous Chapter</a>
+                                            <a href="chapter1.html" class="btn btn-outline-dark" id="prev-chapter">← Previous Chapter</a>
                                             <span class="nav-separator">|</span>
-                                            <a href="index.html" class="btn btn-outline-dark">Home</a>
+                                            <a href="index.html" class="btn btn-outline-dark" id="home-link">Home</a>
                                             <span class="nav-separator">|</span>
-                                            <a href="chapter3.html" class="btn btn-primary">Next Chapter →</a>
+                                            <a href="chapter3.html" class="btn btn-primary" id="next-chapter">Next Chapter →</a>
                                         </div>
                                     </div>
                                 </div>
@@ -135,6 +166,127 @@
     <script src="assets/js/swiper-bundle.min.js"></script>
     <script src="assets/js/rellax.min.js"></script>
     <script src="assets/js/theme.js"></script>
+    
+    <!-- Language Switcher Script -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Function to get URL parameters
+            function getUrlParameter(name) {
+                name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+                var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+                var results = regex.exec(location.search);
+                return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+            }
+            
+            // Get the language parameter from URL
+            var lang = getUrlParameter('lang') || 'en';
+            
+            // Update the language switcher links
+            document.querySelector('.language-en').href = 'chapter2.html?lang=en';
+            document.querySelector('.language-zh').href = 'chapter2.html?lang=zh';
+            
+            // Update links to maintain language preference
+            document.getElementById('home-link').href = 'index.html?lang=' + lang;
+            document.getElementById('prev-chapter').href = 'chapter1.html?lang=' + lang;
+            document.getElementById('next-chapter').href = 'chapter3.html?lang=' + lang;
+            
+            if (lang === 'zh') {
+                document.body.classList.add('lang-zh');
+                document.querySelector('.language-en').classList.remove('active');
+                document.querySelector('.language-zh').classList.add('active');
+                
+                // Update chapter title
+                document.getElementById('ch2-excerpt').innerHTML = '第二章：<span class="fw-light">錯誤的耳朵</span>';
+                
+                // Update chapter content
+                var chapterContent = document.querySelector('.chapter-content');
+                
+                // Chinese translation of the chapter content
+                chapterContent.innerHTML = `
+                    <p>到了早晨，常安的耳朵痛苦不堪。<br>
+                    螢幕造成的壓力給他帶來了模糊的偏頭痛。耳機壓得太深，切割著已經敏感的軟骨。<br>
+                    到早上7點，他的右耳道已經在流血。</p>
+                    
+                    <p>即便如此，他的房間裡也沒有聲音洩漏出來。</p>
+
+                    <hr class="paragraph-separator">
+
+                    <p>辦公時間結束了。</p>
+                    
+                    <p>常安盯著那個盒子看了很長時間，甚至都沒有碰它。一個放在你公寓門前而沒有被大樓保安沒收的盒子可能意味著很多事情，但也不多。<br>
+                    他最終接受了自己的命運，因為這只是時間問題。<br>
+                    這是一副做工精良的耳機。降噪效果好。有適當的墊子。<br>
+                    沒有人會無緣無故地給他任何東西。<br>
+                    他不在乎。他立即戴上了耳機。沒有刮擦，沒有疼痛。只有濾過聲音的低沉嗡嗡聲。他幾乎又哭了出來。</p>
+                    
+                    <hr class="paragraph-separator">
+                    
+                    <p>那天晚上，接近凌晨1點，沉重的靴子聲在走廊上響起。<br>
+                    金屬敲擊聲。命令聲。一個他認識的聲音——布蘭登的——聲音提高，然後突然中斷。<br>
+                    常安沒有動。他沒有通過窺視孔往外看。他甚至沒有畏縮。<br>
+                    相反，他調高了音量：這蓋過了喊叫聲。拖拽聲。隨後的寂靜。<br>
+                    他繼續工作，遠遠超過了清醒的時間點，直到他的視線模糊，光標在沒有輸入的情況下閃爍。他不記得自己是什麼時候睡著的——只記得幾個小時後帶著僵硬的脖子醒來。<br>
+                    耳機依然戴在頭上。</p>
+                    
+                    <hr class="paragraph-separator">
+                    
+                    <p>第二天，午餐被傳喚取代了。<br>
+                    他被護送到一個沒有窗戶的會議室。刺眼的燈光。一張長桌。<br>
+                    布蘭登坐在對面。他看起來似乎徹夜未眠。<br>
+                    一名軍官宣讀了指控——未經授權的設備傳輸，信號錯誤歸屬，違反設備來源協議。竊聽裝置已標記了革命內容。來自布蘭登的耳機。在他睡覺的時候。<br>
+                    直到他被逮捕後耳機依然在播放。<br>
+                    常安坐著不語。</p>
+                    
+                    <p>布蘭登最終承認了。他給了他耳機。一種善意的行為。<br>
+                    "我們不懲罰善意，"軍官說，毫無溫度地微笑著，"只懲罰疏忽。"<br>
+                    他們被處以輕微的懲罰：書面譴責。減少配給。數週的加強監控。</p>
+                    
+                    <p>沒什麼嚴重的。<br>
+                    沒什麼可以忘記的。</p>
+                    
+                    <p>他們一起走出去。一言不發。不看對方。<br>
+                    回到他們相鄰的牢房——我是說房間——的路很長。</p>
+
+                    <div class="chapter-navigation mt-5 mb-5">
+                        <a href="chapter1.html?lang=zh" class="btn btn-outline-dark" id="prev-chapter-zh">← 上一章</a>
+                        <span class="nav-separator">|</span>
+                        <a href="index.html?lang=zh" class="btn btn-outline-dark" id="home-link-zh">首頁</a>
+                        <span class="nav-separator">|</span>
+                        <a href="chapter3.html?lang=zh" class="btn btn-primary" id="next-chapter-zh">下一章 →</a>
+                    </div>
+                `;
+                
+                // Update document title
+                document.title = '第二章：錯誤的耳朵 | 火星放逐';
+                
+                // Hide English navigation and show Chinese navigation
+                document.getElementById('home-link').style.display = 'none';
+                document.getElementById('prev-chapter').style.display = 'none';
+                document.getElementById('next-chapter').style.display = 'none';
+                document.getElementById('home-link-zh').style.display = 'inline-block';
+                document.getElementById('prev-chapter-zh').style.display = 'inline-block';
+                document.getElementById('next-chapter-zh').style.display = 'inline-block';
+            } else {
+                // Ensure English is active
+                document.body.classList.remove('lang-zh');
+                document.querySelector('.language-en').classList.add('active');
+                document.querySelector('.language-zh').classList.remove('active');
+                
+                // Make sure English navigation is visible
+                document.getElementById('home-link').style.display = 'inline-block';
+                document.getElementById('prev-chapter').style.display = 'inline-block';
+                document.getElementById('next-chapter').style.display = 'inline-block';
+                
+                // Hide Chinese navigation if it exists
+                var zhHomeLink = document.getElementById('home-link-zh');
+                var zhPrevChapter = document.getElementById('prev-chapter-zh');
+                var zhNextChapter = document.getElementById('next-chapter-zh');
+                if (zhHomeLink) zhHomeLink.style.display = 'none';
+                if (zhPrevChapter) zhPrevChapter.style.display = 'none';
+                if (zhNextChapter) zhNextChapter.style.display = 'none';
+            }
+        });
+    </script>
 
 </body>
 </html> 

@@ -16,6 +16,32 @@
     <link href="assets/css/theme.min.css" rel="stylesheet">
     <link href="assets/css/user.min.css" rel="stylesheet">
     <link href="styles.css" rel="stylesheet">
+    <style>
+        .language-switcher {
+            text-align: center;
+            margin-bottom: 15px;
+            font-weight: bold;
+            color: #000;
+            font-family: 'Poppins', 'Noto Sans TC', sans-serif;
+        }
+        .language-switcher a {
+            color: #000;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .language-switcher a:hover {
+            text-decoration: underline;
+        }
+        .language-separator {
+            margin: 0 10px;
+        }
+        body, p, h1, h2, h3, h4, h5 {
+            font-family: 'Poppins', sans-serif;
+        }
+        body.lang-zh, .lang-zh p, .lang-zh h1, .lang-zh h2, .lang-zh h3, .lang-zh h4, .lang-zh h5 {
+            font-family: 'Poppins', 'Noto Sans TC', sans-serif;
+        }
+    </style>
 </head>
 
 <body class="overflow-hidden-x">
@@ -37,6 +63,11 @@
                     <div class="col-lg-6 bg-white py-7 py-md-8">
                         <div class="row flex-center">
                             <div class="col-lg-10 text-black text-lg-start" data-zanim-timeline="{}">
+                                <div class="language-switcher">
+                                    <a href="chapter3.html?lang=en" class="language-en active">English</a>
+                                    <span class="language-separator">|</span>
+                                    <a href="chapter3.html?lang=zh" class="language-zh">中文</a>
+                                </div>
                                 <div class="overflow-hidden">
                                     <h1 class="display-3 fs-3 fs-sm-4" id="ch3-excerpt">
                                         Chapter 3:<span class="fw-light"> The Leash</span>
@@ -105,11 +136,11 @@
                                         <p>The door shut behind him. The fan never stopped spinning.</p>
                                         
                                         <div class="chapter-navigation mt-5 mb-5">
-                                            <a href="chapter2.html" class="btn btn-outline-dark">← Previous Chapter</a>
+                                            <a href="chapter2.html" class="btn btn-outline-dark" id="prev-chapter">← Previous Chapter</a>
                                             <span class="nav-separator">|</span>
-                                            <a href="index.html" class="btn btn-outline-dark">Home</a>
+                                            <a href="index.html" class="btn btn-outline-dark" id="home-link">Home</a>
                                             <span class="nav-separator">|</span>
-                                            <a href="chapter4.html" class="btn btn-primary">Next Chapter →</a>
+                                            <a href="chapter4.html" class="btn btn-primary" id="next-chapter">Next Chapter →</a>
                                         </div>
                                     </div>
                                 </div>
@@ -151,6 +182,133 @@
     <script src="assets/js/swiper-bundle.min.js"></script>
     <script src="assets/js/rellax.min.js"></script>
     <script src="assets/js/theme.js"></script>
+
+    <!-- Language Switcher Script -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Function to get URL parameters
+            function getUrlParameter(name) {
+                name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+                var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+                var results = regex.exec(location.search);
+                return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+            }
+            
+            // Get the language parameter from URL
+            var lang = getUrlParameter('lang') || 'en';
+            
+            // Update the language switcher links
+            document.querySelector('.language-en').href = 'chapter3.html?lang=en';
+            document.querySelector('.language-zh').href = 'chapter3.html?lang=zh';
+            
+            // Update links to maintain language preference
+            document.getElementById('home-link').href = 'index.html?lang=' + lang;
+            document.getElementById('prev-chapter').href = 'chapter2.html?lang=' + lang;
+            document.getElementById('next-chapter').href = 'chapter4.html?lang=' + lang;
+            
+            if (lang === 'zh') {
+                document.body.classList.add('lang-zh');
+                document.querySelector('.language-en').classList.remove('active');
+                document.querySelector('.language-zh').classList.add('active');
+                
+                // Update chapter title
+                document.getElementById('ch3-excerpt').innerHTML = '第三章：<span class="fw-light">束縛</span>';
+                
+                // Update chapter content
+                var chapterContent = document.querySelector('.chapter-content');
+                
+                // Chinese translation of the chapter content
+                chapterContent.innerHTML = `
+                    <p>地球上是23:28。排氣扇發出垂死的喘息聲。房間裡彌漫著合成焦油和共享沉默的臭味。</p>
+                    
+                    <p>雷霆科技的軍官們坐在椅子上圍成一圈，通常的社交面具消失了，只有潛在的惡意透漏出來。</p>
+                    
+                    <p>會議已經持續了四個小時。他們都知道布蘭登·赫茲的原因。</p>
+                    
+                    <p>艾達·金在主持會議，這位上將穿著一件過時的軍服制服，面前放著一杯威士忌，裡面放著兩塊冰。她今天的表情比平常更為嚴峻。</p>
+
+                    <p>"火星殖民地通訊記錄，2085年5月27日，加密級別：最高。為計劃外的軍事法庭記錄。"</p>
+                    
+                    <p>她敲了敲桌子。</p>
+                    
+                    <p>"我想知道為什麼赫茲還沒有被遣送回地球。"</p>
+                    
+                    <p>她的眼睛直視著維克拉姆·辛格，他是火星安全部門的主任。</p>
+                    
+                    <p>"他沒有觸犯任何值得驅逐的條例，上將，"辛格回答道。"而且送他回來比把他留在那裡風險更大。"</p>
+                    
+                    <p>她嘆了口氣，"他幾乎毀了一切，維克。他設法滲透了我們的員工群體，甚至差點影響到王。現在我們需要擔心的是，那個聖人主義者王可能會對赫茲產生同情。那怎麼會不是一個因素？"</p>
+                    
+                    <p>他聳聳肩，"但是王很聰明，我不覺得他是安全隱患。他每週審核500多萬條記錄，即使是最謹慎的極端分子也無法躲過他。而且他從來不會被說服去相信極端主義思想。"</p>
+                    
+                    <p>"保持王的隔離，如果有必要的話，可以——"</p>
+                    
+                    <p>這時，門被打開了。</p>
+                    
+                    <p>一位矮個子亞裔男子走了進來，手裡拿著一本厚厚的筆記本，用拇指示意金的助手退出。艾達·金的肩膀僵硬了，但她沒有阻止。</p>
+                    
+                    <p>男子咧嘴一笑，露出牙齒。</p>
+                    
+                    <p>"啊，又開會嗎？"他在桌邊坐下。"還在談論我的侄子嗎？我看過他的成績。真可惜。可憐的孩子把他自己給毀了。"</p>
+                    
+                    <p>王先生在空中揮舞著筆記本，彷彿拿著一個玩具，但那是一件武器。</p>
+                    
+                    <p>"他現在來到了錯誤的公司，做了錯誤的敵人。可惜，可惜。" 他打開了筆記本。"我想這有一些問題，需要董事會開會討論。"</p>
+                    
+                    <p>他的瘦手指翻閱著頁面。金的眼神冷了下來。</p>
+                    
+                    <p>"王先生，這是火星殖民地的軍事會議。我們尊重您的意見，但——"</p>
+                    
+                    <p>"但什麼？"他嘲笑道。"你認為你在操控一條狗的項圈，但其實是另一條狗在看著你。"</p>
+                    
+                    <p>他倚靠在椅子上，凝視著在場的每個人，一條笑紋在他嘴邊浮現。</p>
+                    
+                    <p>"但如果你能保證我的侄子有某種真實的意義，某種生活價值，我可能會提前退休。"</p>
+                    
+                    <p>艾達·金喝完了她的威士忌。</p>
+                    
+                    <p>"我認為，"她說道，"部署布蘭登·赫茲的時間已經到了。把他派到王的公寓隔壁。讓他睡得好一點。"</p>
+                    
+                    <div class="chapter-navigation mt-5 mb-5">
+                        <a href="chapter2.html?lang=zh" class="btn btn-outline-dark" id="prev-chapter-zh">← 上一章</a>
+                        <span class="nav-separator">|</span>
+                        <a href="index.html?lang=zh" class="btn btn-outline-dark" id="home-link-zh">首頁</a>
+                        <span class="nav-separator">|</span>
+                        <a href="chapter4.html?lang=zh" class="btn btn-primary" id="next-chapter-zh">下一章 →</a>
+                    </div>
+                `;
+                
+                // Update document title
+                document.title = '第三章：束縛 | 火星放逐';
+                
+                // Hide English navigation and show Chinese navigation
+                document.getElementById('home-link').style.display = 'none';
+                document.getElementById('prev-chapter').style.display = 'none';
+                document.getElementById('next-chapter').style.display = 'none';
+                document.getElementById('home-link-zh').style.display = 'inline-block';
+                document.getElementById('prev-chapter-zh').style.display = 'inline-block';
+                document.getElementById('next-chapter-zh').style.display = 'inline-block';
+            } else {
+                // Ensure English is active
+                document.body.classList.remove('lang-zh');
+                document.querySelector('.language-en').classList.add('active');
+                document.querySelector('.language-zh').classList.remove('active');
+                
+                // Make sure English navigation is visible
+                document.getElementById('home-link').style.display = 'inline-block';
+                document.getElementById('prev-chapter').style.display = 'inline-block';
+                document.getElementById('next-chapter').style.display = 'inline-block';
+                
+                // Hide Chinese navigation if it exists
+                var zhHomeLink = document.getElementById('home-link-zh');
+                var zhPrevChapter = document.getElementById('prev-chapter-zh');
+                var zhNextChapter = document.getElementById('next-chapter-zh');
+                if (zhHomeLink) zhHomeLink.style.display = 'none';
+                if (zhPrevChapter) zhPrevChapter.style.display = 'none';
+                if (zhNextChapter) zhNextChapter.style.display = 'none';
+            }
+        });
+    </script>
 
 </body>
 </html> 

@@ -1199,6 +1199,171 @@ The title still carried weight.
 But the way he said it—it had changed.
 
 ---------------------------------------------------------------------------------------------------
+@ Chapter 6 ver 4
+
+Brendan launched the public version of the new content-tiering system two days after the test phase concluded.
+
+The test had been smooth: rebellion levels low, censorship handled cleanly, response metrics within tolerance; most importantly, it reduced the electric consumption by 22% compared to the last 12 months.
+His team was glowing. They applauded the rollout. Brendan gave a sharp, short address: innovation, future, efficiency.
+
+Changan was hiding in his office, waiting for this shenanigan to pass. He hadn't slept more than four hours in days. His request for more personnel must have fell into a blackhole.
+
+
+The first night, flagged posts surged. The moderation system strained; Changan and Min barely kept up.
+Brendan, reviewing the metrics between power allocation tasks, saw the spike.
+“Perfect time to isolate disruptors,” he said to his team. “We tag them now. We can clean the pipes early.”
+He authorized a batch of account removals. His team celebrated.
+
+Changan noticed the rebellion score rising but assumed it was expected noise.
+
+
+The second night, the spiral began: 
+Users noticed that complaining about content denial led to better access.
+A new belief took hold: post more, trigger faster, unlock the good stuff.
+Forums filled with test logs. Screenshots. Timestamps. “It worked for me.” “You just have to say something controversial.”
+
+Emotional traffic exploded.
+System bandwidth throttled. Packet collisions. Terminal overheating.
+District C-9 went dark for fourteen minutes.
+
+People panicked.
+Someone shouted, “They’re draining oxygen next.”
+A vending station was smashed. One technician was injured. No fatalities.
+The riot lasted thirty-eight minutes.
+The fear lasted days.
+
+
+The board convened the next morning.
+
+Brendan submitted his logs. 
+They confirmed:
+He launched under his own credentials.
+He skipped Changan’s sign-off.
+He failed to monitor post-launch conditions.
+
+Changan stood with his hands behind his back.
+“The anomalies were visible after 36 hours,” he said. “I didn’t escalate.”
+He paused.
+“I accept responsibility for failing to enforce the review-to-flag threshold.”
+
+The board nodded. Neutral. Cold.
+
+
+Brendan was stripped of his position as Director of Power Allocation Office, demoted as a member of the Media & Emotional Wellbeing Department. Changan was reprimanded; the budget and computation quota of the whole department was cut.
+Both were reassigned.
+
+Room 6B was a converted dorm unit. A shared desk. A narrow kitchenette. A curtained-off shower stall. A double-bunk bed.
+One high window let in pale, reddish light. Phobos drifted past once a day.
+Changan sat at the console, reviewing flagged posts. Brendan entered. Set down his ration packet.
+
+
+“Why did you help me?” Brendan asked.
+Changan didn’t turn. “Because that week, they were smiling. They worked like they believed in something.”
+“I’d forgotten what that felt like. So... thank you, Officer Hertz.”
+
+The title still carried weight.
+But the way he said it—it had changed.
+
+
+---------------------------------------------------------------------------------------------------
+@ Chapter 6 ver 5
+
+Chapter 6: Uplift, Overheat (Civilian View)
+
+Chad was used to his post being censored, but last week his post stayed longer than usual.
+ 
+"The government s numbing us with all the content they feed us!"
+It didn’t disappear. No warning. No lockout.
+Weird.
+
+He tried again.
+"The government should open free brothels, not just phone us in with AI that can barely flirt!"
+Still there when he woke up.
+He grasped the chance to post more provokative contents, and got extensive views.
+
+---
+
+A few days later, something even better happened: his content feeds were faster, crisper. He could even have that "law-abiding consensual intercourse" simulation he always wanted with the AI.
+After busting a load, he proudly shared his "invention" with the forum, claiming that "the mind-numbing AI can now generate hot pillow talk; all you have to do is ask".
+The post exploded. "Finally", "How?", "Why can't I do it?", thousands of replies flooded in within minutes.
+"I guess it's the reward for a truth-teller." Chad replied with pride, pictured the envious face of all the less fortunate incels, and decided to bust another load.
+However, his account was banned. Whatever, he had dozens of them. But now he had to pee.
+
+After he returned from the toilet, he heard police banging on the doors across the street.
+"Guess it's unethical to frame your neighbor." He said to himself. "Well, never likes that guy anyways."
+
+He tries to start the same intercourse simulation with his backup account, but only got "I'm sorry, but explicit content is against the policy."
+He was furious. "How dare you refuse me! You think I'm like those beta male out there? I'll bend you to my knees!"
+He furiously posted the way he manipulated the AI into the intercourse simulation, the prompt, the setting, the things to avoid. The post garnered thousands of replies as well. He got access to the explicit content again.
+
+Better yet, this time his account is not banned.
+
+He quickly posted his magnum opus: "The secret to unlock the good stuff: provocative content. The more views you get, the hotter the sex is. 24 hours, once-in-a-lifetime chance."
+The whole internet exploded. It was like two ant colony fighting each others to death: crashing, screaming for attention; rivals tearing each other apart with long-hoard dirt while audience thundered with blood in their eyes.
+
+It was bloodbath, and Chad was enjoying every bit of it.
+
+---
+
+Without notice, the page froze. He refreshed it. No response.
+The lights were cut off. Darkness fell like the sky crumbled.
+Outside, someone yelled "They're draining oxygen!" Chad heard scream and shout all over the place. Doors opened, doors slammed shut. He couldn't even move a bit.
+
+Suddenly, he heard his window smashed, forcing him to hide under his bed. Several masked figures burst in, one grabbed his ration stash, another two ripped his screen and computer tower from his desk. He heard smashing and stumping, then the footsteps left the unit.
+
+He hid under his bed long after the screaming died down outside.
+
+------------------------
+
+The next morning, Brendan and Changan stood before officer Naidu, Head of the Board of Security and Stability. Deputy Director of the Power Allocation Office, Youssef Ahsan, was seated on the side, but he insisted on standing. There were armed guards at each exit.
+
+Brendan and Changan were not cuffed, but there were no where to run. Youssef locked his eyes on the seat in front of him.
+
+
+“The Board notes and commends Deputy Director Youssef Ahsan for immediate corrective action. Grid stabilization initiated under his command limited the blackout to 86 minutes." Naidu read. "The board designate you as the new Director of the Power Allocation Office."
+"I thank the board for his decision." Said Youssef, without raising his head. "Do I have the permission to leave?"
+"You do."
+Youssef left the room without looking at Brendan once. 
+
+---
+
+Naidu turned to Changan.
+
+“Changan Wang, Director of the Media and Emotion Wellbeing. You failed to escalate review anomalies visible within thirty-six hours of the initial surge. Your department’s moderation backlog exceeded threshold by 212%.”
+
+“May I have a statement?"
+Naidu nodded. 
+"At the beginning of the development of the new system, I encouraged Officer Hertz, and failed to properly assign personnel (distribute workforce), which lead to the exceeded backlog." Changan’s voice was even.
+"Right before the launch, we were overworked and exhausted, so I circumvented the standard procedure by only giving Officer Hertz verbal permission, and asking him to launch under in his name."
+Brendan looked at Changan, incredulous. "That would be my statement."
+
+Naidu pressed against his earpiece. After 60 seconds, he stated the verdict.
+“Your department’s computational quota will be reduced by 10% for the next quarter. Your salary will be cut by 20% for 6 months. Reassignment pending.”
+
+---
+
+Naidu turned to Brendan.
+
+“Brendan Hertz, former Director of the Power Allocation Office. You authorized deployment of an content-tiering system without adequate internal testing, without approval from the assigned director of the department that is responsible.”
+Naidu paused.
+“This resulted in a 423% spike in emotional traffic, a 17% rise in flagged instability, and a critical overload in District C-9’s grid.”
+Naidu stared at Brendan.
+“You are hereby removed from your post and reassigned to a subordinate position in the Media and Emotion wellbeing. Effective immediately.”
+
+---
+
+"Finally, you have been relocated to room 6B. You will be sharing accommodations until further notice. Case closed."
+
+--------------------------------
+
+Room 6B had a double-bunk bed, like a prison cell. Changan sat at the shared desk, reviewing flagged posts.
+“Why did you help me?” Brendan asked.
+Changan didn’t turn. “Because that week, they were smiling. They worked like they believed in something.”
+“I’d forgotten what that felt like. So... thank you, Officer Hertz.”
+
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 @ Chapter 7 ver1
 
@@ -2060,7 +2225,138 @@ let's make some adjustments to Brendan's mentality:
 - Of course, eventually, his games become riskier, and he finally messed with the wrong people, and was sent to Mars.
 - He laid low, became a rule abiding officer as he think others expect, with his welcoming smile. This lasted for a few years, and the dumb (compared to his previous oe in a thousand earth colleagues) colleagues on Mars look up to and admires him, so he had been calm. Until he met Changan, who was the person he wanted to spite in years.
 
+--------------------------------------------------------------------
 
+Let's dive deeper into Mars colony's exploitative nature by letting Changan see things he couldn't believe:
+
+---
+During the training of the new flagging model, the Medial and emotional wellbeing team decided to save the conspiracy theory-ish posts for manual inspection, since reading all the hilariously delusional posts and sharing them with the whole team had always been the few and far between entertainment between censoring gory posts and making lifeless propaganda.
+
+Luckily, Changan got one this afternoon.
+"Okay let's see... People are used as guinae pigs for biomedical experiments. Come on~ have some creativity! Wow~ They have "evidence", too. Dude, you expect people to believe AI generative slop like this? A tumor can never grow that big."
+Changan censored that post, muttering that it is too common to even share with his team. However, he did took sometime reading that post, and was amazed how professional the name of those cancer sound.
+
+However, the second day, he was informed that the office had a gas leak, and it would take some weeks to repair. Weirdly, the message also noticed them that the console was compromised so they won't have access to the database during the repair, so they won't be able to work remotely.
+
+Changan was glad that he can have extra weeks off, but he immediately felt something was wrong, and related the incidence to yesterday's post. He wrote down all the name of the cancers he read about in the post (at least as accurate as possible) and the name of that mysterious institute on a piece of paper, and hid them in the (I'll think of a place later~).
+
+He washed his face, brushed his teeth, made hisself breakfast. It was only 9:20 am, and there was nothing for him to do.
+He set on the sofa for a while, then lay down on his bed, staring at the ceiling. He felt thirsty, so he went to the kitchen for some water, then see the burlap bag with the red velvet. His head is still spinning: he never seem to know if he should cut Brendan out of his life and be thankful that his career is still intact, or thank Brendan for all the adventure he took him on. Maybe both. He reconsiliated with himself.
+
+---
+And a few days later, still during the department shutdown, when he was at the cafeteria, he heard that Brendan was admitted to the hospital. He just went on with his normal life, but noted this mentally.
+
+a week later, he made a call to the power allocation office to know that Brendan is still at the hospital. He decided to pay him a visit. Brendan was weak, but he still gave Changan a smile and told him everything will be fine, because they are giving him special treatment for his condition at X institute (maybe I'll call it Cronenberg memorial cancer center?) 
+
+Then, Brendan told Changan: "I don't think I have a lot of time. I just want you to know that you are a tender and patient person, and anyone would be lucky to have you. Now that it's no longer a crime to be gay, please find someone that will make you happy. Now go, go live your life."
+
+of course, the X institute is the one mentioned on the post. Changan took the whole night to think if he should react, and the next day when he's back to visit Brendan, he's already gone, and the nurse at the nursing station inform him that Brendan had been sent to the X institute.
+
+
+Changan immediately scheduled a meeting with Youssef. Youssef scheduled him at the end of the day.
+
+The first thing Changan said was: "There was a mutual friend of ours."
+Youssef cursed with the shape of his mouth, and pressed a button. "No one's listening now."
+"I censored a post claiming that Cronenberg memorial hospital are testing new drugs with significant side effects on rare cancers. Brendan was diagnosed with one of those rare cancers, and he was sent to the Cronenberg memorial hospital yesterday. Can you intervene?"
+Youssef was furious. "Those bastards!" He immediately entered the internal communication system: "Get me the Director of Cronenberg memorial hospital." After 3 beeps, someone picked up. "This is deputy director of the Mars colony, Youssef Ahsan. Director Brendan Hertz was directed a projrct before his admission, and his former team is facing technical difficulty that requires his assistance. Please see to it that he returns to the condition suitable of functioning." After a short period of silence, "Thank you. Blessed day." Youssef hung up.
+
+The next day, Brendan was transferred back to the former hospital. Doctor claim that he just needed an examination for diagnosis whose equipment only exist at Cronenberg memorial hospital. Brendan was released in a month and a half and went back to work. 
+
+----------------------------------------------------------------------
+
+Chapter X: The Post You Should Have Ignored
+
+When developing the new flagging model, the Media and emotional wellbeing department decided on saving the wildest conspiracy posts for "manual inspection": it may as well be their only entertainment outlet during the office hours.
+
+Changan got a "Conspiracy theory post alert" in the late afternoon. He was excited.
+"Come on come on come on, get daddy the good stuff~" he muttered as he opened the post.
+
+“The government is experimenting on patients with rare cancer at Cronenberg Memorial Hospital with novel therapy that can cause severe side effect? Bo~ring~. Am I supposed to believe these AI slop monstrosities are real cancer patients? Kids these days lack originality.” He uttered as he spinned in his office chair. 
+
+He did read through the whole post before censoring it. Synovial sarcoma? Clear-cell carcinoma? Malignant peripheral nerve sheath tumors? He probably asked chatbot for the 10 rarest cancer or something.
+
+And then he went home, had a goodnight sleep.
+
+-----
+
+The next morning before work, Changan received a message:
+"Dear Media and Emotional wellbeing officers, the department office underwent gas leak last night; luckily no one was harmed. However, the office, including the database center, would be shut down for at least 3 weeks for repairment; data access would be restricted. Please enjoy your paid time off, and patiently wait for further notice."
+
+Changan felt joy surging over him. He walked through his morning routine, but in half the normal speed; however, the censored post and this morning's notice got stuck in his throat like a hair ball. He scribbled down what he remembered about the post: "Cronenberg Memorial Hospital", "Synthetic Coma", "Clear Cell Cancer", "Malignant..." whatever. The name's too long.
+He convinced himself to let the feeling go, and returned to his fluffy paid day-off.
+
+
+9:20 a.m. Nothing to do. Nothing to think about.
+He strolled into the kitchen, and glimpsed the red velvet on the burlap bag.
+Were they ever good together? Or was that what Brendan tried to make him think?
+Changan was still messy inside, so he decided to give himself more time to think.
+
+-----
+
+A few days later during lunch, Changan bumped into Sam and Jimmy in the food court.
+"Hey guys, how have you been?", asked Changan.
+"It's awesome! I can sleep in everyday and play 'When Empire Rise' as long as I want!"
+Changan frowned. Isn't that game pure neo-libertarian propaganda? Also, it was made hastily in 40 days to fill quota, 30 years ago, by the old Media and Wellbeing department. 
+Guess Brendan was right. These boys are dumb.
+
+"Oh, have you heard? Mr. Hertz was sick. We're going to visit him in the hospital this afternoon, are you coming, Mr. Wang?"
+Changan wasn't ready for this at all; he could only wave his hands haphazardly and mutter, "Oh well I have something to do or something like that. You should just go without me, hehehe..."
+Sam and Jimmy looked at each other, confused. But eventually they just stood up and said goodbye to Changan before they left.
+"What was that?" Jimmy asked. "I think they had a fight." Sam speculated. 
+Changan heard everything they whispered. He rolled his eyes.
+
+------------------
+
+A few weeks into his paid vacation, Changan kept bumping into snacks he thought Brendan would have liked in the canteen. He finally decided to share his exploration with Brendan. As a friend.
+
+"I found some snacks you might like, should we meet during lunch tomorrow?" He wrote the message in the most casual way possible, after rewriting his draft a thousand times.
+"I'm still in the hospital."
+
+-----
+
+Changan didn't want to bother the nurses rushing in and out wards, so he took his time looking for Brendan's room.
+
+He knocked, opened the door, but immediately apologized and tried to leave.
+"Chan-gan."
+His body froze, stuck at the door-half-closed position, his eyes trembling. But then he quickly stepped into the room, pressing the door close with his back against it.
+He couldn't stop his tears from falling, but he didn't want anyone else to see him like this.
+
+Brendan just waited as Changan cried himself dry, then he opened his arms and asked Changan for a hug.
+
+---
+
+"I've thought about it. It's actually pretty cool to be a cancer survivor." Brendan chuckled. "They said I have 'clear-cell carcinoma' in my kidney. Such an exquisite name, sounds like crystal."
+Changan still couldn't say anything, just tightly holding his pale, brittle hand.
+"I'll be going to Cronenberg Memorial Medical Center tomorrow. Hope the food's better there." Brendan said as he crunched on Changan's snack. "You are a patient and tender person. You deserve someone who truely cares about you and makes you happy."
+Changan shook his head with tears in his eyes. "No, you will, okay?" Brendan smiled, covering his other hand on Changan's.
+
+---
+
+Changan stood by the window, replaying what Brendan said over and over again in his head. He couldn't tell which Brendan is the real one: the scheming yet charismatic one, or the vulnerably genuine man he met this afternoon. 
+No matter which one it is, Brendan would never be there to figure it out with him.
+
+All of a sudden, something hit him. He grabbed his scribble of that post that shut down the whole department: "Cronenberg Memorial". "Clear Cell Cancer".
+
+Brendan is in danger.
+
+-------------------
+
+The next morning, he reached Youssef's office, and scheduled a meeting immediately. Youssef picked up shortly after the AI assistant, and scheduled their meeting right before office hour was over.
+
+---
+
+Brendan entered the room. "There's this mutual friend of ours..."
+Youssef cussed, pressed a button. "Room is clear. Go on."
+"I received a post reporting the human experience at Cronenberg Memorial Hospital, and the post mentioned a list of rare cancer. The next day, the media and wellbeing department was shutdown, till this day." Changan explained. "Brendan was diagnosed with one of the cancer on that list, and he was sent to Cronenberg Memorial Hospital this morning."
+Youssef was furious. "Those bastards!" He immediately called the director of Cronenberg Memorial Hospital with intercommunication system. "Director of Power Allocation Office, Brendan Hertz, his previous project requires his oversight. Please return him with full function at once."
+
+---
+
+The next day, Brendan was transferred back to the original hospital. The doctor told him he was at the Cronenberg Memorial Hospital for its exclusive diagnostic equipment, though Brendan didn't remember having any test.
+
+Six weeks and several resection surgery later, he was cured, and discharged.
+
+---------------------------------------------------------------------------------------------------------------------------
 
 
 

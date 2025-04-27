@@ -65,6 +65,8 @@ Still, no sound leaked from his room.
 
 --
 
+Office hour was over.
+
 Changan stared at the box for a long time before even touching it. A box left right in front of your door without being confiscated by the building guard could mean a lot, but not much.
 He finally accepted his fate, since it's only a matter of time.
 It was a well-made headphone. Noise-canceling. Proper padding.
@@ -85,16 +87,16 @@ The headphones were still on.
 The next day, lunch was replaced with a summons.
 He was escorted to a windowless conference room. Harsh light. A long table.
 Brendan sat on the other side. He looked like he hadn’t slept at all.
-An officer read out the charges—unauthorized equipment transmission, signal misattribution, breach of device origin protocol. The wiretap had flagged revolutionary content. From Brendan’s headphone. While he was asleep.
-Until it kept playing after he was arrested.
-Changan sat silent.
+An officer read out the charges—unauthorized equipment transmission, signal misattribution, breach of device origin protocol. The built-in flagging system picked up sensitive content from Brendan’s headphone, while he was asleep. It kept playing after he was arrested.
+Changan stayed silent.
 
-Brendan eventually confessed. He gave him the headphones. An act of kindness.
+Last night, after waiting for hours in the interrogation room for the police officers to handle paperwork, the investigator finally entered the room. Brendan immediately confessed that he gave his own headphone to Changan Wang, Director of Media and Emotion Wellbeing, who he had absolutely nothing to do with.
+Then he received hours of further interrogation because it was caught on surveillance camera that he entered Changan Wang's room the night before, with a "suspicious object" in his hand. 
+After that, Brendan stayed silent as well.
+
 "We don’t punish kindness,” the officer said, smiling with no warmth, “only negligence.”
 They were dismissed with minor penalties: written censure. Docked rations. Weeks of increased monitoring.
 
-Nothing serious.
-Nothing forgettable.
 
 They walked out together. Said nothing. Didn’t look at each other.
 It was a long walk back to their neighboring cells. I mean room.
@@ -106,59 +108,37 @@ It was 23:28 on Earth.
 
 The exhaust fan wheezed like it was dying. The room stank of synthetic tar and shared silence.
 
-A junior programmer sat on a cardboard box, hunched over, vape pen glowing between his fingers. His badge ID was still on—he hadn’t even taken his lanyard off since lunch.
-
-    “I don’t get it,” he muttered. “We push overtime past regulation, sleep at our desks, eat nutrient packs like lab rats. For what? My buddy freelances and clears twice my pay.”
-
+A junior programmer sat on a cardboard box, hunched over, vape pen glowing between his fingers. His badge ID was still on.
+“I don’t get it,” he muttered. “We push overtime, sleep at our desks, eat nutrient packs like lab rats. For what? My buddy freelances and clears twice my pay.”
 He took another hit. Coughed.
+“I’ve been thinking about just… leaving. Starting something small.”
 
-    “I’ve been thinking about just… leaving. Starting something small. A sandbox site. Something light.”
-
-On the far side of the room, the senior programmer didn’t look up. He was older, greying at the edges, sleeves rolled up in that way that didn’t look rebellious—just permanent.
-
-    “You ever heard of SynThread?” he asked.
-
+On the other side of the room, the senior programmer didn’t look up. He was older, greying at the edges, sleeves rolled up in that way that didn’t look rebellious, just permanent.
+“You ever heard of SynThread?” he asked.
 The junior blinked. “No?”
-
 The older man gave a small laugh. “Exactly.”
 
 He flicked ash into the tray. The silence between them stretched, filled only by the hum of electricity through too-thin walls.
-
-    “They launched maybe five years ago. AI-generated media tools. Content bundling for internal comms, morale packages, even a failed Mars pitch. They had real velocity. The kind of team that coded through blackouts.”
-
-    “What happened?”
+“They launched maybe five years ago. AI-powered automatic review of government tenders, budget auditing, system maintenance, and propaganda generation. They had real velocity. The kind of team that coded through blackouts.”
+“What happened?”
 
 The man leaned back. Exhaled smoke toward the ceiling fan.
-
-    “One of their employees posted a meme. Nothing huge. Something about Mars—‘Come for the oxygen, stay because you weren’t cleared to leave.’ Got flagged as behavioral nonalignment.”
-
+“One of their employees posted a meme mocking the government. Got flagged as behavioral nonalignment.”
 The junior snorted. “Seriously?”
-
-    “Seriously. Four days later, their compute quota vanished. Just gone. Couldn’t render a homepage without buffering.”
-
-    “They couldn’t buy it back?”
-
-    “Tried. Bought state algorithm bonds, 0% return. CEO even took a private loan from a ghost shell. Didn’t know it was cartel-adjacent. When they refused to hand over their servers as collateral, that was it.”
-
-The junior was quiet now.
-
-    “Seventy-two hours. Whole company folded. No trial, no statement. Just gone. Like a process being killed in the background.”
+“Seriously. Four days later, their compute quota vanished, couldn’t render a homepage without buffering.”
+“Damn.”
+“Emptied their capital to purchase state issued computation bonds, 0% return. Resorted to loan sharks since they were flagged; still got bankrupt shortly after. No one had any idea where their core algorithm went.”
 
 The fan kept whirring. Both men stared ahead.
 
-    “Guess I’m lucky I’m at a state corp, huh?” the junior said, trying for a smile.
-
+“Guess I’m lucky I’m at a state-owned corp, huh?” the junior said, trying for a smile.
 The older man nodded slowly. “Yeah. Lucky.”
-
 The junior stood, dropped his vape cartridge into the bin.
+“You heading back in?”
+“Sure.”
 
-    “You heading back in?”
-
-    “I never left.”
-
-The door hissed open as the junior walked out, his silhouette framed for a moment against the corporate hallway—white floors, red logo pulsing above a glass door:
-
-StreamWave | National AI Communication Solutions
+Their badge read:
+Leona State Government | Construction and Maintenance Section
 
 The door shut behind him. The fan never stopped spinning.
 
@@ -172,82 +152,61 @@ Blue for acceptable. Red for failure. Yellow for… review.
 
 Officer Naidu, Head of the Board of Security and Stability, was putting on his earpiece. The rest of the board members were listening from the other side. Or so they claim.
 
-    “Electric usage has exceeded safe tolerance for the fourth consecutive night,” Naidu said. “Citizen satisfaction remains within acceptable parameters.”
+“Electric usage has exceeded safe tolerance for the fourth consecutive night,” Naidu said. “Citizen satisfaction remains within acceptable parameters.”
 
 Changan let out a breath.
 Acceptable. Good. He was safe.
-
-    “I am more than honored to serve the government with all that I can do,” he said meekly.
+“I am more than honored to serve the government with all that I can do,” he said meekly.
 
 Naidu didn’t look up.
 
 Brendan snared. “I once heard a man burn down a house because there was a mouse in it. Would you applaud that man, Director Wang?”
 
 Changan smiled.
-
-    “Wouldn’t it be worse to let the mouse run around the house?”
+ “Wouldn’t it be worse to let the mouse run around the house?”
 
 Brendan’s eyes narrowed. He turned to face the officer.
-
-    “I suggest that we limit broadcasted content to reruns of approved programming, not exceeding 1080p in fidelity.”
+“I suggest that we limit broadcasted content to reruns of approved programming, not exceeding 1080p in fidelity.”
 
 Changan leaned forward, hands flat on the table.
-
-    “The content we provide includes morale-boosting interactive programs and low-delay generative emotion-stabilizing protocols. They’re not luxury. They’re containment. The most efficient shepherd to keep the masses from going astray.”
-
+“The content we provide includes morale-boosting interactive programs and low-delay generative emotion-stabilizing protocols. They’re not luxury. They’re containment. The most efficient shepherd to keep the masses from going astray.”
 His voice rose, confidence solidifying.
-
-    “Let me remind you: the Media & Emotional Wellbeing Department has been serving this government for over 180 years—preserving clarity, alignment, and preventing public dissonance through repeated, validated engagement structures. Static 2D visuals are like shoving nutrients down the throat. Through interactive programming, we condition compliance through repeated actions and affirmations.”
-
-He smiled, thin and proud.
-
-    “Don’t you want the masses to truly receive the message of the government? I guess the Power Allocation Office should be looking for electric waste somewhere else and redistribute them.”
+“Let me remind you: the Media & Emotional Wellbeing Department has been serving this government for over 180 years; preserving clarity, alignment, and preventing public dissonance through repeated, validated engagement structures. Static 2D visuals are like shoving nutrients down the throat. Through interactive programming, we condition compliance through repeated actions and affirmations.”
+He smiled victoriously. "The colony needs us."
 
 Brendan waited three seconds, just long enough for silence to settle.
-
-    “What marvelous work you are doing,” he said dryly. “I absolutely admire it. Now, shall we discuss the technical aspects of your operation?”
+“What marvelous work you are doing,” he said dryly. “I absolutely admire it. Now, shall we discuss the technical aspects of your operation?”
 
 Changan blinked.
-
-    “Sure.”
+“Sure.”
 
 Brendan turned his tablet slightly toward the board.
-
-    “Your generative loops have been requesting the same audiovisual assets every single time they’re triggered. Nothing is cached. The average packet is 160MB. They are triggered 11.6 times per minute per user.”
+“Your generative loops have been requesting the same audiovisual assets every single time they’re triggered. Nothing is cached. The average packet is 160MB. They are triggered 11.6 times per minute per user.”
 
 Silence.
-
-    “We… we have been under-resourced,” Changan said stiffly. “Not everyone on my team is a trained developer.”
+“We… we have been under-resourced,” Changan said stiffly. “Not everyone on my team is a trained developer.”
 
 Brendan waited again. Three seconds.
-
-    “I would like to propose an optimization framework. Is that acceptable to the Director of Media & Emotional Wellbeing?”
-
+“I would like to propose an optimization framework. Is that acceptable to the Director of Media & Emotional Wellbeing?”
 Changan nodded, though his posture had tightened.
-
-    “We’ll be differentiating content access by behavioral profile. Citizens flagged with high rebellion index—impulsivity, performance volatility, algorithmic drift—will receive prioritized access to more engaging, higher-demand content.”
-
-    “You want to reward instability?” Changan asked.
-
-    “Prevention is always better than penalty,” Brendan said smoothly. “If you let a plant grow freely for a short time, you know which one to nip in the bud.”
-
+“We’d like to give citizens with high rebellion index access to more engaging, higher-demand content; citizens with low rebellion index would be restricted to static content.”
+“You want to reward instability?” Changan asked.
+“We should give them some incentives to swim against the stream.” Brendan said smoothly. “That way we'll just have to wait for them at the top of the waterfall.”
 He smiled like an angel.
 
-    “Based on correlation models between rebellion score and content demand, your overall energy draw will decrease by 17.3%. I sincerely ask the board to grant a one-month trial for implementation.”
+“Based on correlation models between rebellion score and content demand, your overall energy draw will decrease by 17.3%. I sincerely ask the board to grant a one-month trial for implementation.”
 
 Naidu raised a hand.
-
-    “Please give the board a moment to discuss.”
-
+“Please give the board a moment to discuss.”
 He pressed a finger to his earpiece. Thirty seconds passed.
+“Approved. You’ll be co-reporting weekly progress. Dismissed.”
 
-    “Approved. Trial basis. You’ll be co-reporting weekly progress. Dismissed.”
+---
 
 The room emptied with a shuffle of chairs and bureaucratic stillness.
 
 Changan was still processing what happened as he stumbled toward the exit. Brendan walked past him, crisp and calm.
-
-    “What a pleasant meeting, Director Wang,” Brendan said over his shoulder. “I promise the Power Allocation Office will be sending its finest to aid in our cause.”
+“What a pleasant meeting, Director Wang,” Brendan said over his shoulder. “I promise the Power Allocation Office will be sending its finest to aid in our cause.”
 
 He smiled.
 
@@ -257,21 +216,21 @@ Changan could not do the same.
 ----------------------------------------------------------------------------------------------------------------------------------
 @ Chapter 5: Welcome Committee
 
-The department’s fluorescent panels flickered slightly overhead, casting a sterile, bluish light on a cluster of aging desks and paper-thin monitors. The space smelled like reprocessed air, warmed plastic, and synthetic caffeine powder—a scent that clung to every exhausted staffer present.
+The Media and emotional wellbeing department’s pale fluorescent panels flickered slightly overhead, casting a sterile, bluish light on wrappers of junk food scattered all over the desk.
 
-Changan arrived precisely on time. As he scanned his badge, his eyes flicked across the room. Something was off: 
-One of the guest terminals was active. Logged in.
-And seated beside it, chatting comfortably with two junior team members, was Brendan.
+Changan arrived precisely on time. As he scanned his badge, his eyes flicked across the room. Something was off.
+
+Officer Hertz was there.
 
 Sleeves rolled, expression easy, Brendan was reviewing a screen with a sharp but amused look.
 “That’s a clean loop,” he said, gesturing to a line of code. “Mind if I borrow this structure for the content scheduler back home?”
 The junior beamed. “Of course, Officer Hertz.”
 There were two mugs of tea on the desk. Someone had offered him the second. Brendan didn’t even glance at Changan as he entered.
-He hadn’t taken Changan’s desk. But he may as well have.
+He hadn’t taken Changan’s desk, but he may as well have.
 
 
 Brendan had been in the department for a few days.
-He came bearing energy bars, fresh notepads, carefully packaged pens. Small morale boosters. Symbolic kindness.
+He came bearing energy drinks and snack. Small morale boosters, symbolic kindness.
 Then came the shared code sessions. Brendan led them with a teacher’s flair:
 “Let’s try reducing the fetch frequency on these API calls, just for fun.”
 The room hummed. Screens flickered with test cases and optimization outputs. Enthusiasm swelled.
@@ -294,12 +253,10 @@ No one argued. No one asked Changan.
 
 He found Brendan alone at the water station late that week.
 “You’re not helping,” Changan said. “You’re distracting them from the work we’re actually supposed to do.”
-Brendan took a sip. “And yet they’re building something. Not bad for a department of clipboard jockeys.”
+Brendan took a sip. “And yet they’re building something. Not bad for a department of frat bros.”
 Changan’s jaw tightened. “They’re overexcited amateurs. You know that.”
-Brendan turned, smiling slightly. “They’re not that bright. But they’re easy to manipulate.”
-
-He walked off.
-And he was right. And that made it worse.
+Brendan shrugged. “Yeah, I do.” 
+Then he walked off.
 
 
 The room emptied. Again.
@@ -313,68 +270,97 @@ And started again.
 ----------------------------------------------------------------------------------------------------------------------------------
 @ Chapter 6: Uplift, Overheat
 
-Brendan launched the public version of the new content-tiering system two days after the test phase concluded.
+Chad was used to his post being censored, but last week his post stayed longer than usual.
+ 
+"The government s numbing us with all the content they feed us!"
+It didn’t disappear. No warning. No lockout.
+Weird.
 
-The test had been smooth: rebellion levels low, censorship handled cleanly, response metrics within tolerance; most importantly, it reduced the electric consumption by 22% compared to the last 12 months.
-His team was glowing. They applauded the rollout. Brendan gave a sharp, short address: innovation, future, efficiency.
+He tried again.
+"The government should open free brothels, not just phone us in with AI that can barely flirt!"
+Still there when he woke up.
+He grasped the chance to post more provokative contents, and got extensive views.
 
-Changan was hiding in his office, waiting for this shenanigan to pass. He hadn't slept more than four hours in days. His request for more personnel must have fell into a blackhole.
+---
 
+A few days later, something even better happened: his content feeds were faster, crisper. He could even have that "law-abiding consensual intercourse" simulation he always wanted with the AI.
+After busting a load, he proudly shared his "invention" with the forum, claiming that "the mind-numbing AI can now generate hot pillow talk; all you have to do is ask".
+The post exploded. "Finally", "How?", "Why can't I do it?", thousands of replies flooded in within minutes.
+"I guess it's the reward for a truth-teller." Chad replied with pride, pictured the envious face of all the less fortunate incels, and decided to bust another load.
+However, his account was banned. Whatever, he had dozens of them. But now he had to pee.
 
-The first night, flagged posts surged. The moderation system strained; Changan and Min barely kept up.
-Brendan, reviewing the metrics between power allocation tasks, saw the spike.
-“Perfect time to isolate disruptors,” he said to his team. “We tag them now. We can clean the pipes early.”
-He authorized a batch of account removals. His team celebrated.
+After he returned from the toilet, he heard police banging on the doors across the street.
+"Guess it's unethical to frame your neighbor." He said to himself. "Well, never likes that guy anyways."
 
-Changan noticed the rebellion score rising but assumed it was expected noise.
+He tries to start the same intercourse simulation with his backup account, but only got "I'm sorry, but explicit content is against the policy."
+He was furious. "How dare you refuse me! You think I'm like those beta male out there? I'll bend you to my knees!"
+He furiously posted the way he manipulated the AI into the intercourse simulation, the prompt, the setting, the things to avoid. The post garnered thousands of replies as well. He got access to the explicit content again.
 
+Better yet, this time his account is not banned.
 
-The second night, the spiral began: 
-Users noticed that complaining about content denial led to better access.
-A new belief took hold: post more, trigger faster, unlock the good stuff.
-Forums filled with test logs. Screenshots. Timestamps. “It worked for me.” “You just have to say something controversial.”
+He quickly posted his magnum opus: "The secret to unlock the good stuff: provocative content. The more views you get, the hotter the sex is. 24 hours, once-in-a-lifetime chance."
+The whole internet exploded. It was like two ant colony fighting each others to death: crashing, screaming for attention; rivals tearing each other apart with long-hoard dirt while audience thundered with blood in their eyes.
 
-Emotional traffic exploded.
-System bandwidth throttled. Packet collisions. Terminal overheating.
-District C-9 went dark for fourteen minutes.
+It was bloodbath, and Chad was enjoying every bit of it.
 
-People panicked.
-Someone shouted, “They’re draining oxygen next.”
-A vending station was smashed. One technician was injured. No fatalities.
-The riot lasted thirty-eight minutes.
-The fear lasted days.
+---
 
+Without notice, the page froze. He refreshed it. No response.
+The lights were cut off. Darkness fell like the sky crumbled.
+Outside, someone yelled "They're draining oxygen!" Chad heard scream and shout all over the place. Doors opened, doors slammed shut. He couldn't even move a bit.
 
-The board convened the next morning.
+Suddenly, he heard his window smashed, forcing him to hide under his bed. Several masked figures burst in, one grabbed his ration stash, another two ripped his screen and computer tower from his desk. He heard smashing and stumping, then the footsteps left the unit.
 
-Brendan submitted his logs. 
-They confirmed:
-He launched under his own credentials.
-He skipped Changan’s sign-off.
-He failed to monitor post-launch conditions.
+He hid under his bed long after the screaming died down outside.
 
-Changan stood with his hands behind his back.
-“The anomalies were visible after 36 hours,” he said. “I didn’t escalate.”
-He paused.
-“I accept responsibility for failing to enforce the review-to-flag threshold.”
+------------------------
 
-The board nodded. Neutral. Cold.
+The next morning, Brendan and Changan stood before officer Naidu, Head of the Board of Security and Stability. Deputy Director of the Power Allocation Office, Youssef Ahsan, was seated on the side, but he insisted on standing. There were armed guards at each exit.
 
-
-Brendan was stripped of his position as Director of Power Allocation Office, demoted as a member of the Media & Emotional Wellbeing Department. Changan was reprimanded; the budget and computation quota of the whole department was cut.
-Both were reassigned.
-
-Room 6B was a converted dorm unit. A shared desk. A narrow kitchenette. A curtained-off shower stall. A double-bunk bed.
-One high window let in pale, reddish light. Phobos drifted past once a day.
-Changan sat at the console, reviewing flagged posts. Brendan entered. Set down his ration packet.
+Brendan and Changan were not cuffed, but there were no where to run. Youssef locked his eyes on the seat in front of him.
 
 
+“The Board notes and commends Deputy Director Youssef Ahsan for immediate corrective action. Grid stabilization initiated under his command limited the blackout to 86 minutes." Naidu read. "The board designate you as the new Director of the Power Allocation Office."
+"I thank the board for his decision." Said Youssef, without raising his head. "Do I have the permission to leave?"
+"You do."
+Youssef left the room without looking at Brendan once. 
+
+---
+
+Naidu turned to Changan.
+
+“Changan Wang, Director of the Media and Emotion Wellbeing. You failed to escalate review anomalies visible within thirty-six hours of the initial surge. Your department’s moderation backlog exceeded threshold by 212%.”
+
+“May I have a statement?"
+Naidu nodded. 
+"At the beginning of the development of the new system, I encouraged Officer Hertz, and failed to properly assign personnel (distribute workforce), which lead to the exceeded backlog." Changan’s voice was even.
+"Right before the launch, we were overworked and exhausted, so I circumvented the standard procedure by only giving Officer Hertz verbal permission, and asking him to launch under in his name."
+Brendan looked at Changan, incredulous. His mouth opened, then shut. 
+"That would be my statement."
+
+Naidu pressed against his earpiece. After 60 seconds, he stated the verdict.
+“Your department’s computational quota will be reduced by 10% for the next quarter. Your salary will be cut by 20% for 6 months. Reassignment pending.”
+
+---
+
+Naidu turned to Brendan.
+
+“Brendan Hertz, former Director of the Power Allocation Office. You authorized deployment of an content-tiering system without adequate internal testing, without approval from the assigned director of the department that is responsible.”
+Naidu paused.
+“This resulted in a 423% spike in emotional traffic, a 17% rise in flagged instability, and a critical overload in District C-9’s grid.”
+Naidu stared at Brendan.
+“You are hereby removed from your post and reassigned to a subordinate position in the Media and Emotion wellbeing. Effective immediately.”
+
+---
+
+"Finally, you have been relocated to room 6B. You will be sharing accommodations until further notice. Case closed."
+
+--------------------------------
+
+Room 6B had a double-bunk bed, like a prison cell. Changan sat at the shared desk, reviewing flagged posts.
 “Why did you help me?” Brendan asked.
 Changan didn’t turn. “Because that week, they were smiling. They worked like they believed in something.”
 “I’d forgotten what that felt like. So... thank you, Officer Hertz.”
-
-The title still carried weight.
-But the way he said it—it had changed.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 @ Chapter 7: The Long Thread
@@ -545,7 +531,110 @@ Brendan smirked. "Perhaps I should wake you in the middle of the night to keep y
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
+----------------------------------------------------------------------------------------------------------------------------------
 
+----------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+@ Chapter X: The Post You Should Have Ignored
+
+When developing the new flagging model, the Media and Emotional Wellbeing Department decided on saving the wildest conspiracy posts for "manual inspection": it had been their only entertainment outlet during office hours.
+
+Changan got a "Conspiracy Theory Post Alert" in the late afternoon. He was excited.
+
+"Come on, come on, come on, get daddy the good stuff~" he muttered as he opened the post.
+
+“The government is experimenting on patients with rare cancer at Cronenberg Memorial Hospital with novel therapies that can cause severe side effects? Bo~ring~ Am I supposed to believe these AI slop monstrosities are real cancer patients? Kids these days lack originality.” He spun lazily in his office chair, mocking the text.
+
+Still, he read through the whole post before censoring it. Synovial sarcoma? Clear-cell carcinoma? Malignant peripheral nerve sheath tumors? He probably asked a chatbot for the 10 rarest cancers or something.
+
+He flagged it, deleted it, and went home.
+Had a good night's sleep.
+
+---
+
+The next morning before work, Changan received a message:
+
+"Dear Media and Emotional Wellbeing Officers, the department office underwent a gas leak last night; luckily no one was harmed. However, the office, including the database center, will be shut down for at least three weeks for repairs; data access will be restricted. Please enjoy your paid time off and patiently wait for further notice."
+
+Joy surged over him. He walked through his morning routine at half his normal speed.
+
+But the censored post and this morning's notice stuck in his throat like a hairball. He scribbled down what he remembered about the post: "Conanberg Memorial Hospital", "Synthetic Coma", "Clear Cell Cancer", "Malignant..." whatever. The name's too long.
+He convinced himself to let the feeling go and returned to his fluffy paid day-off.
+
+9:20 a.m. Nothing to do. Nothing to think about.
+He strolled into the kitchen and glimpsed the red velvet on the burlap bag.
+Were they ever good together? Or was that what Brendan tried to make him think?
+Changan was still messy inside, so he decided to give himself more time to think.
+
+---
+
+A few days later during lunch, Changan bumped into Sam and Jimmy in the food court.
+
+"Hey guys, how have you been?" asked Changan.
+"It's awesome! I can sleep in every day and play 'When Empires Rise' as long as I want!"
+Changan frowned. Wasn't that game pure neo-libertarian propaganda? Also, it was made hastily in 40 days to fill a quota, 30 years ago, by the old Media and Wellbeing Department.
+Guess Brendan was right. These boys are dumb.
+
+"Oh, have you heard? Mr. Hertz was sick. We're going to visit him in the hospital this afternoon, are you coming, Mr. Wang?"
+Changan wasn't ready for this at all; he could only wave his hands haphazardly and mutter, "Oh well I have something to do or something like that. You should just go without me, hehehe..."
+Sam and Jimmy looked at each other, confused. But eventually, they just stood up and said goodbye to Changan before they left.
+"What was that?" Jimmy asked. "I think they had a fight," Sam speculated.
+
+Changan heard everything they whispered. He rolled his eyes.
+
+---
+
+A few weeks into his paid vacation, Changan kept bumping into snacks he thought Brendan would have liked in the canteen. He finally decided to share his exploration with Brendan. As a friend.
+
+"I found some snacks you might like, should we meet during lunch tomorrow?" He wrote the message in the most casual way possible, after rewriting his draft a thousand times.
+"I'm still in the hospital."
+
+---
+
+Changan didn't want to bother the nurses rushing in and out of wards, so he took his time looking for Brendan's room.
+
+He knocked, opened the door, but immediately apologized and tried to leave.
+"Chan-gan."
+His body froze, stuck at the door-half-closed position, his eyes trembling. But then he quickly stepped into the room, pressing the door closed with his back against it.
+He couldn't stop his tears from falling, but he didn't want anyone else to see him like this.
+Brendan just waited as Changan cried himself dry, then he opened his arms and asked Changan for a hug.
+
+"I've thought about it. It's actually pretty cool to be a cancer survivor." Brendan chuckled. "They said I have 'clear-cell carcinoma' in my kidney. Such an exquisite name, sounds like crystal."
+Changan still couldn't say anything, just tightly holding his pale, brittle hand.
+"I'll be going to Cronenberg Memorial Medical Center tomorrow. Hope the food's better there," Brendan said as he crunched on Changan's snack. "You are a patient and tender person. You deserve someone who truly cares about you and makes you happy."
+Changan shook his head with tears in his eyes. 
+"No, you will, okay?" Brendan smiled, covering his other hand over Changan's.
+
+---
+
+Changan stood by the window, replaying what Brendan said over and over again in his head. He couldn't tell which Brendan was the real one: the scheming yet charismatic one, or the vulnerably genuine man he met this afternoon.
+No matter which one it was, Brendan would never be there to figure it out with him.
+
+All of a sudden, something hit him. He grabbed his scribble of that post that shut down the whole department: "Conanberg Memorial". "Clear Cell Cancer".
+
+Brendan was in danger.
+
+---
+
+The next morning, he reached Youssef's office and scheduled a meeting immediately. Youssef picked up shortly after the AI assistant and scheduled their meeting right before office hours were over.
+
+Changan entered the room. "There's this mutual friend of ours."
+
+Youssef cursed, pressed a button. "Room is clear. Go on."
+
+"I received a post reporting the human experiments at Cronenberg Memorial Hospital, and the post mentioned a list of rare cancers. The next day, the Media and Wellbeing Department was shut down, till this day." Changan explained. "Brendan was diagnosed with one of the cancers on that list, and he was sent to Cronenberg Memorial Hospital this morning."
+
+Youssef was furious. "Those bastards!" He immediately called the director of Cronenberg Memorial Hospital with the intercommunication system. "Director of Power Allocation Office, Brendan Hertz, his previous project requires his oversight. Please return him with full function at once."
+
+---
+
+The next day, Brendan was transferred back to the original hospital. The doctor told him he was at Cronenberg Memorial Hospital for its exclusive diagnostic equipment, though Brendan didn't remember having any test.
+
+Six weeks and several resection surgeries later, he was cured and discharged.
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 
 
